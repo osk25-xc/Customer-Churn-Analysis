@@ -1,0 +1,2001 @@
+Customer_ID,Age,Gender,Tenure_Months,Contract,Payment_Method,Internet_Service,Subscription,Monthly_Charges,Total_Charges,Support_Calls,Churn
+CUST10000,56,Male,38,One Year,Electronic Check,Fiber Optic,Basic,145.76,5541.6,6,No
+CUST10001,69,Female,53,Month-to-Month,Bank Transfer,DSL,Standard,148.22,7910.98,2,No
+CUST10002,46,Female,61,One Year,Electronic Check,DSL,Standard,91.42,5597.77,0,No
+CUST10003,32,Female,36,One Year,Electronic Check,Fiber Optic,Basic,29.19,1079.54,2,No
+CUST10004,60,Female,40,Month-to-Month,Bank Transfer,Fiber Optic,Standard,90.33,3704.25,8,No
+CUST10005,25,Male,30,Month-to-Month,Credit Card,DSL,Standard,136.0,4130.28,4,Yes
+CUST10006,38,Male,9,Month-to-Month,Mailed Check,DSL,Basic,108.4,1002.5,6,No
+CUST10007,56,Male,64,Two Year,Electronic Check,No Internet,Premium,113.6,7330.25,2,No
+CUST10008,36,Female,33,Month-to-Month,Credit Card,DSL,Standard,31.05,1044.82,3,No
+CUST10009,40,Male,52,One Year,Electronic Check,Fiber Optic,Premium,33.85,1767.64,0,No
+CUST10010,28,Male,14,Month-to-Month,Credit Card,DSL,Basic,36.56,513.93,2,Yes
+CUST10011,28,Female,53,Month-to-Month,Bank Transfer,Fiber Optic,Premium,137.57,7386.36,6,Yes
+CUST10012,41,Female,59,Month-to-Month,Credit Card,DSL,Basic,88.36,5285.7,3,No
+CUST10013,70,Male,41,Month-to-Month,Electronic Check,Fiber Optic,Basic,122.9,5118.89,1,Yes
+CUST10014,53,Male,68,Two Year,Electronic Check,DSL,Standard,34.99,2477.41,4,No
+CUST10015,57,Male,68,One Year,Electronic Check,Fiber Optic,Standard,140.59,9653.28,4,No
+CUST10016,41,Male,8,Month-to-Month,Credit Card,Fiber Optic,Standard,126.75,1087.69,1,No
+CUST10017,20,Male,2,Two Year,Mailed Check,Fiber Optic,Standard,49.22,167.84,10,Yes
+CUST10018,39,Male,41,Month-to-Month,Electronic Check,Fiber Optic,Basic,133.64,5512.92,5,No
+CUST10019,70,Female,55,Two Year,Bank Transfer,Fiber Optic,Standard,54.25,2994.15,9,No
+CUST10020,19,Female,16,Month-to-Month,Mailed Check,DSL,Standard,46.69,804.41,3,No
+CUST10021,41,Female,62,Month-to-Month,Credit Card,Fiber Optic,Standard,54.35,3427.33,0,No
+CUST10022,61,Male,48,Month-to-Month,Bank Transfer,DSL,Standard,138.29,6733.14,2,Yes
+CUST10023,47,Female,30,Month-to-Month,Bank Transfer,Fiber Optic,Premium,139.03,4215.16,8,Yes
+CUST10024,55,Male,12,Month-to-Month,Electronic Check,DSL,Standard,62.77,822.32,9,Yes
+CUST10025,19,Male,35,One Year,Electronic Check,DSL,Standard,111.71,3967.35,6,No
+CUST10026,38,Female,11,Two Year,Electronic Check,DSL,Premium,107.85,1204.03,5,Yes
+CUST10027,50,Male,64,One Year,Mailed Check,Fiber Optic,Standard,124.85,8049.61,0,No
+CUST10028,29,Male,50,Month-to-Month,Mailed Check,Fiber Optic,Basic,58.55,2981.51,8,Yes
+CUST10029,39,Female,21,Month-to-Month,Bank Transfer,Fiber Optic,Basic,86.32,1862.11,8,No
+CUST10030,61,Female,69,Month-to-Month,Electronic Check,DSL,Standard,106.8,7420.54,0,Yes
+CUST10031,42,Female,48,Month-to-Month,Credit Card,DSL,Basic,23.41,1140.08,5,Yes
+CUST10032,66,Male,20,One Year,Electronic Check,Fiber Optic,Standard,68.98,1425.95,6,No
+CUST10033,44,Female,67,Month-to-Month,Electronic Check,Fiber Optic,Basic,110.47,7462.06,1,No
+CUST10034,59,Female,44,Month-to-Month,Credit Card,DSL,Basic,52.84,2373.9,9,No
+CUST10035,45,Male,33,Month-to-Month,Mailed Check,Fiber Optic,Standard,144.5,4817.37,7,Yes
+CUST10036,33,Female,61,Two Year,Mailed Check,Fiber Optic,Premium,23.92,1466.87,7,No
+CUST10037,32,Female,9,Month-to-Month,Bank Transfer,Fiber Optic,Standard,144.55,1320.03,5,Yes
+CUST10038,64,Female,68,Month-to-Month,Electronic Check,No Internet,Premium,48.18,3308.34,8,No
+CUST10039,68,Male,35,Month-to-Month,Electronic Check,No Internet,Premium,26.35,964.18,2,No
+CUST10040,61,Male,65,Month-to-Month,Electronic Check,Fiber Optic,Basic,58.02,3830.69,1,No
+CUST10041,69,Male,8,Month-to-Month,Bank Transfer,DSL,Basic,122.22,1064.09,1,No
+CUST10042,20,Male,45,Month-to-Month,Bank Transfer,Fiber Optic,Standard,117.82,5317.82,5,No
+CUST10043,54,Female,47,One Year,Electronic Check,Fiber Optic,Premium,47.15,2217.56,6,No
+CUST10044,68,Male,40,Month-to-Month,Credit Card,DSL,Standard,45.58,1868.12,5,No
+CUST10045,24,Male,54,One Year,Electronic Check,Fiber Optic,Premium,103.54,5634.37,10,No
+CUST10046,38,Female,46,Two Year,Electronic Check,No Internet,Basic,79.55,3714.49,2,No
+CUST10047,26,Female,47,One Year,Credit Card,No Internet,Basic,123.0,5864.32,4,No
+CUST10048,56,Female,15,Month-to-Month,Electronic Check,DSL,Standard,23.14,427.34,7,No
+CUST10049,35,Male,19,Month-to-Month,Credit Card,Fiber Optic,Standard,99.35,1897.65,5,Yes
+CUST10050,21,Male,26,One Year,Mailed Check,Fiber Optic,Basic,114.99,3083.14,1,No
+CUST10051,42,Male,52,One Year,Credit Card,DSL,Basic,149.14,7766.32,6,Yes
+CUST10052,31,Female,22,Month-to-Month,Electronic Check,Fiber Optic,Basic,108.24,2444.74,7,Yes
+CUST10053,67,Female,21,One Year,Electronic Check,Fiber Optic,Standard,50.14,1120.18,3,Yes
+CUST10054,26,Male,51,Month-to-Month,Credit Card,Fiber Optic,Premium,34.06,1805.05,0,Yes
+CUST10055,43,Female,38,Month-to-Month,Electronic Check,DSL,Premium,103.32,3952.7,1,Yes
+CUST10056,70,Female,20,Month-to-Month,Electronic Check,Fiber Optic,Standard,88.01,1793.23,3,No
+CUST10057,19,Female,29,Month-to-Month,Credit Card,No Internet,Standard,136.89,4024.68,6,No
+CUST10058,37,Male,51,Month-to-Month,Credit Card,Fiber Optic,Standard,114.46,5857.42,1,No
+CUST10059,45,Female,4,One Year,Bank Transfer,Fiber Optic,Basic,86.27,347.11,5,No
+CUST10060,64,Female,55,Month-to-Month,Electronic Check,Fiber Optic,Basic,72.47,4042.06,1,No
+CUST10061,24,Male,71,Month-to-Month,Bank Transfer,DSL,Basic,72.57,5199.0,6,No
+CUST10062,61,Male,28,Month-to-Month,Electronic Check,Fiber Optic,Premium,49.42,1449.43,1,No
+CUST10063,25,Female,4,Month-to-Month,Electronic Check,DSL,Premium,22.25,103.67,2,No
+CUST10064,64,Female,22,Month-to-Month,Credit Card,No Internet,Standard,94.74,2168.37,8,Yes
+CUST10065,52,Male,45,One Year,Credit Card,DSL,Standard,47.61,2157.07,3,No
+CUST10066,31,Male,67,One Year,Mailed Check,Fiber Optic,Basic,47.08,3243.49,4,No
+CUST10067,34,Female,66,One Year,Bank Transfer,Fiber Optic,Standard,36.3,2440.75,8,No
+CUST10068,53,Female,34,One Year,Mailed Check,No Internet,Standard,44.65,1573.08,6,No
+CUST10069,67,Female,55,Month-to-Month,Mailed Check,DSL,Standard,24.13,1416.81,7,Yes
+CUST10070,57,Female,1,Month-to-Month,Credit Card,DSL,Basic,107.65,137.64,10,Yes
+CUST10071,21,Male,72,Month-to-Month,Credit Card,DSL,Premium,72.18,5215.14,2,No
+CUST10072,19,Female,38,Month-to-Month,Credit Card,Fiber Optic,Standard,93.0,3578.58,10,No
+CUST10073,23,Female,6,Two Year,Mailed Check,DSL,Premium,102.8,641.24,10,Yes
+CUST10074,59,Male,25,Month-to-Month,Bank Transfer,DSL,Premium,146.42,3713.28,3,Yes
+CUST10075,21,Female,17,Month-to-Month,Electronic Check,DSL,Premium,28.87,518.32,6,No
+CUST10076,46,Male,61,Two Year,Bank Transfer,Fiber Optic,Basic,74.33,4620.58,3,No
+CUST10077,35,Female,12,Two Year,Electronic Check,DSL,Basic,51.97,684.37,1,No
+CUST10078,43,Female,6,One Year,Credit Card,DSL,Basic,81.97,491.84,9,Yes
+CUST10079,61,Male,27,Month-to-Month,Electronic Check,DSL,Basic,139.66,3851.37,5,Yes
+CUST10080,51,Male,8,Month-to-Month,Bank Transfer,Fiber Optic,Standard,114.12,945.98,8,Yes
+CUST10081,27,Female,65,Month-to-Month,Mailed Check,Fiber Optic,Standard,106.05,6925.27,1,No
+CUST10082,53,Female,57,Month-to-Month,Electronic Check,Fiber Optic,Standard,77.36,4447.83,0,Yes
+CUST10083,31,Female,40,Month-to-Month,Electronic Check,No Internet,Basic,107.24,4352.63,7,Yes
+CUST10084,48,Male,14,Month-to-Month,Electronic Check,No Internet,Premium,24.21,383.15,0,No
+CUST10085,65,Female,35,Two Year,Bank Transfer,Fiber Optic,Basic,96.21,3430.21,0,No
+CUST10086,32,Male,48,Month-to-Month,Electronic Check,Fiber Optic,Basic,91.99,4430.2,2,Yes
+CUST10087,25,Male,56,One Year,Electronic Check,Fiber Optic,Standard,65.06,3740.38,4,No
+CUST10088,31,Female,49,One Year,Electronic Check,No Internet,Standard,46.2,2336.76,8,No
+CUST10089,40,Male,13,Month-to-Month,Credit Card,Fiber Optic,Standard,124.98,1649.76,10,No
+CUST10090,57,Female,61,One Year,Electronic Check,Fiber Optic,Basic,27.0,1719.42,9,No
+CUST10091,38,Female,49,Month-to-Month,Bank Transfer,Fiber Optic,Standard,29.06,1481.44,1,No
+CUST10092,33,Female,46,Month-to-Month,Electronic Check,No Internet,Basic,77.27,3565.34,0,Yes
+CUST10093,62,Female,62,One Year,Bank Transfer,DSL,Basic,52.83,3293.28,0,No
+CUST10094,35,Female,8,Month-to-Month,Electronic Check,DSL,Standard,116.91,939.41,7,Yes
+CUST10095,64,Male,43,Two Year,Credit Card,Fiber Optic,Basic,102.44,4485.84,9,No
+CUST10096,70,Male,20,Month-to-Month,Electronic Check,DSL,Basic,120.43,2463.77,9,Yes
+CUST10097,41,Female,39,One Year,Bank Transfer,Fiber Optic,Standard,62.21,2457.86,9,No
+CUST10098,43,Female,49,Month-to-Month,Mailed Check,DSL,Premium,116.27,5709.86,1,No
+CUST10099,42,Male,64,Month-to-Month,Mailed Check,DSL,Premium,132.1,8502.8,8,Yes
+CUST10100,62,Male,62,Month-to-Month,Credit Card,No Internet,Standard,64.89,4075.71,8,Yes
+CUST10101,58,Male,54,One Year,Credit Card,Fiber Optic,Basic,64.19,3536.45,1,No
+CUST10102,46,Male,9,Two Year,Bank Transfer,Fiber Optic,Basic,136.99,1329.9,2,Yes
+CUST10103,32,Female,37,Two Year,Bank Transfer,DSL,Basic,26.47,1022.88,1,No
+CUST10104,62,Female,49,Month-to-Month,Electronic Check,DSL,Standard,65.52,3251.08,5,Yes
+CUST10105,18,Male,41,One Year,Bank Transfer,Fiber Optic,Standard,35.43,1489.62,6,No
+CUST10106,42,Female,17,One Year,Credit Card,Fiber Optic,Standard,23.77,486.78,5,No
+CUST10107,24,Male,21,One Year,Electronic Check,Fiber Optic,Standard,34.67,743.7,2,Yes
+CUST10108,26,Female,51,Month-to-Month,Electronic Check,No Internet,Basic,76.06,3913.44,2,Yes
+CUST10109,41,Male,59,One Year,Electronic Check,No Internet,Standard,109.3,6521.2,1,No
+CUST10110,18,Female,39,Two Year,Credit Card,No Internet,Basic,57.61,2248.36,1,No
+CUST10111,61,Male,55,Month-to-Month,Electronic Check,Fiber Optic,Standard,130.46,7204.24,10,No
+CUST10112,25,Male,41,Two Year,Electronic Check,DSL,Standard,76.89,3216.63,4,No
+CUST10113,41,Female,39,One Year,Electronic Check,Fiber Optic,Standard,145.87,5707.53,10,No
+CUST10114,28,Male,13,Month-to-Month,Credit Card,Fiber Optic,Standard,144.04,1902.79,10,No
+CUST10115,68,Female,64,Month-to-Month,Bank Transfer,DSL,Standard,120.53,7762.52,7,Yes
+CUST10116,34,Female,11,Month-to-Month,Electronic Check,Fiber Optic,Basic,141.21,1595.51,5,No
+CUST10117,25,Male,19,Month-to-Month,Electronic Check,DSL,Basic,111.92,2137.08,8,Yes
+CUST10118,52,Female,11,Two Year,Electronic Check,Fiber Optic,Standard,136.43,1594.55,10,No
+CUST10119,52,Female,46,Month-to-Month,Mailed Check,DSL,Basic,50.74,2338.47,4,No
+CUST10120,50,Female,45,Two Year,Credit Card,Fiber Optic,Standard,64.9,2995.47,9,No
+CUST10121,22,Female,1,Two Year,Credit Card,DSL,Standard,117.88,125.02,3,No
+CUST10122,59,Female,40,Month-to-Month,Electronic Check,Fiber Optic,Premium,75.19,3054.33,8,No
+CUST10123,56,Male,19,Two Year,Bank Transfer,Fiber Optic,Premium,128.85,2465.69,9,No
+CUST10124,58,Female,72,Two Year,Credit Card,Fiber Optic,Basic,134.09,9668.59,10,No
+CUST10125,45,Female,72,One Year,Electronic Check,No Internet,Premium,58.96,4257.71,4,Yes
+CUST10126,24,Female,61,One Year,Electronic Check,Fiber Optic,Standard,127.05,7795.33,0,No
+CUST10127,26,Female,12,Two Year,Electronic Check,No Internet,Standard,40.05,532.15,4,Yes
+CUST10128,25,Female,61,One Year,Bank Transfer,DSL,Basic,63.45,3883.79,4,No
+CUST10129,29,Male,33,Month-to-Month,Mailed Check,DSL,Premium,87.34,2980.16,4,No
+CUST10130,51,Female,45,Two Year,Credit Card,DSL,Basic,49.44,2250.58,1,No
+CUST10131,50,Male,69,One Year,Bank Transfer,DSL,Premium,95.3,6621.58,5,No
+CUST10132,65,Male,8,One Year,Electronic Check,Fiber Optic,Basic,95.23,783.47,4,Yes
+CUST10133,40,Male,25,Month-to-Month,Credit Card,DSL,Standard,46.9,1221.89,1,No
+CUST10134,41,Male,46,One Year,Bank Transfer,Fiber Optic,Standard,123.43,5753.38,9,Yes
+CUST10135,54,Female,30,Month-to-Month,Electronic Check,Fiber Optic,Basic,102.11,3115.41,7,Yes
+CUST10136,52,Male,47,Two Year,Mailed Check,Fiber Optic,Basic,61.31,2910.13,5,No
+CUST10137,61,Male,49,Month-to-Month,Electronic Check,Fiber Optic,Standard,50.18,2483.66,10,Yes
+CUST10138,57,Female,47,Month-to-Month,Electronic Check,Fiber Optic,Basic,134.24,6385.17,9,No
+CUST10139,39,Female,18,Month-to-Month,Credit Card,DSL,Standard,128.65,2327.52,10,No
+CUST10140,44,Female,66,Month-to-Month,Credit Card,DSL,Standard,49.87,3328.42,2,No
+CUST10141,52,Male,68,One Year,Bank Transfer,Fiber Optic,Premium,24.63,1689.99,8,No
+CUST10142,18,Female,33,Two Year,Electronic Check,Fiber Optic,Standard,124.59,4137.27,10,No
+CUST10143,52,Female,36,Two Year,Bank Transfer,Fiber Optic,Basic,100.02,3615.99,10,No
+CUST10144,54,Male,19,Month-to-Month,Credit Card,No Internet,Basic,33.11,717.77,3,No
+CUST10145,64,Female,28,Month-to-Month,Credit Card,Fiber Optic,Basic,96.36,2771.27,2,No
+CUST10146,31,Female,40,Two Year,Mailed Check,Fiber Optic,Premium,78.78,3207.29,6,No
+CUST10147,20,Female,15,Two Year,Bank Transfer,DSL,Premium,120.69,1832.79,7,Yes
+CUST10148,18,Female,41,Month-to-Month,Electronic Check,Fiber Optic,Basic,47.18,1985.4,6,No
+CUST10149,22,Male,39,Month-to-Month,Bank Transfer,Fiber Optic,Basic,78.91,3129.57,0,No
+CUST10150,43,Female,2,Month-to-Month,Electronic Check,DSL,Premium,40.31,139.66,0,No
+CUST10151,31,Female,63,Two Year,Electronic Check,DSL,Premium,144.48,9108.25,4,Yes
+CUST10152,56,Male,29,One Year,Credit Card,Fiber Optic,Premium,121.24,3613.25,7,No
+CUST10153,44,Female,66,Month-to-Month,Mailed Check,Fiber Optic,Premium,115.77,7687.36,9,No
+CUST10154,26,Male,51,Month-to-Month,Electronic Check,DSL,Standard,109.73,5688.88,10,No
+CUST10155,32,Female,10,Two Year,Bank Transfer,Fiber Optic,Basic,75.03,751.28,2,No
+CUST10156,32,Male,14,Month-to-Month,Electronic Check,DSL,Standard,140.03,1985.18,7,Yes
+CUST10157,43,Male,51,Month-to-Month,Bank Transfer,No Internet,Standard,29.48,1513.88,2,No
+CUST10158,59,Male,39,One Year,Credit Card,DSL,Standard,124.42,4929.34,3,No
+CUST10159,30,Male,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,47.98,1375.45,9,No
+CUST10160,68,Female,3,Month-to-Month,Electronic Check,Fiber Optic,Basic,62.12,270.41,6,No
+CUST10161,49,Male,70,Two Year,Bank Transfer,No Internet,Basic,87.53,6210.34,2,No
+CUST10162,56,Female,27,Two Year,Mailed Check,DSL,Standard,121.75,3354.03,3,No
+CUST10163,66,Male,2,Two Year,Bank Transfer,Fiber Optic,Basic,129.01,324.6,7,Yes
+CUST10164,69,Male,38,Two Year,Credit Card,Fiber Optic,Standard,95.89,3713.84,3,No
+CUST10165,49,Male,3,One Year,Mailed Check,Fiber Optic,Premium,72.39,284.55,8,Yes
+CUST10166,21,Female,16,Two Year,Electronic Check,Fiber Optic,Premium,143.05,2327.49,3,No
+CUST10167,47,Male,40,Month-to-Month,Bank Transfer,Fiber Optic,Standard,52.05,2150.28,3,No
+CUST10168,54,Female,2,One Year,Mailed Check,No Internet,Standard,124.4,338.54,4,No
+CUST10169,40,Female,41,Two Year,Electronic Check,DSL,Basic,99.57,4115.63,0,No
+CUST10170,56,Female,12,Month-to-Month,Credit Card,DSL,Standard,69.0,922.49,6,No
+CUST10171,62,Female,35,Month-to-Month,Electronic Check,Fiber Optic,Standard,20.18,707.66,8,Yes
+CUST10172,32,Female,65,Month-to-Month,Credit Card,DSL,Standard,78.06,5108.81,8,No
+CUST10173,60,Female,55,Month-to-Month,Credit Card,No Internet,Premium,55.97,3091.56,0,No
+CUST10174,46,Female,45,Month-to-Month,Electronic Check,Fiber Optic,Standard,33.57,1523.31,5,Yes
+CUST10175,53,Female,62,Two Year,Credit Card,Fiber Optic,Basic,29.77,1927.28,2,No
+CUST10176,30,Female,49,Two Year,Electronic Check,DSL,Basic,65.18,3285.66,3,No
+CUST10177,49,Male,25,Month-to-Month,Electronic Check,DSL,Standard,99.92,2575.78,7,Yes
+CUST10178,24,Male,23,Month-to-Month,Electronic Check,Fiber Optic,Standard,128.88,3061.9,3,Yes
+CUST10179,68,Male,24,Month-to-Month,Mailed Check,No Internet,Premium,43.86,1074.27,7,No
+CUST10180,39,Male,38,Two Year,Electronic Check,No Internet,Standard,75.2,2871.68,3,No
+CUST10181,45,Male,28,Month-to-Month,Mailed Check,DSL,Standard,70.95,2038.67,8,Yes
+CUST10182,19,Female,21,Month-to-Month,Credit Card,DSL,Standard,86.74,1904.44,5,No
+CUST10183,59,Female,54,Month-to-Month,Electronic Check,DSL,Standard,125.25,6767.48,0,No
+CUST10184,62,Female,18,Month-to-Month,Bank Transfer,No Internet,Standard,91.97,1755.02,9,Yes
+CUST10185,70,Female,36,Month-to-Month,Credit Card,DSL,Standard,130.07,4742.74,1,Yes
+CUST10186,23,Female,45,Two Year,Credit Card,DSL,Standard,87.41,4031.34,6,No
+CUST10187,45,Female,53,One Year,Electronic Check,DSL,Basic,98.5,5257.01,9,No
+CUST10188,45,Female,30,One Year,Electronic Check,DSL,Premium,76.86,2351.6,6,No
+CUST10189,61,Male,60,Month-to-Month,Electronic Check,No Internet,Basic,127.0,7695.24,2,Yes
+CUST10190,61,Male,32,One Year,Electronic Check,Fiber Optic,Basic,140.1,4562.47,0,Yes
+CUST10191,37,Male,67,One Year,Electronic Check,DSL,Basic,103.09,6930.33,7,No
+CUST10192,47,Male,67,Month-to-Month,Electronic Check,DSL,Basic,126.7,8581.88,9,No
+CUST10193,28,Female,28,One Year,Electronic Check,DSL,Standard,27.67,861.5,10,No
+CUST10194,45,Female,44,Month-to-Month,Electronic Check,DSL,Basic,137.79,6064.58,10,Yes
+CUST10195,42,Female,41,Two Year,Electronic Check,DSL,Basic,44.56,1839.82,9,Yes
+CUST10196,56,Male,63,Month-to-Month,Electronic Check,Fiber Optic,Standard,53.35,3410.66,6,No
+CUST10197,50,Female,23,Two Year,Mailed Check,DSL,Standard,26.93,665.49,9,Yes
+CUST10198,18,Female,48,Month-to-Month,Electronic Check,DSL,Basic,145.5,7054.84,7,Yes
+CUST10199,44,Female,32,One Year,Credit Card,Fiber Optic,Standard,130.76,4193.29,0,No
+CUST10200,69,Male,57,One Year,Electronic Check,Fiber Optic,Standard,138.71,7970.96,2,Yes
+CUST10201,30,Female,33,One Year,Mailed Check,Fiber Optic,Premium,130.14,4356.26,1,No
+CUST10202,58,Male,24,Month-to-Month,Electronic Check,Fiber Optic,Standard,82.34,1999.52,0,Yes
+CUST10203,20,Male,39,Month-to-Month,Mailed Check,Fiber Optic,Basic,140.13,5519.31,4,Yes
+CUST10204,56,Male,34,One Year,Credit Card,Fiber Optic,Standard,146.03,4987.24,2,No
+CUST10205,23,Male,56,Month-to-Month,Electronic Check,DSL,Standard,85.33,4793.17,9,Yes
+CUST10206,25,Female,28,Month-to-Month,Mailed Check,No Internet,Basic,42.83,1256.55,7,Yes
+CUST10207,44,Male,37,One Year,Credit Card,DSL,Premium,105.62,4005.69,5,No
+CUST10208,26,Male,7,Month-to-Month,Electronic Check,Fiber Optic,Standard,146.81,1051.36,9,Yes
+CUST10209,54,Female,68,Month-to-Month,Bank Transfer,Fiber Optic,Premium,133.38,9105.37,8,Yes
+CUST10210,50,Female,37,Month-to-Month,Mailed Check,Fiber Optic,Standard,132.04,4911.14,8,No
+CUST10211,68,Male,56,Month-to-Month,Credit Card,No Internet,Standard,141.4,7945.05,10,Yes
+CUST10212,59,Female,65,One Year,Electronic Check,Fiber Optic,Standard,136.21,8894.07,5,No
+CUST10213,61,Male,65,One Year,Bank Transfer,No Internet,Standard,120.92,7929.99,1,Yes
+CUST10214,41,Male,47,Two Year,Bank Transfer,Fiber Optic,Standard,113.38,5332.74,8,Yes
+CUST10215,32,Male,20,Two Year,Mailed Check,No Internet,Premium,54.42,1184.11,1,No
+CUST10216,49,Male,19,Month-to-Month,Bank Transfer,No Internet,Standard,100.77,1919.26,2,No
+CUST10217,49,Female,29,Month-to-Month,Electronic Check,No Internet,Premium,87.79,2634.04,5,Yes
+CUST10218,41,Male,60,Month-to-Month,Mailed Check,Fiber Optic,Premium,132.05,8012.44,1,No
+CUST10219,58,Female,18,Month-to-Month,Electronic Check,Fiber Optic,Premium,83.92,1563.01,4,Yes
+CUST10220,69,Female,35,Two Year,Electronic Check,DSL,Standard,36.61,1295.05,1,No
+CUST10221,66,Female,43,Month-to-Month,Credit Card,Fiber Optic,Standard,20.65,944.46,3,No
+CUST10222,66,Female,11,Month-to-Month,Credit Card,No Internet,Basic,108.12,1252.18,10,Yes
+CUST10223,69,Male,49,Month-to-Month,Electronic Check,Fiber Optic,Standard,91.49,4568.79,10,No
+CUST10224,29,Female,38,One Year,Bank Transfer,No Internet,Basic,63.03,2450.23,2,No
+CUST10225,56,Male,64,One Year,Electronic Check,Fiber Optic,Basic,41.97,2727.15,4,No
+CUST10226,19,Female,69,Month-to-Month,Credit Card,DSL,Basic,80.67,5650.06,5,No
+CUST10227,20,Female,8,Two Year,Bank Transfer,DSL,Premium,33.04,362.42,6,No
+CUST10228,66,Male,34,Month-to-Month,Electronic Check,DSL,Premium,63.69,2229.97,9,Yes
+CUST10229,54,Male,48,Month-to-Month,Electronic Check,DSL,Standard,69.3,3413.84,7,No
+CUST10230,66,Male,56,Two Year,Electronic Check,Fiber Optic,Standard,80.53,4569.55,8,No
+CUST10231,34,Female,65,Month-to-Month,Mailed Check,No Internet,Standard,80.66,5311.88,3,No
+CUST10232,66,Female,31,Two Year,Electronic Check,Fiber Optic,Standard,53.41,1724.53,3,No
+CUST10233,19,Male,4,Two Year,Electronic Check,Fiber Optic,Standard,130.53,592.6,6,No
+CUST10234,19,Male,50,One Year,Credit Card,DSL,Basic,66.22,3343.1,9,No
+CUST10235,45,Male,69,One Year,Credit Card,DSL,Basic,49.85,3497.22,9,No
+CUST10236,40,Male,30,Month-to-Month,Electronic Check,Fiber Optic,Standard,42.86,1345.21,10,No
+CUST10237,54,Female,59,Two Year,Credit Card,DSL,Standard,61.94,3685.97,8,No
+CUST10238,49,Male,67,Month-to-Month,Electronic Check,DSL,Standard,28.78,1963.25,10,Yes
+CUST10239,50,Male,45,One Year,Mailed Check,Fiber Optic,Premium,24.28,1168.82,1,No
+CUST10240,18,Male,4,Two Year,Electronic Check,DSL,Basic,98.67,452.95,10,No
+CUST10241,36,Male,26,Two Year,Electronic Check,No Internet,Basic,100.49,2627.66,5,No
+CUST10242,19,Female,27,Two Year,Credit Card,DSL,Standard,88.85,2482.71,9,No
+CUST10243,70,Male,46,Month-to-Month,Electronic Check,DSL,Basic,119.1,5566.91,9,Yes
+CUST10244,61,Female,64,Two Year,Bank Transfer,DSL,Basic,25.09,1652.37,7,No
+CUST10245,43,Male,51,One Year,Electronic Check,DSL,Basic,141.68,7246.57,4,No
+CUST10246,49,Male,50,Two Year,Electronic Check,Fiber Optic,Standard,32.36,1712.76,4,No
+CUST10247,23,Female,6,One Year,Bank Transfer,Fiber Optic,Basic,107.62,733.95,7,No
+CUST10248,49,Male,59,Month-to-Month,Credit Card,Fiber Optic,Standard,37.34,2227.5,0,No
+CUST10249,21,Female,15,Month-to-Month,Credit Card,Fiber Optic,Standard,134.39,2025.41,5,Yes
+CUST10250,28,Female,30,One Year,Electronic Check,Fiber Optic,Basic,86.39,2635.77,9,Yes
+CUST10251,34,Male,42,One Year,Electronic Check,Fiber Optic,Standard,30.7,1357.04,8,Yes
+CUST10252,55,Female,37,Month-to-Month,Electronic Check,DSL,Basic,100.17,3723.83,5,Yes
+CUST10253,41,Female,42,One Year,Electronic Check,Fiber Optic,Premium,21.18,940.88,6,No
+CUST10254,22,Female,35,Month-to-Month,Credit Card,Fiber Optic,Premium,120.88,4273.34,3,No
+CUST10255,69,Female,6,Two Year,Mailed Check,Fiber Optic,Basic,104.58,716.54,9,No
+CUST10256,51,Female,68,Month-to-Month,Electronic Check,Fiber Optic,Premium,47.64,3282.48,0,No
+CUST10257,23,Female,18,Month-to-Month,Electronic Check,DSL,Standard,68.72,1290.34,8,No
+CUST10258,39,Female,29,Month-to-Month,Electronic Check,DSL,Premium,21.01,704.82,5,No
+CUST10259,28,Female,59,Month-to-Month,Electronic Check,No Internet,Standard,110.18,6530.59,2,No
+CUST10260,65,Male,47,Month-to-Month,Electronic Check,DSL,Basic,61.95,2940.55,3,Yes
+CUST10261,33,Male,17,Month-to-Month,Mailed Check,DSL,Premium,94.31,1683.23,9,No
+CUST10262,50,Female,22,Month-to-Month,Bank Transfer,DSL,Basic,144.37,3203.89,5,Yes
+CUST10263,26,Male,68,Two Year,Mailed Check,DSL,Basic,58.93,4090.43,5,No
+CUST10264,23,Female,69,Two Year,Mailed Check,DSL,Basic,148.73,10271.92,8,No
+CUST10265,33,Female,37,Month-to-Month,Credit Card,Fiber Optic,Basic,102.25,3794.38,3,Yes
+CUST10266,46,Male,49,Two Year,Credit Card,Fiber Optic,Standard,51.47,2612.16,4,No
+CUST10267,20,Female,13,Month-to-Month,Electronic Check,No Internet,Standard,76.78,1052.22,4,No
+CUST10268,37,Female,34,One Year,Credit Card,DSL,Premium,116.26,4024.72,2,No
+CUST10269,53,Female,53,One Year,Mailed Check,DSL,Basic,78.04,4158.65,1,No
+CUST10270,36,Female,51,Month-to-Month,Electronic Check,Fiber Optic,Premium,28.91,1491.04,7,Yes
+CUST10271,43,Male,3,Month-to-Month,Mailed Check,Fiber Optic,Premium,41.92,209.26,9,No
+CUST10272,20,Female,42,Month-to-Month,Electronic Check,Fiber Optic,Basic,122.87,5196.4,8,Yes
+CUST10273,36,Female,32,Month-to-Month,Mailed Check,Fiber Optic,Basic,104.29,3382.78,9,No
+CUST10274,37,Female,51,One Year,Mailed Check,DSL,Premium,94.08,4800.88,10,No
+CUST10275,49,Male,46,Month-to-Month,Bank Transfer,Fiber Optic,Standard,41.79,1960.93,8,No
+CUST10276,24,Female,21,Month-to-Month,Bank Transfer,Fiber Optic,Standard,128.91,2784.15,4,Yes
+CUST10277,69,Male,44,Month-to-Month,Credit Card,DSL,Standard,144.9,6457.73,10,No
+CUST10278,58,Male,11,Month-to-Month,Bank Transfer,No Internet,Standard,25.32,348.4,8,No
+CUST10279,50,Female,68,Month-to-Month,Mailed Check,Fiber Optic,Basic,30.14,2118.74,3,No
+CUST10280,57,Female,1,Month-to-Month,Bank Transfer,DSL,Standard,135.01,185.63,1,Yes
+CUST10281,56,Male,63,Two Year,Credit Card,DSL,Basic,126.02,7993.09,2,Yes
+CUST10282,35,Female,24,Month-to-Month,Credit Card,DSL,Standard,100.33,2482.18,0,No
+CUST10283,57,Male,13,Month-to-Month,Bank Transfer,Fiber Optic,Premium,142.85,1881.78,4,No
+CUST10284,18,Male,11,One Year,Credit Card,DSL,Standard,104.04,1167.59,0,Yes
+CUST10285,28,Female,51,Month-to-Month,Bank Transfer,DSL,Premium,48.08,2547.07,10,No
+CUST10286,45,Female,17,One Year,Credit Card,DSL,Standard,114.72,1953.01,0,No
+CUST10287,42,Male,24,One Year,Electronic Check,Fiber Optic,Standard,103.94,2508.51,10,No
+CUST10288,67,Male,19,Month-to-Month,Electronic Check,Fiber Optic,Standard,148.15,2871.88,10,No
+CUST10289,40,Male,37,Month-to-Month,Credit Card,Fiber Optic,Premium,47.81,1842.75,6,Yes
+CUST10290,48,Male,8,Month-to-Month,Electronic Check,DSL,Standard,97.73,835.63,1,Yes
+CUST10291,47,Female,28,Month-to-Month,Electronic Check,No Internet,Basic,121.42,3435.27,7,Yes
+CUST10292,59,Female,5,Month-to-Month,Credit Card,Fiber Optic,Premium,64.07,418.15,5,Yes
+CUST10293,52,Female,17,Month-to-Month,Electronic Check,No Internet,Standard,69.36,1249.51,3,No
+CUST10294,24,Female,36,Month-to-Month,Electronic Check,Fiber Optic,Basic,135.43,4958.62,8,Yes
+CUST10295,33,Female,19,Month-to-Month,Bank Transfer,Fiber Optic,Standard,72.55,1382.47,9,No
+CUST10296,43,Male,64,One Year,Mailed Check,Fiber Optic,Premium,101.22,6501.67,7,No
+CUST10297,65,Female,11,One Year,Bank Transfer,DSL,Standard,135.6,1529.02,9,No
+CUST10298,69,Female,54,Month-to-Month,Mailed Check,Fiber Optic,Basic,47.28,2571.38,2,No
+CUST10299,66,Female,45,Month-to-Month,Bank Transfer,Fiber Optic,Premium,147.64,6651.09,2,No
+CUST10300,19,Female,47,Two Year,Electronic Check,Fiber Optic,Standard,111.25,5251.26,3,No
+CUST10301,18,Female,12,One Year,Bank Transfer,No Internet,Standard,84.5,1067.36,8,No
+CUST10302,65,Male,21,Two Year,Bank Transfer,Fiber Optic,Basic,76.02,1665.99,8,No
+CUST10303,29,Male,11,Month-to-Month,Electronic Check,DSL,Basic,144.07,1662.17,4,Yes
+CUST10304,22,Male,5,One Year,Electronic Check,DSL,Standard,46.74,237.99,8,Yes
+CUST10305,54,Female,56,Month-to-Month,Bank Transfer,Fiber Optic,Premium,60.52,3431.92,5,No
+CUST10306,49,Male,20,Month-to-Month,Electronic Check,Fiber Optic,Basic,60.01,1212.42,7,No
+CUST10307,26,Male,41,Month-to-Month,Credit Card,DSL,Basic,57.57,2403.49,10,No
+CUST10308,58,Female,46,Month-to-Month,Electronic Check,DSL,Basic,80.91,3765.26,7,No
+CUST10309,52,Female,12,Month-to-Month,Credit Card,Fiber Optic,Standard,148.59,1832.9,9,Yes
+CUST10310,36,Female,70,Month-to-Month,Credit Card,Fiber Optic,Basic,135.54,9577.08,6,No
+CUST10311,65,Male,17,One Year,Electronic Check,No Internet,Basic,62.63,1145.22,3,No
+CUST10312,33,Male,19,Two Year,Electronic Check,Fiber Optic,Basic,74.97,1488.1,3,No
+CUST10313,20,Female,26,Month-to-Month,Credit Card,Fiber Optic,Standard,107.03,2871.32,5,Yes
+CUST10314,37,Female,48,Month-to-Month,Bank Transfer,Fiber Optic,Standard,22.23,1134.89,8,Yes
+CUST10315,41,Male,52,Month-to-Month,Mailed Check,No Internet,Basic,126.62,6666.13,6,No
+CUST10316,50,Male,70,One Year,Credit Card,Fiber Optic,Premium,134.37,9462.28,4,No
+CUST10317,41,Female,55,Month-to-Month,Bank Transfer,No Internet,Basic,131.44,7281.72,4,No
+CUST10318,69,Female,33,Two Year,Electronic Check,No Internet,Basic,68.76,2341.49,7,No
+CUST10319,28,Male,62,Month-to-Month,Electronic Check,No Internet,Premium,80.06,4965.69,5,Yes
+CUST10320,66,Female,23,Month-to-Month,Electronic Check,Fiber Optic,Standard,21.61,566.07,0,No
+CUST10321,25,Male,15,One Year,Credit Card,DSL,Standard,71.92,1172.25,0,No
+CUST10322,53,Male,27,Two Year,Electronic Check,DSL,Basic,79.86,2227.61,8,No
+CUST10323,55,Male,64,Month-to-Month,Electronic Check,DSL,Standard,137.91,8829.92,7,No
+CUST10324,57,Male,51,Month-to-Month,Bank Transfer,DSL,Standard,136.22,6985.01,5,No
+CUST10325,37,Female,53,Two Year,Bank Transfer,DSL,Premium,145.59,7797.23,0,No
+CUST10326,52,Female,51,Month-to-Month,Electronic Check,DSL,Basic,135.06,6983.92,1,No
+CUST10327,65,Male,47,Two Year,Electronic Check,Fiber Optic,Standard,21.07,1027.31,9,No
+CUST10328,42,Male,4,Month-to-Month,Credit Card,Fiber Optic,Standard,103.39,497.68,2,Yes
+CUST10329,52,Male,7,One Year,Credit Card,DSL,Premium,28.87,288.47,9,No
+CUST10330,42,Male,35,One Year,Bank Transfer,Fiber Optic,Basic,55.44,1952.73,2,No
+CUST10331,46,Male,48,Month-to-Month,Electronic Check,Fiber Optic,Premium,95.18,4653.22,1,Yes
+CUST10332,35,Female,72,Two Year,Bank Transfer,Fiber Optic,Basic,111.08,8030.18,1,No
+CUST10333,63,Female,45,Month-to-Month,Mailed Check,No Internet,Standard,105.1,4788.82,5,No
+CUST10334,35,Female,72,Month-to-Month,Electronic Check,DSL,Basic,26.38,1953.26,6,Yes
+CUST10335,19,Female,19,One Year,Mailed Check,DSL,Standard,33.47,702.24,3,No
+CUST10336,52,Male,63,Month-to-Month,Electronic Check,Fiber Optic,Basic,36.72,2387.41,0,No
+CUST10337,33,Male,38,One Year,Electronic Check,DSL,Basic,31.88,1255.53,5,No
+CUST10338,58,Male,67,Month-to-Month,Credit Card,Fiber Optic,Basic,43.17,2981.22,6,No
+CUST10339,53,Male,59,Month-to-Month,Electronic Check,Fiber Optic,Basic,109.5,6541.45,3,Yes
+CUST10340,50,Male,69,Month-to-Month,Electronic Check,DSL,Premium,128.01,8911.23,5,No
+CUST10341,21,Female,13,Month-to-Month,Credit Card,DSL,Premium,73.15,996.77,8,No
+CUST10342,50,Male,47,Month-to-Month,Bank Transfer,DSL,Standard,110.06,5176.58,3,Yes
+CUST10343,31,Female,61,One Year,Mailed Check,Fiber Optic,Basic,46.0,2855.23,9,No
+CUST10344,38,Female,31,Two Year,Bank Transfer,Fiber Optic,Standard,146.53,4632.27,3,No
+CUST10345,65,Female,22,Two Year,Electronic Check,DSL,Standard,65.5,1460.05,9,No
+CUST10346,37,Female,43,Month-to-Month,Bank Transfer,DSL,Premium,129.96,5686.54,4,No
+CUST10347,25,Male,67,Month-to-Month,Credit Card,DSL,Standard,142.9,9655.07,2,No
+CUST10348,24,Female,54,Month-to-Month,Bank Transfer,DSL,Premium,132.41,7221.12,9,Yes
+CUST10349,20,Female,10,Month-to-Month,Bank Transfer,No Internet,Premium,28.72,354.92,1,Yes
+CUST10350,34,Female,42,Month-to-Month,Mailed Check,DSL,Premium,104.54,4449.38,8,No
+CUST10351,50,Male,64,Month-to-Month,Credit Card,Fiber Optic,Basic,35.61,2351.11,0,No
+CUST10352,65,Male,21,Month-to-Month,Bank Transfer,No Internet,Basic,20.74,477.73,4,Yes
+CUST10353,29,Male,66,Two Year,Electronic Check,DSL,Standard,26.73,1848.71,4,No
+CUST10354,68,Female,41,Month-to-Month,Mailed Check,Fiber Optic,Standard,139.1,5772.73,7,Yes
+CUST10355,39,Female,24,Month-to-Month,Electronic Check,No Internet,Basic,138.1,3391.53,5,Yes
+CUST10356,39,Male,35,Month-to-Month,Electronic Check,Fiber Optic,Basic,49.36,1806.85,5,Yes
+CUST10357,63,Female,56,Month-to-Month,Electronic Check,Fiber Optic,Standard,91.12,5111.93,5,No
+CUST10358,47,Male,30,Two Year,Bank Transfer,Fiber Optic,Standard,144.15,4330.06,3,No
+CUST10359,55,Male,57,Month-to-Month,Credit Card,Fiber Optic,Basic,84.57,4900.59,0,No
+CUST10360,55,Female,47,Month-to-Month,Credit Card,DSL,Standard,71.17,3370.93,2,No
+CUST10361,62,Female,35,Month-to-Month,Mailed Check,No Internet,Standard,82.82,2956.9,9,Yes
+CUST10362,68,Female,19,Month-to-Month,Mailed Check,Fiber Optic,Standard,122.73,2376.24,10,No
+CUST10363,25,Female,8,Month-to-Month,Electronic Check,Fiber Optic,Basic,82.05,658.6,5,Yes
+CUST10364,44,Male,26,Two Year,Electronic Check,No Internet,Standard,121.83,3171.61,4,No
+CUST10365,44,Male,71,Two Year,Bank Transfer,Fiber Optic,Standard,76.12,5487.23,9,No
+CUST10366,51,Male,30,One Year,Mailed Check,Fiber Optic,Basic,52.76,1643.57,0,No
+CUST10367,38,Male,7,Month-to-Month,Credit Card,DSL,Standard,62.44,489.46,4,Yes
+CUST10368,47,Male,67,Two Year,Credit Card,Fiber Optic,Basic,30.12,2112.48,1,No
+CUST10369,50,Female,65,Month-to-Month,Electronic Check,Fiber Optic,Basic,84.66,5520.21,0,No
+CUST10370,45,Male,36,Month-to-Month,Bank Transfer,Fiber Optic,Standard,39.25,1438.8,3,No
+CUST10371,64,Male,25,One Year,Credit Card,No Internet,Basic,125.5,3213.17,5,No
+CUST10372,50,Male,37,Month-to-Month,Credit Card,No Internet,Basic,74.68,2840.68,6,No
+CUST10373,22,Female,1,Month-to-Month,Electronic Check,Fiber Optic,Premium,119.45,159.94,8,No
+CUST10374,65,Female,15,One Year,Mailed Check,DSL,Basic,144.08,2256.3,4,No
+CUST10375,36,Female,37,Month-to-Month,Credit Card,Fiber Optic,Premium,130.43,4919.74,7,Yes
+CUST10376,21,Female,13,One Year,Electronic Check,Fiber Optic,Standard,143.69,1869.21,7,Yes
+CUST10377,52,Male,8,Month-to-Month,Credit Card,Fiber Optic,Basic,93.83,767.87,10,Yes
+CUST10378,66,Male,5,Two Year,Bank Transfer,Fiber Optic,Basic,41.49,289.47,8,No
+CUST10379,34,Female,60,Two Year,Credit Card,Fiber Optic,Standard,141.6,8529.52,2,No
+CUST10380,61,Female,1,Two Year,Bank Transfer,DSL,Standard,132.91,142.46,2,Yes
+CUST10381,45,Male,36,Month-to-Month,Credit Card,DSL,Basic,132.37,4843.82,8,No
+CUST10382,47,Male,35,Month-to-Month,Mailed Check,Fiber Optic,Basic,110.13,3900.01,6,No
+CUST10383,46,Female,66,Month-to-Month,Electronic Check,DSL,Standard,101.24,6731.08,3,No
+CUST10384,63,Female,63,Month-to-Month,Electronic Check,DSL,Basic,21.91,1398.97,0,Yes
+CUST10385,70,Female,23,Month-to-Month,Electronic Check,DSL,Premium,117.25,2762.84,6,No
+CUST10386,23,Female,9,One Year,Bank Transfer,Fiber Optic,Standard,31.9,342.22,9,Yes
+CUST10387,52,Male,34,Month-to-Month,Credit Card,DSL,Standard,53.77,1848.85,5,No
+CUST10388,58,Male,46,Two Year,Mailed Check,Fiber Optic,Basic,91.69,4251.77,2,No
+CUST10389,54,Male,4,Month-to-Month,Bank Transfer,Fiber Optic,Basic,78.73,374.61,4,Yes
+CUST10390,41,Female,30,Month-to-Month,Credit Card,Fiber Optic,Premium,22.05,753.99,2,No
+CUST10391,46,Female,72,Month-to-Month,Mailed Check,Fiber Optic,Basic,127.12,9244.68,7,No
+CUST10392,66,Male,3,Two Year,Electronic Check,DSL,Basic,134.24,431.51,4,No
+CUST10393,63,Male,14,One Year,Bank Transfer,Fiber Optic,Standard,108.64,1594.52,9,Yes
+CUST10394,70,Male,60,Two Year,Credit Card,No Internet,Basic,90.34,5497.95,9,No
+CUST10395,48,Male,45,Two Year,Credit Card,Fiber Optic,Standard,144.9,6601.38,5,No
+CUST10396,52,Female,34,Month-to-Month,Bank Transfer,No Internet,Premium,35.59,1267.14,1,Yes
+CUST10397,50,Male,45,Month-to-Month,Credit Card,Fiber Optic,Standard,115.93,5217.9,7,No
+CUST10398,69,Male,61,Month-to-Month,Electronic Check,DSL,Premium,36.69,2314.26,8,Yes
+CUST10399,38,Male,16,One Year,Credit Card,DSL,Premium,69.64,1124.9,2,No
+CUST10400,49,Male,66,Month-to-Month,Credit Card,Fiber Optic,Basic,96.11,6354.95,5,No
+CUST10401,40,Male,40,Month-to-Month,Bank Transfer,Fiber Optic,Basic,115.82,4693.36,5,No
+CUST10402,50,Male,17,Two Year,Credit Card,DSL,Standard,20.48,446.51,1,No
+CUST10403,20,Male,34,Two Year,Mailed Check,Fiber Optic,Standard,53.88,1856.17,9,No
+CUST10404,35,Female,16,One Year,Credit Card,Fiber Optic,Basic,89.97,1504.1,7,No
+CUST10405,42,Female,60,One Year,Credit Card,DSL,Premium,89.27,5386.57,4,Yes
+CUST10406,59,Female,66,One Year,Bank Transfer,Fiber Optic,Standard,102.89,6880.61,10,Yes
+CUST10407,48,Female,66,Month-to-Month,Credit Card,Fiber Optic,Basic,59.5,3986.35,10,No
+CUST10408,20,Male,13,Month-to-Month,Mailed Check,Fiber Optic,Standard,90.27,1194.26,7,No
+CUST10409,57,Female,56,One Year,Bank Transfer,Fiber Optic,Basic,44.67,2527.73,7,No
+CUST10410,63,Female,31,One Year,Credit Card,No Internet,Premium,44.29,1416.24,2,No
+CUST10411,41,Male,34,Month-to-Month,Electronic Check,Fiber Optic,Standard,94.95,3240.5,4,Yes
+CUST10412,67,Male,39,Two Year,Credit Card,DSL,Basic,109.11,4263.16,6,No
+CUST10413,49,Female,67,Month-to-Month,Electronic Check,DSL,Basic,35.65,2456.56,4,No
+CUST10414,64,Female,8,Month-to-Month,Bank Transfer,Fiber Optic,Premium,35.96,328.4,5,No
+CUST10415,39,Male,55,One Year,Electronic Check,DSL,Standard,93.49,5214.57,1,No
+CUST10416,40,Female,27,Month-to-Month,Electronic Check,No Internet,Premium,55.11,1498.98,7,No
+CUST10417,19,Male,53,Month-to-Month,Electronic Check,Fiber Optic,Basic,71.01,3824.52,4,Yes
+CUST10418,44,Male,39,Month-to-Month,Electronic Check,Fiber Optic,Basic,72.1,2856.23,5,No
+CUST10419,59,Male,65,One Year,Electronic Check,No Internet,Basic,43.21,2814.45,0,Yes
+CUST10420,19,Male,17,Month-to-Month,Mailed Check,No Internet,Standard,20.17,397.37,9,No
+CUST10421,43,Female,30,One Year,Bank Transfer,DSL,Basic,130.91,3935.58,1,No
+CUST10422,34,Male,53,One Year,Bank Transfer,DSL,Basic,112.95,6069.12,10,No
+CUST10423,57,Male,13,Month-to-Month,Bank Transfer,Fiber Optic,Standard,109.77,1490.21,3,No
+CUST10424,50,Female,21,Two Year,Electronic Check,Fiber Optic,Standard,91.05,1967.75,10,Yes
+CUST10425,26,Male,19,Month-to-Month,Mailed Check,Fiber Optic,Basic,111.13,2124.82,8,No
+CUST10426,60,Female,53,Two Year,Electronic Check,Fiber Optic,Standard,141.64,7535.67,5,No
+CUST10427,65,Female,19,Month-to-Month,Electronic Check,No Internet,Standard,106.54,2073.55,7,No
+CUST10428,56,Female,57,Two Year,Credit Card,Fiber Optic,Basic,54.46,3167.55,1,No
+CUST10429,46,Male,25,Month-to-Month,Electronic Check,Fiber Optic,Basic,94.17,2372.57,9,Yes
+CUST10430,59,Female,31,Month-to-Month,Bank Transfer,DSL,Basic,77.5,2403.39,4,No
+CUST10431,43,Female,55,Month-to-Month,Electronic Check,Fiber Optic,Standard,92.33,5112.63,0,No
+CUST10432,52,Male,23,Month-to-Month,Bank Transfer,DSL,Premium,87.29,2055.96,3,No
+CUST10433,67,Female,32,One Year,Credit Card,No Internet,Basic,131.64,4230.92,9,Yes
+CUST10434,42,Female,62,Month-to-Month,Electronic Check,DSL,Basic,104.73,6542.48,0,Yes
+CUST10435,41,Female,10,One Year,Bank Transfer,Fiber Optic,Premium,44.54,479.25,10,Yes
+CUST10436,30,Female,72,Month-to-Month,Electronic Check,DSL,Premium,28.19,2075.19,10,Yes
+CUST10437,24,Female,54,Month-to-Month,Credit Card,DSL,Standard,75.17,4093.93,8,No
+CUST10438,53,Male,52,One Year,Electronic Check,Fiber Optic,Premium,22.03,1208.41,1,Yes
+CUST10439,62,Female,20,Month-to-Month,Credit Card,Fiber Optic,Standard,61.38,1231.89,6,Yes
+CUST10440,37,Female,32,One Year,Bank Transfer,DSL,Standard,67.84,2187.97,2,No
+CUST10441,18,Male,14,One Year,Electronic Check,DSL,Basic,68.83,1006.9,1,No
+CUST10442,25,Male,50,Two Year,Mailed Check,Fiber Optic,Standard,147.32,7401.63,3,No
+CUST10443,63,Male,28,Month-to-Month,Mailed Check,Fiber Optic,Basic,59.51,1705.44,6,No
+CUST10444,33,Female,53,One Year,Bank Transfer,DSL,Premium,54.48,2967.82,6,No
+CUST10445,31,Male,24,Two Year,Bank Transfer,Fiber Optic,Premium,36.82,972.31,8,Yes
+CUST10446,29,Female,22,One Year,Electronic Check,DSL,Standard,86.43,1926.33,2,No
+CUST10447,68,Female,30,Month-to-Month,Bank Transfer,Fiber Optic,Basic,39.98,1283.04,6,No
+CUST10448,40,Male,63,One Year,Electronic Check,DSL,Basic,100.12,6353.44,5,No
+CUST10449,32,Male,4,One Year,Electronic Check,Fiber Optic,Basic,40.17,188.06,9,Yes
+CUST10450,45,Female,59,One Year,Mailed Check,DSL,Basic,94.97,5701.78,6,Yes
+CUST10451,51,Male,8,Month-to-Month,Credit Card,No Internet,Standard,127.42,1101.84,6,No
+CUST10452,19,Female,12,Month-to-Month,Credit Card,DSL,Premium,25.53,405.79,9,Yes
+CUST10453,49,Male,31,Two Year,Electronic Check,DSL,Basic,74.57,2328.49,4,No
+CUST10454,40,Male,34,Month-to-Month,Credit Card,DSL,Basic,79.94,2732.34,8,No
+CUST10455,39,Male,49,One Year,Electronic Check,No Internet,Standard,122.84,6069.5,6,No
+CUST10456,68,Female,57,Month-to-Month,Electronic Check,Fiber Optic,Basic,80.83,4671.17,6,No
+CUST10457,42,Male,26,Month-to-Month,Electronic Check,Fiber Optic,Premium,93.78,2455.39,2,No
+CUST10458,39,Female,18,Month-to-Month,Credit Card,No Internet,Basic,122.86,2297.52,0,No
+CUST10459,39,Female,38,Month-to-Month,Credit Card,No Internet,Basic,92.77,3578.46,4,No
+CUST10460,66,Female,50,Two Year,Electronic Check,Fiber Optic,Basic,66.58,3370.09,7,No
+CUST10461,69,Female,8,Two Year,Bank Transfer,DSL,Basic,31.16,309.49,4,No
+CUST10462,59,Male,41,One Year,Electronic Check,Fiber Optic,Standard,114.89,4773.99,9,No
+CUST10463,23,Female,6,Month-to-Month,Bank Transfer,DSL,Basic,133.25,803.78,2,No
+CUST10464,32,Female,69,One Year,Mailed Check,Fiber Optic,Standard,146.11,10181.58,8,Yes
+CUST10465,60,Male,44,One Year,Bank Transfer,Fiber Optic,Standard,140.46,6216.63,1,No
+CUST10466,54,Female,64,One Year,Mailed Check,Fiber Optic,Basic,123.66,7920.39,2,No
+CUST10467,50,Male,29,Month-to-Month,Mailed Check,Fiber Optic,Basic,103.65,3091.08,3,No
+CUST10468,25,Female,28,One Year,Credit Card,Fiber Optic,Standard,121.59,3503.82,9,No
+CUST10469,70,Male,11,One Year,Bank Transfer,No Internet,Standard,76.17,919.51,0,Yes
+CUST10470,61,Female,65,Two Year,Mailed Check,DSL,Premium,97.32,6410.99,10,Yes
+CUST10471,61,Male,19,Month-to-Month,Electronic Check,DSL,Basic,65.33,1303.86,3,No
+CUST10472,22,Female,9,One Year,Electronic Check,Fiber Optic,Basic,62.47,654.46,3,Yes
+CUST10473,56,Female,27,One Year,Mailed Check,No Internet,Basic,118.37,3199.56,8,Yes
+CUST10474,21,Male,34,Month-to-Month,Bank Transfer,DSL,Standard,79.01,2763.01,7,Yes
+CUST10475,23,Male,44,Month-to-Month,Electronic Check,DSL,Standard,47.58,2160.59,1,Yes
+CUST10476,62,Male,68,Month-to-Month,Credit Card,DSL,Premium,46.25,3149.96,6,No
+CUST10477,49,Male,15,Month-to-Month,Bank Transfer,DSL,Standard,131.69,2029.75,5,No
+CUST10478,69,Female,51,Month-to-Month,Credit Card,No Internet,Basic,108.11,5565.12,6,No
+CUST10479,47,Female,13,One Year,Credit Card,Fiber Optic,Standard,90.99,1252.02,10,No
+CUST10480,64,Male,49,One Year,Bank Transfer,Fiber Optic,Premium,72.12,3541.63,3,No
+CUST10481,52,Female,70,One Year,Credit Card,Fiber Optic,Basic,76.01,5401.23,4,Yes
+CUST10482,57,Male,56,Two Year,Credit Card,Fiber Optic,Standard,27.47,1552.26,5,No
+CUST10483,69,Male,51,Month-to-Month,Bank Transfer,DSL,Premium,79.14,4078.01,8,No
+CUST10484,33,Female,37,Month-to-Month,Bank Transfer,Fiber Optic,Standard,123.41,4654.3,1,Yes
+CUST10485,30,Female,17,One Year,Credit Card,Fiber Optic,Standard,70.44,1253.53,10,No
+CUST10486,67,Female,58,Month-to-Month,Electronic Check,DSL,Basic,69.87,4090.42,8,Yes
+CUST10487,59,Female,29,Month-to-Month,Credit Card,Fiber Optic,Standard,22.04,643.98,9,No
+CUST10488,47,Female,33,Month-to-Month,Mailed Check,DSL,Basic,79.52,2691.39,0,Yes
+CUST10489,36,Female,60,Month-to-Month,Electronic Check,DSL,Standard,23.29,1496.05,3,No
+CUST10490,34,Female,55,Two Year,Electronic Check,DSL,Basic,94.15,5269.43,4,Yes
+CUST10491,36,Male,10,Month-to-Month,Credit Card,Fiber Optic,Premium,85.88,930.53,8,No
+CUST10492,45,Male,47,Month-to-Month,Bank Transfer,DSL,Premium,129.2,6082.93,5,No
+CUST10493,43,Male,23,Month-to-Month,Electronic Check,No Internet,Standard,95.63,2223.43,3,No
+CUST10494,54,Male,21,One Year,Electronic Check,DSL,Basic,62.05,1321.73,1,Yes
+CUST10495,43,Male,13,Month-to-Month,Electronic Check,Fiber Optic,Basic,87.11,1167.98,4,Yes
+CUST10496,70,Female,33,One Year,Bank Transfer,No Internet,Standard,110.96,3685.23,7,No
+CUST10497,40,Male,24,Month-to-Month,Electronic Check,No Internet,Standard,32.22,797.72,7,No
+CUST10498,26,Male,11,Month-to-Month,Electronic Check,No Internet,Standard,100.74,1169.81,5,No
+CUST10499,29,Male,17,Month-to-Month,Credit Card,DSL,Basic,139.16,2397.59,10,No
+CUST10500,70,Male,68,Month-to-Month,Mailed Check,DSL,Standard,58.89,4072.24,0,Yes
+CUST10501,18,Male,47,Month-to-Month,Credit Card,Fiber Optic,Standard,101.46,4863.41,7,No
+CUST10502,18,Male,25,Month-to-Month,Electronic Check,DSL,Standard,126.77,3233.1,3,Yes
+CUST10503,64,Male,21,Two Year,Credit Card,DSL,Standard,86.53,1892.3,1,Yes
+CUST10504,51,Female,12,Month-to-Month,Mailed Check,No Internet,Standard,113.34,1435.24,0,No
+CUST10505,49,Female,37,One Year,Credit Card,Fiber Optic,Basic,60.43,2268.98,6,No
+CUST10506,65,Male,42,Month-to-Month,Mailed Check,Fiber Optic,Basic,59.79,2512.68,1,No
+CUST10507,42,Female,17,Month-to-Month,Bank Transfer,No Internet,Standard,106.79,1820.93,3,No
+CUST10508,57,Female,48,Month-to-Month,Electronic Check,Fiber Optic,Basic,111.7,5389.81,3,No
+CUST10509,62,Female,28,Two Year,Bank Transfer,Fiber Optic,Standard,141.81,4039.63,9,Yes
+CUST10510,70,Female,41,Month-to-Month,Electronic Check,Fiber Optic,Standard,49.23,2109.1,0,No
+CUST10511,18,Male,47,Month-to-Month,Credit Card,DSL,Premium,80.87,3896.77,1,No
+CUST10512,33,Female,18,Month-to-Month,Electronic Check,Fiber Optic,Standard,52.57,948.84,0,No
+CUST10513,56,Female,71,Month-to-Month,Electronic Check,No Internet,Basic,30.41,2258.12,5,No
+CUST10514,22,Female,13,Month-to-Month,Mailed Check,No Internet,Basic,72.42,973.71,2,No
+CUST10515,39,Male,13,One Year,Electronic Check,No Internet,Premium,68.63,976.49,0,No
+CUST10516,46,Male,31,Month-to-Month,Mailed Check,Fiber Optic,Basic,55.16,1727.99,7,Yes
+CUST10517,20,Male,2,Month-to-Month,Electronic Check,No Internet,Standard,58.61,123.51,3,No
+CUST10518,29,Male,16,One Year,Electronic Check,DSL,Standard,66.85,1107.44,9,Yes
+CUST10519,43,Male,9,Month-to-Month,Mailed Check,DSL,Basic,148.55,1422.84,6,Yes
+CUST10520,33,Male,38,Month-to-Month,Credit Card,Fiber Optic,Basic,121.78,4649.72,9,Yes
+CUST10521,68,Male,54,Month-to-Month,Bank Transfer,Fiber Optic,Standard,29.28,1596.52,1,No
+CUST10522,54,Female,56,One Year,Electronic Check,DSL,Premium,133.41,7561.94,5,Yes
+CUST10523,39,Female,45,Month-to-Month,Credit Card,Fiber Optic,Basic,102.33,4698.68,5,Yes
+CUST10524,46,Female,34,Month-to-Month,Bank Transfer,DSL,Premium,135.78,4617.77,6,No
+CUST10525,31,Male,9,Month-to-Month,Credit Card,Fiber Optic,Standard,64.42,652.52,0,No
+CUST10526,45,Male,8,One Year,Credit Card,Fiber Optic,Premium,80.39,674.04,0,Yes
+CUST10527,22,Male,7,Month-to-Month,Mailed Check,Fiber Optic,Basic,136.51,993.04,1,Yes
+CUST10528,64,Male,36,One Year,Bank Transfer,DSL,Basic,55.43,2042.39,10,No
+CUST10529,66,Male,18,Two Year,Mailed Check,Fiber Optic,Premium,139.02,2545.04,1,Yes
+CUST10530,47,Female,3,One Year,Bank Transfer,Fiber Optic,Premium,127.7,434.6,4,Yes
+CUST10531,63,Female,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,147.47,4187.4,0,Yes
+CUST10532,69,Male,70,Month-to-Month,Electronic Check,Fiber Optic,Standard,62.15,4397.06,10,Yes
+CUST10533,22,Male,44,Month-to-Month,Electronic Check,Fiber Optic,Premium,50.65,2298.76,1,No
+CUST10534,29,Male,21,Month-to-Month,Mailed Check,No Internet,Basic,63.01,1395.07,5,No
+CUST10535,33,Male,28,Month-to-Month,Electronic Check,DSL,Standard,144.1,4078.84,2,No
+CUST10536,43,Female,54,One Year,Electronic Check,Fiber Optic,Premium,63.3,3432.45,3,Yes
+CUST10537,43,Male,54,Month-to-Month,Electronic Check,Fiber Optic,Basic,93.48,5111.98,0,No
+CUST10538,65,Male,65,Month-to-Month,Electronic Check,Fiber Optic,Basic,72.48,4788.5,4,No
+CUST10539,38,Male,21,One Year,Mailed Check,DSL,Standard,71.51,1565.52,3,No
+CUST10540,56,Male,13,One Year,Mailed Check,DSL,Basic,45.14,645.63,7,Yes
+CUST10541,53,Female,57,Month-to-Month,Credit Card,DSL,Basic,89.82,5142.68,2,Yes
+CUST10542,50,Male,49,Two Year,Electronic Check,No Internet,Premium,130.42,6455.09,9,No
+CUST10543,47,Male,54,Month-to-Month,Bank Transfer,Fiber Optic,Standard,26.43,1460.71,0,Yes
+CUST10544,54,Female,10,One Year,Credit Card,Fiber Optic,Premium,135.6,1447.96,9,No
+CUST10545,40,Female,53,One Year,Mailed Check,Fiber Optic,Premium,106.51,5710.4,4,Yes
+CUST10546,27,Female,44,One Year,Credit Card,DSL,Basic,100.18,4435.74,0,Yes
+CUST10547,22,Male,47,One Year,Electronic Check,No Internet,Basic,101.37,4811.68,10,Yes
+CUST10548,53,Male,53,Month-to-Month,Credit Card,Fiber Optic,Basic,58.52,3186.22,4,No
+CUST10549,51,Female,46,Month-to-Month,Mailed Check,DSL,Basic,73.97,3436.17,8,Yes
+CUST10550,69,Female,13,One Year,Bank Transfer,Fiber Optic,Standard,123.91,1663.37,4,No
+CUST10551,48,Female,37,Month-to-Month,Bank Transfer,Fiber Optic,Standard,59.83,2281.68,1,No
+CUST10552,27,Female,24,Two Year,Electronic Check,Fiber Optic,Standard,81.1,2021.85,1,No
+CUST10553,36,Female,2,Month-to-Month,Bank Transfer,DSL,Basic,22.55,62.49,9,No
+CUST10554,49,Female,14,Month-to-Month,Bank Transfer,No Internet,Basic,115.36,1671.56,8,No
+CUST10555,18,Male,10,Month-to-Month,Electronic Check,No Internet,Standard,74.3,834.22,4,No
+CUST10556,22,Male,35,Month-to-Month,Credit Card,Fiber Optic,Standard,88.3,3187.34,10,No
+CUST10557,62,Male,25,One Year,Electronic Check,DSL,Basic,34.91,938.36,7,Yes
+CUST10558,21,Female,3,One Year,Electronic Check,DSL,Standard,148.92,545.13,9,Yes
+CUST10559,33,Female,17,One Year,Electronic Check,No Internet,Basic,59.32,1065.51,3,No
+CUST10560,41,Female,12,Two Year,Electronic Check,Fiber Optic,Basic,102.55,1274.86,1,No
+CUST10561,33,Female,54,Two Year,Credit Card,Fiber Optic,Standard,95.56,5215.4,3,No
+CUST10562,19,Female,24,Two Year,Electronic Check,DSL,Basic,122.06,2941.01,10,Yes
+CUST10563,66,Female,29,Month-to-Month,Electronic Check,DSL,Standard,58.2,1727.97,3,No
+CUST10564,45,Male,43,One Year,Mailed Check,Fiber Optic,Basic,118.27,5131.45,10,No
+CUST10565,49,Male,25,Month-to-Month,Credit Card,Fiber Optic,Basic,69.73,1828.11,8,No
+CUST10566,44,Female,60,Month-to-Month,Credit Card,No Internet,Basic,73.45,4482.86,9,No
+CUST10567,37,Male,65,One Year,Credit Card,Fiber Optic,Premium,107.45,7044.39,10,No
+CUST10568,41,Female,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,121.96,3449.61,5,Yes
+CUST10569,29,Male,16,Month-to-Month,Electronic Check,DSL,Premium,106.69,1725.74,9,Yes
+CUST10570,67,Female,47,Month-to-Month,Bank Transfer,DSL,Standard,136.98,6472.84,5,No
+CUST10571,52,Female,58,Month-to-Month,Electronic Check,Fiber Optic,Standard,57.07,3378.04,4,No
+CUST10572,50,Male,27,Two Year,Bank Transfer,DSL,Basic,137.08,3727.46,5,No
+CUST10573,50,Male,53,Month-to-Month,Electronic Check,DSL,Basic,37.01,2004.22,0,No
+CUST10574,68,Female,42,Month-to-Month,Bank Transfer,No Internet,Basic,105.74,4479.76,4,Yes
+CUST10575,60,Female,59,Month-to-Month,Credit Card,Fiber Optic,Basic,91.19,5456.77,5,No
+CUST10576,54,Male,47,Month-to-Month,Credit Card,DSL,Standard,84.3,4050.48,7,Yes
+CUST10577,29,Male,34,Two Year,Electronic Check,DSL,Basic,60.42,2124.22,3,No
+CUST10578,20,Female,37,Month-to-Month,Credit Card,DSL,Basic,85.49,3197.29,4,No
+CUST10579,18,Male,6,Month-to-Month,Mailed Check,No Internet,Basic,41.03,289.5,3,No
+CUST10580,50,Female,7,One Year,Bank Transfer,DSL,Standard,68.01,490.41,6,No
+CUST10581,57,Female,25,Two Year,Electronic Check,DSL,Standard,32.83,837.56,9,Yes
+CUST10582,27,Female,33,One Year,Electronic Check,Fiber Optic,Premium,94.34,3129.65,5,No
+CUST10583,60,Female,55,Two Year,Mailed Check,DSL,Basic,32.45,1797.81,3,No
+CUST10584,61,Male,58,Month-to-Month,Credit Card,DSL,Basic,40.84,2386.68,5,No
+CUST10585,46,Male,7,Month-to-Month,Bank Transfer,DSL,Basic,31.11,238.04,3,No
+CUST10586,30,Male,57,Month-to-Month,Mailed Check,DSL,Premium,69.57,3976.67,7,No
+CUST10587,29,Male,12,Two Year,Mailed Check,DSL,Basic,129.45,1617.43,10,No
+CUST10588,48,Male,16,Month-to-Month,Credit Card,DSL,Standard,137.9,2305.44,2,No
+CUST10589,63,Male,43,Month-to-Month,Credit Card,Fiber Optic,Standard,29.35,1349.97,7,No
+CUST10590,19,Male,7,Month-to-Month,Electronic Check,DSL,Basic,102.49,721.99,1,No
+CUST10591,68,Female,51,Month-to-Month,Bank Transfer,Fiber Optic,Basic,108.97,5599.78,5,No
+CUST10592,67,Male,32,Month-to-Month,Electronic Check,Fiber Optic,Basic,89.39,2946.41,7,Yes
+CUST10593,52,Male,8,Two Year,Electronic Check,Fiber Optic,Premium,106.71,867.15,0,Yes
+CUST10594,40,Female,72,Month-to-Month,Electronic Check,DSL,Standard,50.38,3712.12,5,No
+CUST10595,34,Male,45,One Year,Electronic Check,DSL,Standard,83.65,3823.52,8,Yes
+CUST10596,43,Male,59,One Year,Bank Transfer,Fiber Optic,Standard,70.81,4270.92,9,No
+CUST10597,25,Female,4,Month-to-Month,Credit Card,Fiber Optic,Standard,31.66,214.24,9,No
+CUST10598,46,Male,67,Month-to-Month,Credit Card,Fiber Optic,Standard,101.32,6856.14,1,No
+CUST10599,43,Male,29,Month-to-Month,Electronic Check,DSL,Basic,84.38,2512.8,10,No
+CUST10600,27,Male,29,Month-to-Month,Mailed Check,No Internet,Basic,55.77,1638.65,0,Yes
+CUST10601,43,Female,28,One Year,Electronic Check,DSL,Basic,81.58,2295.92,1,No
+CUST10602,51,Male,44,Month-to-Month,Bank Transfer,Fiber Optic,Standard,120.79,5356.3,4,Yes
+CUST10603,68,Male,4,Month-to-Month,Mailed Check,Fiber Optic,Basic,124.22,515.54,5,No
+CUST10604,58,Female,9,Month-to-Month,Credit Card,DSL,Standard,104.44,950.2,0,No
+CUST10605,24,Male,5,Two Year,Credit Card,Fiber Optic,Basic,80.81,434.28,6,No
+CUST10606,21,Female,56,Two Year,Mailed Check,Fiber Optic,Premium,94.85,5397.65,10,Yes
+CUST10607,70,Female,50,Two Year,Electronic Check,Fiber Optic,Basic,70.05,3504.21,3,No
+CUST10608,67,Male,15,One Year,Credit Card,No Internet,Basic,36.45,576.01,8,No
+CUST10609,62,Female,32,Month-to-Month,Credit Card,Fiber Optic,Premium,70.13,2286.57,5,No
+CUST10610,28,Female,28,One Year,Electronic Check,Fiber Optic,Standard,88.94,2541.38,8,No
+CUST10611,46,Male,22,Month-to-Month,Bank Transfer,DSL,Premium,97.85,2170.86,0,No
+CUST10612,53,Female,17,One Year,Mailed Check,Fiber Optic,Basic,141.65,2504.47,3,No
+CUST10613,42,Female,59,One Year,Bank Transfer,DSL,Basic,121.05,7199.84,1,Yes
+CUST10614,38,Male,71,Month-to-Month,Electronic Check,Fiber Optic,Standard,39.76,2875.17,5,No
+CUST10615,53,Male,57,One Year,Electronic Check,DSL,Premium,42.64,2431.36,3,No
+CUST10616,27,Male,26,Two Year,Credit Card,Fiber Optic,Basic,33.06,908.13,8,Yes
+CUST10617,54,Female,25,Month-to-Month,Electronic Check,Fiber Optic,Premium,115.96,2982.77,2,Yes
+CUST10618,26,Male,10,Two Year,Bank Transfer,No Internet,Standard,111.8,1139.96,0,No
+CUST10619,41,Female,45,Month-to-Month,Credit Card,Fiber Optic,Premium,148.23,6705.47,10,No
+CUST10620,52,Female,11,One Year,Bank Transfer,No Internet,Basic,87.86,968.52,10,Yes
+CUST10621,66,Female,53,Month-to-Month,Credit Card,Fiber Optic,Basic,127.43,6851.48,0,Yes
+CUST10622,52,Female,72,Month-to-Month,Credit Card,Fiber Optic,Premium,94.94,6842.35,8,Yes
+CUST10623,65,Female,68,Two Year,Electronic Check,Fiber Optic,Premium,133.63,9176.66,8,Yes
+CUST10624,53,Female,28,Two Year,Electronic Check,DSL,Standard,113.73,3215.74,4,No
+CUST10625,35,Female,65,One Year,Credit Card,Fiber Optic,Basic,103.57,6790.81,1,No
+CUST10626,66,Male,49,Month-to-Month,Bank Transfer,Fiber Optic,Basic,93.47,4647.96,8,No
+CUST10627,56,Male,47,Two Year,Bank Transfer,No Internet,Standard,113.99,5371.61,7,No
+CUST10628,49,Female,52,Month-to-Month,Bank Transfer,Fiber Optic,Basic,74.55,3920.98,10,No
+CUST10629,41,Female,54,Two Year,Mailed Check,Fiber Optic,Basic,32.55,1790.25,9,No
+CUST10630,40,Male,60,Month-to-Month,Electronic Check,Fiber Optic,Basic,25.2,1517.66,9,No
+CUST10631,49,Female,57,Month-to-Month,Electronic Check,DSL,Standard,82.27,4772.71,5,No
+CUST10632,54,Male,47,One Year,Electronic Check,DSL,Basic,97.91,4606.29,6,No
+CUST10633,29,Male,31,Month-to-Month,Bank Transfer,Fiber Optic,Standard,30.25,1003.08,5,No
+CUST10634,66,Male,46,Month-to-Month,Credit Card,Fiber Optic,Standard,57.3,2667.21,4,No
+CUST10635,30,Female,26,Month-to-Month,Bank Transfer,DSL,Standard,61.86,1627.57,3,Yes
+CUST10636,40,Female,5,Month-to-Month,Credit Card,No Internet,Standard,93.16,532.51,6,Yes
+CUST10637,42,Male,52,Month-to-Month,Mailed Check,Fiber Optic,Basic,56.2,2979.85,3,No
+CUST10638,52,Male,54,Month-to-Month,Mailed Check,No Internet,Standard,32.43,1782.75,9,No
+CUST10639,58,Male,33,Month-to-Month,Electronic Check,Fiber Optic,Premium,41.43,1418.49,9,No
+CUST10640,47,Male,50,Month-to-Month,Credit Card,Fiber Optic,Standard,42.61,2155.12,9,No
+CUST10641,34,Male,38,One Year,Credit Card,No Internet,Premium,129.55,5009.27,8,Yes
+CUST10642,66,Female,27,Month-to-Month,Electronic Check,Fiber Optic,Standard,56.96,1569.3,4,No
+CUST10643,37,Male,15,Two Year,Credit Card,No Internet,Standard,112.91,1718.17,7,No
+CUST10644,65,Female,61,Two Year,Bank Transfer,Fiber Optic,Basic,93.82,5798.2,5,No
+CUST10645,42,Male,21,Month-to-Month,Electronic Check,Fiber Optic,Standard,147.02,3089.18,3,Yes
+CUST10646,39,Female,46,One Year,Credit Card,Fiber Optic,Standard,55.47,2578.42,2,No
+CUST10647,30,Female,69,Two Year,Bank Transfer,Fiber Optic,Basic,40.59,2838.25,10,No
+CUST10648,36,Female,6,Two Year,Electronic Check,Fiber Optic,Standard,26.76,248.78,5,No
+CUST10649,66,Female,38,One Year,Credit Card,Fiber Optic,Basic,51.32,2045.2,0,No
+CUST10650,53,Female,62,Month-to-Month,Electronic Check,DSL,Standard,108.93,6825.31,1,No
+CUST10651,29,Female,62,One Year,Bank Transfer,No Internet,Standard,31.08,1976.21,6,No
+CUST10652,58,Male,46,One Year,Electronic Check,Fiber Optic,Standard,51.81,2447.32,3,No
+CUST10653,36,Female,13,One Year,Mailed Check,Fiber Optic,Premium,131.19,1746.87,4,No
+CUST10654,29,Male,3,Month-to-Month,Credit Card,Fiber Optic,Basic,95.78,317.22,10,No
+CUST10655,26,Female,6,Two Year,Electronic Check,Fiber Optic,Basic,29.04,269.31,9,No
+CUST10656,24,Female,8,Two Year,Credit Card,No Internet,Basic,26.2,221.14,0,No
+CUST10657,45,Male,44,Month-to-Month,Credit Card,Fiber Optic,Premium,27.95,1264.44,1,No
+CUST10658,31,Female,33,Month-to-Month,Credit Card,DSL,Standard,142.44,4790.43,3,Yes
+CUST10659,48,Male,50,Month-to-Month,Credit Card,Fiber Optic,Standard,130.48,6596.31,7,Yes
+CUST10660,69,Male,11,Two Year,Credit Card,Fiber Optic,Basic,129.84,1431.15,9,No
+CUST10661,36,Male,28,One Year,Electronic Check,No Internet,Standard,140.15,3926.51,3,Yes
+CUST10662,64,Male,70,One Year,Electronic Check,Fiber Optic,Basic,85.68,6049.25,2,No
+CUST10663,33,Female,41,Month-to-Month,Bank Transfer,No Internet,Standard,52.15,2186.58,2,No
+CUST10664,70,Female,16,One Year,Credit Card,Fiber Optic,Premium,72.18,1199.18,4,No
+CUST10665,22,Male,68,Month-to-Month,Electronic Check,No Internet,Standard,113.45,7744.83,2,No
+CUST10666,52,Female,48,Month-to-Month,Bank Transfer,DSL,Standard,133.88,6524.9,7,Yes
+CUST10667,29,Female,56,One Year,Electronic Check,No Internet,Standard,76.56,4314.56,4,No
+CUST10668,42,Male,64,Two Year,Bank Transfer,No Internet,Standard,89.6,5783.4,6,No
+CUST10669,69,Female,59,Two Year,Electronic Check,No Internet,Standard,141.13,8367.16,10,Yes
+CUST10670,38,Male,62,Two Year,Electronic Check,DSL,Standard,33.97,2123.16,7,Yes
+CUST10671,53,Male,11,Month-to-Month,Mailed Check,DSL,Basic,132.1,1473.36,4,No
+CUST10672,70,Female,18,Month-to-Month,Electronic Check,Fiber Optic,Basic,40.71,824.61,7,Yes
+CUST10673,40,Female,19,One Year,Bank Transfer,DSL,Standard,82.9,1660.93,2,No
+CUST10674,33,Female,55,Two Year,Electronic Check,DSL,Standard,48.4,2681.9,6,No
+CUST10675,56,Male,26,Month-to-Month,Credit Card,DSL,Basic,98.38,2645.45,7,No
+CUST10676,62,Male,6,Month-to-Month,Mailed Check,Fiber Optic,Standard,92.61,576.58,6,No
+CUST10677,70,Female,4,Month-to-Month,Electronic Check,Fiber Optic,Basic,69.4,340.25,1,Yes
+CUST10678,59,Female,29,One Year,Bank Transfer,DSL,Basic,132.23,3842.8,7,No
+CUST10679,56,Female,59,Month-to-Month,Credit Card,DSL,Standard,105.78,6329.06,5,No
+CUST10680,31,Female,17,Month-to-Month,Credit Card,Fiber Optic,Standard,113.76,1939.07,9,Yes
+CUST10681,48,Male,43,Month-to-Month,Credit Card,Fiber Optic,Standard,39.59,1757.86,2,No
+CUST10682,22,Female,66,Month-to-Month,Mailed Check,DSL,Standard,134.81,8975.43,3,No
+CUST10683,52,Male,34,Two Year,Electronic Check,Fiber Optic,Premium,41.72,1430.16,6,Yes
+CUST10684,40,Male,8,Month-to-Month,Electronic Check,No Internet,Standard,48.96,432.13,2,No
+CUST10685,46,Female,13,One Year,Mailed Check,No Internet,Basic,36.65,480.65,0,No
+CUST10686,60,Female,8,One Year,Bank Transfer,No Internet,Basic,77.25,686.28,5,No
+CUST10687,28,Female,65,Two Year,Electronic Check,No Internet,Basic,135.4,8831.74,2,Yes
+CUST10688,35,Male,43,Month-to-Month,Credit Card,Fiber Optic,Premium,52.82,2327.2,10,No
+CUST10689,64,Female,39,Two Year,Credit Card,Fiber Optic,Basic,68.59,2768.28,9,No
+CUST10690,29,Female,59,One Year,Credit Card,Fiber Optic,Basic,129.99,7700.0,5,No
+CUST10691,26,Male,44,Two Year,Electronic Check,Fiber Optic,Basic,100.32,4418.94,9,No
+CUST10692,27,Female,9,Two Year,Bank Transfer,DSL,Premium,117.71,1126.95,2,No
+CUST10693,61,Male,37,Month-to-Month,Electronic Check,Fiber Optic,Basic,47.82,1848.02,5,Yes
+CUST10694,34,Female,36,Month-to-Month,Bank Transfer,Fiber Optic,Premium,113.14,4168.83,10,Yes
+CUST10695,55,Male,28,Month-to-Month,Bank Transfer,DSL,Basic,49.59,1404.3,3,Yes
+CUST10696,24,Female,42,Month-to-Month,Credit Card,Fiber Optic,Basic,148.35,6269.91,3,Yes
+CUST10697,63,Female,43,Month-to-Month,Electronic Check,DSL,Basic,92.79,4074.38,9,Yes
+CUST10698,30,Male,42,Month-to-Month,Electronic Check,DSL,Premium,110.43,4718.75,9,No
+CUST10699,57,Male,66,Month-to-Month,Credit Card,DSL,Premium,35.39,2398.22,10,No
+CUST10700,59,Female,55,Month-to-Month,Bank Transfer,Fiber Optic,Basic,52.59,2919.39,1,Yes
+CUST10701,26,Male,72,Month-to-Month,Electronic Check,DSL,Basic,38.17,2776.64,3,No
+CUST10702,67,Male,48,Month-to-Month,Credit Card,No Internet,Standard,70.72,3406.96,10,Yes
+CUST10703,44,Male,22,Month-to-Month,Electronic Check,Fiber Optic,Basic,56.94,1344.87,3,No
+CUST10704,19,Male,27,Month-to-Month,Electronic Check,Fiber Optic,Basic,115.28,3129.85,10,Yes
+CUST10705,22,Female,67,Month-to-Month,Electronic Check,DSL,Basic,34.13,2344.0,6,No
+CUST10706,46,Female,13,Month-to-Month,Electronic Check,Fiber Optic,Basic,117.77,1589.45,4,No
+CUST10707,54,Male,45,Two Year,Electronic Check,Fiber Optic,Basic,25.94,1204.26,7,No
+CUST10708,55,Male,10,Month-to-Month,Credit Card,Fiber Optic,Basic,46.26,497.85,6,Yes
+CUST10709,36,Male,9,Month-to-Month,Mailed Check,Fiber Optic,Basic,122.96,1173.5,9,Yes
+CUST10710,25,Male,54,Month-to-Month,Bank Transfer,No Internet,Premium,116.56,6333.07,8,Yes
+CUST10711,65,Female,27,Two Year,Electronic Check,No Internet,Basic,81.92,2237.35,7,No
+CUST10712,62,Female,34,Two Year,Electronic Check,Fiber Optic,Standard,26.5,940.91,8,No
+CUST10713,18,Male,1,Two Year,Electronic Check,DSL,Basic,99.29,180.06,0,No
+CUST10714,39,Male,32,One Year,Electronic Check,Fiber Optic,Standard,72.87,2428.49,9,Yes
+CUST10715,69,Male,71,Month-to-Month,Credit Card,Fiber Optic,Basic,61.15,4405.25,2,No
+CUST10716,34,Female,67,Month-to-Month,Credit Card,Fiber Optic,Standard,103.25,6995.96,4,Yes
+CUST10717,24,Male,20,Month-to-Month,Electronic Check,Fiber Optic,Basic,76.76,1588.48,8,Yes
+CUST10718,42,Female,35,Two Year,Electronic Check,Fiber Optic,Premium,32.01,1182.83,7,No
+CUST10719,62,Male,17,One Year,Electronic Check,Fiber Optic,Basic,139.07,2463.0,9,No
+CUST10720,21,Female,18,One Year,Electronic Check,DSL,Basic,121.2,2225.44,6,No
+CUST10721,53,Male,45,Month-to-Month,Bank Transfer,DSL,Premium,27.33,1236.48,1,No
+CUST10722,23,Female,53,Two Year,Electronic Check,DSL,Standard,88.26,4773.48,10,No
+CUST10723,48,Male,68,Month-to-Month,Credit Card,No Internet,Basic,30.84,2176.43,5,Yes
+CUST10724,36,Male,65,Month-to-Month,Credit Card,Fiber Optic,Premium,128.85,8415.08,3,No
+CUST10725,61,Male,1,Month-to-Month,Mailed Check,Fiber Optic,Basic,99.69,197.93,4,No
+CUST10726,56,Female,58,One Year,Mailed Check,Fiber Optic,Basic,42.42,2494.91,4,No
+CUST10727,44,Male,26,Month-to-Month,Bank Transfer,Fiber Optic,Premium,22.7,627.41,3,No
+CUST10728,27,Female,20,Two Year,Electronic Check,No Internet,Basic,24.11,543.17,3,No
+CUST10729,43,Female,10,Month-to-Month,Credit Card,Fiber Optic,Premium,85.96,887.03,3,No
+CUST10730,36,Male,59,One Year,Bank Transfer,Fiber Optic,Basic,115.47,6882.59,10,Yes
+CUST10731,56,Male,41,Month-to-Month,Electronic Check,Fiber Optic,Standard,35.71,1479.4,1,Yes
+CUST10732,20,Male,5,Month-to-Month,Credit Card,DSL,Standard,48.77,254.65,0,No
+CUST10733,62,Female,65,Two Year,Mailed Check,Fiber Optic,Premium,62.54,4118.59,1,No
+CUST10734,30,Male,17,One Year,Credit Card,Fiber Optic,Standard,48.35,877.5,6,No
+CUST10735,67,Female,22,One Year,Electronic Check,DSL,Basic,70.87,1569.81,0,No
+CUST10736,45,Female,41,Two Year,Electronic Check,Fiber Optic,Standard,92.75,3899.17,5,No
+CUST10737,37,Male,68,One Year,Credit Card,Fiber Optic,Basic,109.04,7472.05,3,No
+CUST10738,45,Male,69,Month-to-Month,Electronic Check,No Internet,Standard,145.29,10040.11,1,No
+CUST10739,25,Male,11,One Year,Bank Transfer,DSL,Premium,141.01,1582.25,2,Yes
+CUST10740,58,Male,56,Month-to-Month,Bank Transfer,Fiber Optic,Standard,94.12,5350.74,6,No
+CUST10741,56,Male,51,Month-to-Month,Electronic Check,Fiber Optic,Standard,115.44,5939.76,5,No
+CUST10742,18,Male,21,Month-to-Month,Mailed Check,DSL,Basic,143.61,3034.62,5,Yes
+CUST10743,20,Female,26,One Year,Credit Card,Fiber Optic,Standard,30.85,812.38,7,No
+CUST10744,30,Female,19,One Year,Electronic Check,DSL,Basic,20.73,436.95,7,No
+CUST10745,45,Female,60,Month-to-Month,Bank Transfer,DSL,Standard,23.87,1465.94,5,No
+CUST10746,66,Male,71,One Year,Bank Transfer,DSL,Basic,93.24,6685.63,0,No
+CUST10747,42,Female,47,Two Year,Credit Card,DSL,Standard,119.17,5693.51,9,Yes
+CUST10748,50,Female,71,Month-to-Month,Mailed Check,Fiber Optic,Basic,67.72,4832.89,6,No
+CUST10749,55,Female,26,Month-to-Month,Bank Transfer,DSL,Standard,90.88,2448.4,7,No
+CUST10750,70,Female,40,One Year,Mailed Check,Fiber Optic,Basic,87.13,3577.25,4,No
+CUST10751,23,Female,5,Month-to-Month,Credit Card,Fiber Optic,Premium,32.32,251.8,10,No
+CUST10752,61,Male,21,One Year,Bank Transfer,Fiber Optic,Basic,61.81,1393.22,3,No
+CUST10753,62,Male,4,Month-to-Month,Mailed Check,No Internet,Standard,22.53,174.33,6,No
+CUST10754,49,Female,23,Month-to-Month,Bank Transfer,Fiber Optic,Basic,34.39,850.32,10,No
+CUST10755,62,Female,15,One Year,Electronic Check,Fiber Optic,Standard,125.54,1924.08,5,No
+CUST10756,64,Female,8,One Year,Credit Card,DSL,Basic,127.82,1071.73,5,No
+CUST10757,38,Male,41,Two Year,Credit Card,Fiber Optic,Standard,124.25,5181.51,2,No
+CUST10758,33,Male,19,Two Year,Electronic Check,Fiber Optic,Basic,114.49,2205.45,10,Yes
+CUST10759,38,Female,46,One Year,Mailed Check,Fiber Optic,Standard,123.13,5679.91,9,No
+CUST10760,28,Male,28,One Year,Electronic Check,DSL,Basic,107.23,3016.52,3,Yes
+CUST10761,54,Male,68,Month-to-Month,Electronic Check,Fiber Optic,Basic,107.08,7364.14,4,Yes
+CUST10762,53,Female,15,Month-to-Month,Mailed Check,Fiber Optic,Standard,106.76,1677.55,8,No
+CUST10763,52,Male,37,Month-to-Month,Credit Card,Fiber Optic,Basic,86.83,3262.47,7,No
+CUST10764,36,Male,1,Two Year,Electronic Check,Fiber Optic,Basic,67.24,94.73,2,No
+CUST10765,37,Female,67,Month-to-Month,Credit Card,DSL,Premium,114.93,7768.07,5,Yes
+CUST10766,35,Male,24,One Year,Credit Card,Fiber Optic,Premium,58.82,1415.52,9,No
+CUST10767,64,Male,27,Month-to-Month,Electronic Check,DSL,Standard,90.58,2502.48,0,No
+CUST10768,58,Female,40,One Year,Mailed Check,DSL,Basic,76.34,3093.44,2,No
+CUST10769,66,Male,63,Two Year,Credit Card,Fiber Optic,Basic,55.96,3623.27,9,No
+CUST10770,31,Male,61,Month-to-Month,Credit Card,DSL,Standard,146.71,9000.07,6,Yes
+CUST10771,32,Female,36,Two Year,Credit Card,DSL,Basic,53.64,1986.27,6,No
+CUST10772,48,Female,24,Month-to-Month,Credit Card,DSL,Premium,60.21,1516.28,1,No
+CUST10773,18,Female,24,Month-to-Month,Electronic Check,Fiber Optic,Basic,41.01,1032.69,2,No
+CUST10774,70,Male,4,Two Year,Electronic Check,No Internet,Premium,126.99,530.42,6,Yes
+CUST10775,20,Female,67,Month-to-Month,Credit Card,Fiber Optic,Standard,96.26,6503.15,5,Yes
+CUST10776,33,Male,34,Two Year,Bank Transfer,Fiber Optic,Standard,99.7,3484.23,6,Yes
+CUST10777,40,Female,57,Month-to-Month,Electronic Check,DSL,Basic,126.67,7261.18,9,Yes
+CUST10778,28,Male,49,Month-to-Month,Credit Card,Fiber Optic,Premium,64.58,3232.38,8,Yes
+CUST10779,29,Female,53,Two Year,Bank Transfer,Fiber Optic,Basic,45.17,2491.81,7,No
+CUST10780,27,Female,23,Month-to-Month,Electronic Check,DSL,Standard,45.79,1136.16,5,Yes
+CUST10781,49,Female,69,Two Year,Electronic Check,DSL,Premium,115.24,8017.46,3,No
+CUST10782,33,Female,53,Two Year,Electronic Check,DSL,Basic,99.83,5364.59,9,No
+CUST10783,25,Male,62,Month-to-Month,Credit Card,Fiber Optic,Standard,46.82,2996.49,8,Yes
+CUST10784,55,Female,41,Month-to-Month,Electronic Check,Fiber Optic,Standard,38.86,1689.24,6,No
+CUST10785,29,Female,57,Month-to-Month,Credit Card,Fiber Optic,Basic,35.69,2131.23,4,Yes
+CUST10786,41,Male,60,Month-to-Month,Credit Card,DSL,Standard,101.61,6159.16,1,No
+CUST10787,45,Female,54,Month-to-Month,Credit Card,DSL,Basic,20.02,1119.55,8,No
+CUST10788,70,Male,70,Month-to-Month,Electronic Check,Fiber Optic,Basic,22.38,1579.92,6,Yes
+CUST10789,25,Female,57,Month-to-Month,Credit Card,Fiber Optic,Standard,70.64,4065.03,8,No
+CUST10790,45,Female,10,Month-to-Month,Bank Transfer,DSL,Standard,109.88,1193.1,10,Yes
+CUST10791,53,Female,40,Two Year,Mailed Check,DSL,Basic,110.36,4503.38,8,No
+CUST10792,43,Male,7,Two Year,Mailed Check,DSL,Premium,75.92,583.81,9,No
+CUST10793,25,Female,38,One Year,Credit Card,DSL,Premium,109.84,4227.62,4,Yes
+CUST10794,67,Female,61,Month-to-Month,Credit Card,DSL,Standard,87.74,5383.03,6,No
+CUST10795,45,Female,3,Two Year,Electronic Check,No Internet,Standard,147.0,486.45,4,Yes
+CUST10796,45,Male,51,Month-to-Month,Electronic Check,Fiber Optic,Basic,41.12,2168.56,2,Yes
+CUST10797,54,Male,47,One Year,Electronic Check,Fiber Optic,Standard,98.09,4650.47,9,Yes
+CUST10798,58,Female,68,Two Year,Bank Transfer,Fiber Optic,Standard,83.86,5721.28,7,No
+CUST10799,53,Male,38,Month-to-Month,Electronic Check,DSL,Basic,45.28,1774.73,7,Yes
+CUST10800,44,Female,36,One Year,Electronic Check,DSL,Standard,117.5,4252.53,8,No
+CUST10801,34,Female,41,Two Year,Mailed Check,Fiber Optic,Basic,55.82,2386.05,10,No
+CUST10802,26,Female,69,Two Year,Electronic Check,Fiber Optic,Basic,69.62,4842.81,5,No
+CUST10803,50,Female,13,One Year,Electronic Check,DSL,Standard,68.73,984.46,1,No
+CUST10804,70,Female,58,Month-to-Month,Electronic Check,Fiber Optic,Standard,51.75,3024.06,2,No
+CUST10805,37,Female,50,Month-to-Month,Credit Card,Fiber Optic,Standard,75.99,3818.42,10,No
+CUST10806,30,Female,30,Month-to-Month,Credit Card,DSL,Standard,81.53,2507.59,9,No
+CUST10807,45,Male,62,One Year,Electronic Check,DSL,Premium,116.75,7316.44,10,Yes
+CUST10808,65,Male,25,Month-to-Month,Credit Card,Fiber Optic,Standard,119.46,3043.18,5,Yes
+CUST10809,46,Male,27,Two Year,Bank Transfer,Fiber Optic,Standard,40.61,1119.45,0,No
+CUST10810,30,Male,51,Month-to-Month,Bank Transfer,DSL,Basic,97.06,4953.85,1,No
+CUST10811,63,Male,57,Month-to-Month,Mailed Check,DSL,Basic,136.51,7842.9,7,No
+CUST10812,52,Male,47,Month-to-Month,Bank Transfer,Fiber Optic,Basic,34.14,1617.68,10,No
+CUST10813,23,Male,39,One Year,Credit Card,DSL,Standard,81.48,3212.04,7,No
+CUST10814,35,Female,16,Month-to-Month,Electronic Check,Fiber Optic,Standard,117.55,1948.38,5,Yes
+CUST10815,68,Female,22,Month-to-Month,Electronic Check,Fiber Optic,Basic,99.49,2198.58,2,No
+CUST10816,22,Female,54,Month-to-Month,Electronic Check,DSL,Basic,33.08,1799.05,1,No
+CUST10817,64,Female,21,Month-to-Month,Bank Transfer,DSL,Basic,71.56,1508.93,5,No
+CUST10818,42,Male,72,Month-to-Month,Bank Transfer,Fiber Optic,Basic,85.94,6287.29,0,No
+CUST10819,19,Male,16,Two Year,Credit Card,DSL,Premium,149.46,2430.07,9,No
+CUST10820,27,Female,59,Month-to-Month,Electronic Check,DSL,Standard,43.22,2640.56,5,No
+CUST10821,47,Female,31,Month-to-Month,Credit Card,Fiber Optic,Basic,147.72,4608.68,8,No
+CUST10822,67,Male,42,Two Year,Mailed Check,DSL,Standard,68.9,2969.12,6,No
+CUST10823,62,Female,32,Two Year,Credit Card,Fiber Optic,Standard,46.04,1495.19,8,Yes
+CUST10824,22,Female,59,One Year,Bank Transfer,DSL,Standard,73.83,4405.8,1,No
+CUST10825,50,Female,34,Month-to-Month,Bank Transfer,Fiber Optic,Basic,99.82,3476.34,10,Yes
+CUST10826,18,Female,9,Two Year,Mailed Check,DSL,Standard,47.75,511.38,4,No
+CUST10827,35,Male,11,Two Year,Bank Transfer,No Internet,Basic,57.89,716.22,8,Yes
+CUST10828,49,Female,10,One Year,Bank Transfer,Fiber Optic,Premium,131.09,1393.27,6,No
+CUST10829,64,Female,17,Month-to-Month,Electronic Check,DSL,Standard,149.87,2568.94,8,No
+CUST10830,66,Male,68,One Year,Electronic Check,Fiber Optic,Standard,61.36,4220.7,10,Yes
+CUST10831,28,Male,48,One Year,Credit Card,Fiber Optic,Basic,39.35,1937.29,5,No
+CUST10832,38,Female,52,Month-to-Month,Electronic Check,Fiber Optic,Basic,123.11,6490.77,6,No
+CUST10833,43,Male,25,Month-to-Month,Mailed Check,Fiber Optic,Basic,98.06,2481.19,9,No
+CUST10834,42,Female,21,Two Year,Electronic Check,Fiber Optic,Premium,33.05,787.2,4,No
+CUST10835,39,Female,65,One Year,Mailed Check,DSL,Basic,143.08,9345.28,5,Yes
+CUST10836,44,Male,63,Month-to-Month,Electronic Check,Fiber Optic,Basic,30.15,1966.43,0,No
+CUST10837,66,Female,51,One Year,Electronic Check,DSL,Premium,101.3,5193.19,0,No
+CUST10838,30,Female,36,Month-to-Month,Mailed Check,Fiber Optic,Standard,75.11,2744.99,1,Yes
+CUST10839,50,Female,66,Month-to-Month,Electronic Check,Fiber Optic,Standard,92.36,6166.74,10,No
+CUST10840,51,Female,15,One Year,Electronic Check,DSL,Basic,47.72,767.07,3,No
+CUST10841,58,Male,39,Month-to-Month,Electronic Check,DSL,Standard,109.45,4361.62,10,Yes
+CUST10842,52,Male,70,Month-to-Month,Bank Transfer,Fiber Optic,Basic,144.76,10206.91,8,No
+CUST10843,18,Female,1,Two Year,Electronic Check,Fiber Optic,Standard,79.6,136.04,6,Yes
+CUST10844,38,Male,23,Month-to-Month,Credit Card,Fiber Optic,Basic,87.98,2112.21,5,Yes
+CUST10845,65,Female,39,Month-to-Month,Credit Card,DSL,Standard,51.18,2062.58,0,Yes
+CUST10846,23,Female,57,Two Year,Bank Transfer,Fiber Optic,Standard,135.94,7813.31,4,No
+CUST10847,45,Female,34,One Year,Bank Transfer,DSL,Standard,146.25,4997.14,10,No
+CUST10848,34,Female,41,One Year,Credit Card,DSL,Standard,122.22,5050.51,3,No
+CUST10849,22,Female,13,Two Year,Electronic Check,DSL,Basic,90.56,1245.61,4,No
+CUST10850,48,Male,70,Month-to-Month,Bank Transfer,DSL,Basic,144.38,10195.78,10,Yes
+CUST10851,22,Female,6,One Year,Electronic Check,Fiber Optic,Standard,40.0,271.55,8,No
+CUST10852,55,Male,52,Month-to-Month,Credit Card,No Internet,Standard,82.2,4295.95,2,Yes
+CUST10853,20,Male,3,Two Year,Credit Card,Fiber Optic,Premium,89.89,329.04,3,No
+CUST10854,70,Female,63,Month-to-Month,Mailed Check,DSL,Standard,83.95,5295.57,7,No
+CUST10855,40,Female,49,One Year,Credit Card,Fiber Optic,Standard,124.31,6162.64,2,No
+CUST10856,54,Female,47,Month-to-Month,Electronic Check,Fiber Optic,Premium,107.15,5106.36,2,Yes
+CUST10857,70,Female,55,Month-to-Month,Bank Transfer,DSL,Basic,36.47,2041.35,8,No
+CUST10858,54,Female,64,One Year,Credit Card,No Internet,Standard,65.04,4251.83,4,Yes
+CUST10859,27,Male,65,One Year,Electronic Check,Fiber Optic,Basic,64.08,4215.42,9,No
+CUST10860,27,Female,67,One Year,Credit Card,No Internet,Basic,93.53,6331.09,0,No
+CUST10861,36,Female,15,Month-to-Month,Bank Transfer,Fiber Optic,Standard,57.89,889.31,6,No
+CUST10862,34,Male,32,Month-to-Month,Mailed Check,Fiber Optic,Standard,35.25,1169.73,6,No
+CUST10863,38,Male,68,One Year,Credit Card,DSL,Standard,104.98,7224.88,5,No
+CUST10864,31,Female,18,Two Year,Electronic Check,Fiber Optic,Standard,130.63,2372.63,5,Yes
+CUST10865,26,Male,43,One Year,Electronic Check,DSL,Standard,141.11,6106.79,2,Yes
+CUST10866,63,Female,35,Two Year,Mailed Check,Fiber Optic,Basic,146.44,5157.21,2,No
+CUST10867,18,Male,58,Two Year,Bank Transfer,Fiber Optic,Standard,121.55,7065.01,9,No
+CUST10868,68,Male,33,One Year,Electronic Check,Fiber Optic,Standard,38.16,1288.25,10,No
+CUST10869,62,Female,14,One Year,Electronic Check,Fiber Optic,Premium,130.9,1855.88,8,No
+CUST10870,30,Male,34,Two Year,Bank Transfer,Fiber Optic,Basic,71.99,2540.02,0,No
+CUST10871,21,Male,61,One Year,Electronic Check,DSL,Basic,114.89,7082.4,6,No
+CUST10872,18,Male,4,Two Year,Electronic Check,Fiber Optic,Standard,89.06,387.85,10,Yes
+CUST10873,66,Male,59,One Year,Electronic Check,Fiber Optic,Premium,127.72,7611.81,9,Yes
+CUST10874,57,Male,29,One Year,Electronic Check,Fiber Optic,Standard,75.32,2186.49,6,No
+CUST10875,49,Male,6,Month-to-Month,Credit Card,Fiber Optic,Standard,28.03,220.83,7,No
+CUST10876,51,Female,49,Month-to-Month,Bank Transfer,DSL,Premium,92.39,4552.14,5,No
+CUST10877,45,Female,40,Two Year,Electronic Check,DSL,Premium,42.27,1702.23,7,No
+CUST10878,48,Male,65,One Year,Electronic Check,No Internet,Standard,145.52,9547.18,0,No
+CUST10879,25,Female,69,One Year,Electronic Check,Fiber Optic,Standard,88.51,6127.12,0,No
+CUST10880,56,Female,27,Two Year,Credit Card,DSL,Basic,91.96,2565.16,8,No
+CUST10881,43,Female,6,One Year,Electronic Check,Fiber Optic,Premium,137.94,868.96,3,Yes
+CUST10882,51,Male,13,Month-to-Month,Credit Card,No Internet,Standard,101.2,1317.03,2,Yes
+CUST10883,20,Female,64,One Year,Bank Transfer,DSL,Premium,59.35,3871.65,5,No
+CUST10884,67,Male,62,One Year,Electronic Check,Fiber Optic,Basic,58.49,3686.02,9,Yes
+CUST10885,29,Female,19,Month-to-Month,Electronic Check,No Internet,Standard,85.21,1653.41,8,No
+CUST10886,18,Male,43,Month-to-Month,Electronic Check,No Internet,Standard,132.66,5732.53,9,No
+CUST10887,61,Male,20,Month-to-Month,Credit Card,No Internet,Standard,123.31,2473.57,10,Yes
+CUST10888,22,Female,68,Month-to-Month,Mailed Check,Fiber Optic,Basic,145.16,9965.02,3,Yes
+CUST10889,47,Female,44,Month-to-Month,Electronic Check,Fiber Optic,Standard,29.35,1340.8,8,Yes
+CUST10890,47,Male,23,Month-to-Month,Mailed Check,DSL,Standard,54.88,1270.79,4,No
+CUST10891,34,Female,2,Month-to-Month,Electronic Check,DSL,Standard,30.43,147.73,6,Yes
+CUST10892,65,Female,22,Month-to-Month,Bank Transfer,Fiber Optic,Basic,117.64,2615.96,2,No
+CUST10893,64,Female,57,Month-to-Month,Credit Card,Fiber Optic,Standard,38.31,2204.03,2,No
+CUST10894,40,Male,72,One Year,Bank Transfer,DSL,Basic,32.99,2403.37,2,No
+CUST10895,32,Male,7,Two Year,Credit Card,Fiber Optic,Basic,93.02,707.6,7,No
+CUST10896,54,Female,56,One Year,Credit Card,DSL,Standard,73.49,4122.85,5,No
+CUST10897,38,Female,67,Month-to-Month,Bank Transfer,Fiber Optic,Premium,112.96,7616.5,8,No
+CUST10898,31,Female,16,Month-to-Month,Bank Transfer,DSL,Standard,83.31,1422.53,8,Yes
+CUST10899,19,Male,51,Month-to-Month,Credit Card,Fiber Optic,Standard,75.29,3858.61,7,Yes
+CUST10900,28,Male,72,Month-to-Month,Electronic Check,Fiber Optic,Basic,75.32,5456.16,0,No
+CUST10901,68,Female,12,Month-to-Month,Electronic Check,DSL,Standard,133.34,1639.69,5,No
+CUST10902,56,Female,53,Month-to-Month,Bank Transfer,No Internet,Basic,71.38,3841.76,3,No
+CUST10903,55,Female,5,Month-to-Month,Credit Card,Fiber Optic,Premium,63.34,408.63,3,Yes
+CUST10904,51,Female,27,Two Year,Credit Card,DSL,Premium,64.01,1767.72,2,No
+CUST10905,55,Female,12,Month-to-Month,Bank Transfer,DSL,Standard,45.56,553.64,8,Yes
+CUST10906,67,Female,17,Month-to-Month,Mailed Check,DSL,Standard,131.89,2276.93,1,Yes
+CUST10907,51,Male,6,Two Year,Credit Card,DSL,Standard,39.06,253.37,0,No
+CUST10908,35,Female,5,Month-to-Month,Bank Transfer,Fiber Optic,Standard,138.12,755.78,9,No
+CUST10909,47,Male,57,Month-to-Month,Bank Transfer,Fiber Optic,Basic,56.85,3243.38,2,No
+CUST10910,32,Female,28,One Year,Electronic Check,No Internet,Basic,136.93,3863.23,3,No
+CUST10911,44,Female,69,One Year,Electronic Check,Fiber Optic,Standard,122.81,8528.41,3,Yes
+CUST10912,68,Male,59,One Year,Bank Transfer,DSL,Premium,95.66,5671.67,5,Yes
+CUST10913,51,Male,33,Month-to-Month,Electronic Check,DSL,Basic,107.03,3587.09,0,Yes
+CUST10914,69,Male,62,Month-to-Month,Mailed Check,Fiber Optic,Basic,62.36,3877.79,0,No
+CUST10915,55,Male,50,Month-to-Month,Electronic Check,DSL,Standard,94.65,4826.78,1,No
+CUST10916,50,Female,19,Month-to-Month,Electronic Check,DSL,Premium,58.01,1131.28,3,No
+CUST10917,41,Male,69,Two Year,Mailed Check,Fiber Optic,Basic,72.3,5081.0,6,No
+CUST10918,32,Female,66,One Year,Credit Card,DSL,Basic,119.41,7913.64,5,Yes
+CUST10919,47,Male,47,Month-to-Month,Electronic Check,Fiber Optic,Standard,51.71,2508.55,10,Yes
+CUST10920,59,Female,39,One Year,Bank Transfer,DSL,Standard,129.05,5057.57,8,No
+CUST10921,68,Female,68,Month-to-Month,Bank Transfer,No Internet,Basic,68.86,4749.46,6,No
+CUST10922,34,Female,33,Two Year,Credit Card,Fiber Optic,Basic,89.18,2975.31,4,No
+CUST10923,22,Female,13,Month-to-Month,Electronic Check,Fiber Optic,Standard,142.45,1902.77,5,No
+CUST10924,46,Female,54,Month-to-Month,Bank Transfer,DSL,Standard,108.56,5929.62,9,No
+CUST10925,21,Female,7,Month-to-Month,Mailed Check,No Internet,Premium,103.93,786.4,8,Yes
+CUST10926,27,Male,14,One Year,Electronic Check,Fiber Optic,Standard,112.51,1632.77,0,Yes
+CUST10927,34,Female,19,One Year,Mailed Check,Fiber Optic,Basic,139.35,2654.22,10,No
+CUST10928,27,Male,54,Month-to-Month,Mailed Check,Fiber Optic,Standard,52.31,2849.65,8,No
+CUST10929,34,Male,20,Month-to-Month,Credit Card,Fiber Optic,Standard,99.72,2051.58,5,Yes
+CUST10930,37,Female,29,Month-to-Month,Bank Transfer,DSL,Basic,72.05,2091.28,3,Yes
+CUST10931,41,Male,24,Month-to-Month,Electronic Check,Fiber Optic,Premium,21.54,542.02,4,No
+CUST10932,22,Female,63,Two Year,Electronic Check,Fiber Optic,Premium,36.29,2309.19,0,No
+CUST10933,51,Male,57,Month-to-Month,Bank Transfer,Fiber Optic,Basic,62.25,3573.24,6,Yes
+CUST10934,23,Female,8,Month-to-Month,Mailed Check,DSL,Basic,93.45,801.16,7,No
+CUST10935,70,Male,62,One Year,Bank Transfer,Fiber Optic,Basic,134.59,8402.78,10,No
+CUST10936,19,Female,29,Month-to-Month,Credit Card,Fiber Optic,Basic,122.84,3653.26,4,No
+CUST10937,30,Female,17,One Year,Electronic Check,DSL,Standard,91.93,1601.41,1,No
+CUST10938,60,Female,66,Two Year,Electronic Check,DSL,Standard,29.6,2046.26,7,No
+CUST10939,60,Female,6,Month-to-Month,Credit Card,DSL,Premium,57.17,408.22,9,No
+CUST10940,65,Male,58,Two Year,Electronic Check,Fiber Optic,Basic,67.67,4016.13,6,Yes
+CUST10941,28,Female,69,One Year,Credit Card,DSL,Standard,100.82,7039.93,9,No
+CUST10942,68,Male,28,Month-to-Month,Electronic Check,Fiber Optic,Premium,28.44,865.08,8,Yes
+CUST10943,64,Male,62,Month-to-Month,Bank Transfer,Fiber Optic,Standard,88.93,5549.27,3,No
+CUST10944,40,Male,41,Month-to-Month,Electronic Check,Fiber Optic,Basic,137.19,5648.9,10,No
+CUST10945,33,Female,69,One Year,Credit Card,No Internet,Basic,111.71,7730.23,8,Yes
+CUST10946,48,Male,41,One Year,Credit Card,DSL,Basic,123.62,5163.64,3,Yes
+CUST10947,28,Male,49,Two Year,Electronic Check,DSL,Premium,108.62,5418.24,2,No
+CUST10948,33,Male,49,Two Year,Electronic Check,Fiber Optic,Premium,46.86,2368.62,10,No
+CUST10949,25,Female,71,One Year,Electronic Check,DSL,Premium,34.36,2527.94,2,No
+CUST10950,21,Female,3,One Year,Mailed Check,DSL,Premium,127.83,475.39,9,Yes
+CUST10951,57,Male,10,Month-to-Month,Electronic Check,Fiber Optic,Basic,110.42,1155.36,1,No
+CUST10952,21,Female,35,Month-to-Month,Bank Transfer,No Internet,Premium,94.76,3379.51,9,No
+CUST10953,42,Female,2,Month-to-Month,Mailed Check,Fiber Optic,Premium,44.61,131.1,2,No
+CUST10954,20,Male,24,One Year,Bank Transfer,DSL,Basic,98.43,2404.17,7,Yes
+CUST10955,49,Male,38,Month-to-Month,Electronic Check,Fiber Optic,Basic,24.07,918.5,10,Yes
+CUST10956,20,Female,22,Month-to-Month,Mailed Check,DSL,Standard,35.45,823.28,7,Yes
+CUST10957,44,Male,26,Month-to-Month,Electronic Check,Fiber Optic,Basic,60.55,1641.65,1,Yes
+CUST10958,46,Female,43,Month-to-Month,Credit Card,Fiber Optic,Basic,77.69,3382.87,10,No
+CUST10959,49,Female,55,One Year,Mailed Check,No Internet,Premium,35.67,2049.09,1,No
+CUST10960,67,Female,39,Month-to-Month,Credit Card,DSL,Premium,35.59,1421.27,1,No
+CUST10961,68,Female,29,One Year,Credit Card,Fiber Optic,Basic,114.37,3330.0,9,No
+CUST10962,36,Female,20,Month-to-Month,Electronic Check,DSL,Standard,94.06,1962.36,6,Yes
+CUST10963,38,Female,41,One Year,Electronic Check,DSL,Premium,89.39,3732.38,5,Yes
+CUST10964,22,Male,54,Month-to-Month,Credit Card,Fiber Optic,Standard,78.82,4280.46,10,No
+CUST10965,35,Male,20,Month-to-Month,Electronic Check,DSL,Basic,146.95,2992.65,0,No
+CUST10966,45,Female,19,One Year,Mailed Check,Fiber Optic,Standard,26.47,543.12,1,No
+CUST10967,59,Female,66,Month-to-Month,Mailed Check,Fiber Optic,Premium,43.48,2963.57,0,No
+CUST10968,39,Female,30,Month-to-Month,Mailed Check,No Internet,Premium,104.18,3186.13,10,Yes
+CUST10969,38,Male,53,Month-to-Month,Credit Card,Fiber Optic,Basic,37.73,2015.53,6,Yes
+CUST10970,23,Female,34,Month-to-Month,Bank Transfer,Fiber Optic,Basic,96.62,3335.29,5,No
+CUST10971,18,Male,22,Month-to-Month,Mailed Check,Fiber Optic,Premium,93.81,2150.08,1,No
+CUST10972,22,Female,67,Month-to-Month,Mailed Check,DSL,Basic,146.23,9864.56,1,Yes
+CUST10973,58,Female,6,One Year,Credit Card,Fiber Optic,Standard,134.84,893.29,1,No
+CUST10974,29,Male,27,Two Year,Electronic Check,Fiber Optic,Basic,142.92,3883.88,7,No
+CUST10975,43,Male,10,Month-to-Month,Electronic Check,Fiber Optic,Basic,34.77,436.54,6,No
+CUST10976,63,Female,48,Two Year,Credit Card,Fiber Optic,Standard,132.86,6452.84,0,Yes
+CUST10977,51,Female,70,Month-to-Month,Credit Card,Fiber Optic,Basic,36.78,2647.49,3,Yes
+CUST10978,66,Female,59,One Year,Bank Transfer,DSL,Premium,102.28,6069.17,10,Yes
+CUST10979,31,Male,59,One Year,Electronic Check,DSL,Basic,113.61,6791.76,3,Yes
+CUST10980,43,Male,2,One Year,Electronic Check,Fiber Optic,Premium,40.91,145.62,6,No
+CUST10981,62,Male,29,Month-to-Month,Electronic Check,Fiber Optic,Premium,102.25,3050.43,1,No
+CUST10982,44,Male,68,Month-to-Month,Electronic Check,Fiber Optic,Basic,26.82,1859.86,3,No
+CUST10983,26,Male,65,Month-to-Month,Electronic Check,Fiber Optic,Standard,58.12,3792.37,0,No
+CUST10984,43,Male,26,Month-to-Month,Bank Transfer,DSL,Basic,139.75,3666.73,10,Yes
+CUST10985,64,Female,10,Month-to-Month,Credit Card,Fiber Optic,Standard,42.33,468.83,10,No
+CUST10986,39,Female,53,Month-to-Month,Bank Transfer,Fiber Optic,Standard,28.49,1563.31,3,No
+CUST10987,64,Male,59,Month-to-Month,Electronic Check,Fiber Optic,Basic,77.68,4634.2,10,No
+CUST10988,47,Female,22,Month-to-Month,Electronic Check,Fiber Optic,Standard,130.58,2927.37,0,Yes
+CUST10989,60,Female,51,One Year,Credit Card,Fiber Optic,Standard,29.97,1612.64,1,No
+CUST10990,65,Male,48,Two Year,Mailed Check,Fiber Optic,Premium,66.22,3195.57,1,No
+CUST10991,34,Female,21,Two Year,Electronic Check,Fiber Optic,Basic,136.97,2907.98,9,No
+CUST10992,43,Male,22,Month-to-Month,Bank Transfer,Fiber Optic,Standard,35.36,866.78,2,Yes
+CUST10993,53,Male,30,One Year,Electronic Check,Fiber Optic,Basic,60.39,1867.75,7,No
+CUST10994,18,Female,25,Two Year,Mailed Check,Fiber Optic,Premium,121.19,3088.09,10,No
+CUST10995,25,Male,28,Month-to-Month,Bank Transfer,Fiber Optic,Basic,90.62,2585.17,5,Yes
+CUST10996,66,Male,65,Month-to-Month,Electronic Check,Fiber Optic,Standard,128.2,8387.9,5,Yes
+CUST10997,52,Male,45,Two Year,Bank Transfer,Fiber Optic,Basic,34.51,1572.76,8,Yes
+CUST10998,69,Male,68,Month-to-Month,Electronic Check,Fiber Optic,Standard,139.67,9552.25,7,Yes
+CUST10999,32,Male,7,Month-to-Month,Mailed Check,DSL,Premium,141.54,1090.5,1,No
+CUST11000,64,Male,49,Month-to-Month,Credit Card,No Internet,Standard,40.19,2025.91,5,No
+CUST11001,39,Male,9,Month-to-Month,Credit Card,Fiber Optic,Standard,24.4,224.04,0,No
+CUST11002,31,Male,36,Two Year,Bank Transfer,Fiber Optic,Standard,148.68,5432.12,8,Yes
+CUST11003,43,Female,1,One Year,Bank Transfer,Fiber Optic,Premium,82.69,122.34,3,No
+CUST11004,45,Female,10,Month-to-Month,Electronic Check,DSL,Standard,94.37,959.07,3,No
+CUST11005,40,Female,36,Month-to-Month,Bank Transfer,DSL,Premium,100.07,3688.77,8,Yes
+CUST11006,31,Male,46,One Year,Electronic Check,DSL,Standard,122.66,5662.16,2,No
+CUST11007,41,Male,32,One Year,Electronic Check,Fiber Optic,Standard,125.56,4110.0,4,No
+CUST11008,19,Female,32,Month-to-Month,Bank Transfer,No Internet,Basic,45.21,1490.9,0,No
+CUST11009,62,Female,6,Two Year,Electronic Check,Fiber Optic,Standard,50.76,378.84,5,No
+CUST11010,43,Female,48,Month-to-Month,Electronic Check,Fiber Optic,Basic,133.99,6486.22,2,Yes
+CUST11011,31,Male,38,Month-to-Month,Bank Transfer,Fiber Optic,Premium,126.54,4834.18,0,Yes
+CUST11012,68,Female,17,One Year,Electronic Check,DSL,Standard,100.29,1772.04,9,No
+CUST11013,24,Female,27,Month-to-Month,Bank Transfer,DSL,Premium,149.31,4127.16,5,No
+CUST11014,20,Male,54,Two Year,Electronic Check,Fiber Optic,Basic,115.57,6317.74,9,No
+CUST11015,64,Female,50,One Year,Electronic Check,No Internet,Basic,48.06,2463.4,1,Yes
+CUST11016,40,Male,35,One Year,Electronic Check,Fiber Optic,Premium,130.06,4651.16,7,No
+CUST11017,63,Male,25,Month-to-Month,Credit Card,Fiber Optic,Basic,73.92,1874.53,10,No
+CUST11018,60,Male,28,Month-to-Month,Bank Transfer,No Internet,Standard,24.7,697.83,1,No
+CUST11019,64,Female,15,Month-to-Month,Electronic Check,DSL,Premium,61.78,929.91,3,Yes
+CUST11020,62,Female,4,Month-to-Month,Electronic Check,Fiber Optic,Standard,119.26,548.11,2,No
+CUST11021,35,Male,27,One Year,Mailed Check,Fiber Optic,Basic,144.83,3993.43,8,No
+CUST11022,55,Female,26,Two Year,Electronic Check,Fiber Optic,Premium,55.9,1516.91,1,No
+CUST11023,52,Female,19,One Year,Mailed Check,DSL,Basic,52.05,1079.45,2,No
+CUST11024,68,Female,17,Two Year,Electronic Check,Fiber Optic,Premium,93.27,1655.39,6,No
+CUST11025,32,Female,43,One Year,Bank Transfer,Fiber Optic,Basic,125.52,5434.46,3,No
+CUST11026,42,Male,41,Month-to-Month,Electronic Check,DSL,Standard,117.05,4817.18,5,No
+CUST11027,54,Female,42,Month-to-Month,Mailed Check,Fiber Optic,Basic,92.79,3989.64,2,No
+CUST11028,45,Male,50,One Year,Bank Transfer,DSL,Standard,102.08,5114.36,0,No
+CUST11029,27,Male,40,Month-to-Month,Credit Card,No Internet,Basic,51.47,2113.1,10,Yes
+CUST11030,56,Female,39,Month-to-Month,Electronic Check,Fiber Optic,Premium,76.23,3004.37,5,No
+CUST11031,34,Male,23,Month-to-Month,Bank Transfer,Fiber Optic,Standard,53.2,1250.74,3,No
+CUST11032,56,Female,52,Two Year,Credit Card,Fiber Optic,Basic,134.97,7083.02,1,No
+CUST11033,39,Female,47,Month-to-Month,Electronic Check,DSL,Standard,34.63,1650.73,6,No
+CUST11034,43,Male,63,One Year,Electronic Check,DSL,Standard,108.37,6918.95,9,No
+CUST11035,61,Male,69,Two Year,Bank Transfer,DSL,Basic,53.84,3755.56,4,No
+CUST11036,42,Male,43,Month-to-Month,Electronic Check,DSL,Basic,81.83,3586.43,5,No
+CUST11037,34,Male,48,Month-to-Month,Credit Card,Fiber Optic,Standard,58.92,2900.94,5,No
+CUST11038,30,Female,34,Month-to-Month,Credit Card,DSL,Basic,62.02,2176.97,8,No
+CUST11039,37,Female,40,One Year,Mailed Check,Fiber Optic,Basic,53.85,2244.34,1,No
+CUST11040,42,Female,61,One Year,Mailed Check,Fiber Optic,Basic,117.86,7212.57,5,No
+CUST11041,21,Male,50,Two Year,Mailed Check,Fiber Optic,Standard,67.54,3385.61,8,No
+CUST11042,27,Male,67,One Year,Electronic Check,Fiber Optic,Standard,114.43,7672.36,3,No
+CUST11043,20,Male,62,Month-to-Month,Mailed Check,Fiber Optic,Basic,79.29,5003.76,10,No
+CUST11044,58,Female,58,Month-to-Month,Electronic Check,No Internet,Premium,91.14,5383.45,5,No
+CUST11045,62,Male,33,One Year,Credit Card,DSL,Premium,90.63,3021.04,6,Yes
+CUST11046,35,Female,16,Month-to-Month,Credit Card,Fiber Optic,Basic,146.86,2419.11,0,No
+CUST11047,64,Male,48,Month-to-Month,Electronic Check,Fiber Optic,Basic,67.72,3251.45,4,Yes
+CUST11048,53,Female,10,Month-to-Month,Mailed Check,Fiber Optic,Premium,47.0,488.86,3,Yes
+CUST11049,64,Female,38,Month-to-Month,Electronic Check,Fiber Optic,Standard,138.53,5333.07,9,Yes
+CUST11050,39,Male,19,Month-to-Month,Bank Transfer,Fiber Optic,Basic,42.73,818.46,1,No
+CUST11051,51,Male,36,Month-to-Month,Bank Transfer,Fiber Optic,Standard,128.47,4671.77,1,No
+CUST11052,64,Female,59,Month-to-Month,Bank Transfer,Fiber Optic,Standard,39.53,2398.53,1,No
+CUST11053,25,Female,63,Month-to-Month,Electronic Check,No Internet,Basic,105.63,6731.29,6,Yes
+CUST11054,57,Male,46,One Year,Credit Card,No Internet,Standard,39.57,1865.6,10,No
+CUST11055,66,Male,3,Two Year,Bank Transfer,DSL,Standard,140.0,483.03,10,No
+CUST11056,61,Female,65,Month-to-Month,Electronic Check,DSL,Standard,93.45,6128.21,3,Yes
+CUST11057,36,Male,8,One Year,Credit Card,Fiber Optic,Premium,62.81,507.71,5,No
+CUST11058,59,Female,51,Month-to-Month,Electronic Check,No Internet,Basic,38.24,2024.52,6,No
+CUST11059,58,Female,6,Month-to-Month,Credit Card,DSL,Standard,68.25,426.74,8,No
+CUST11060,54,Male,39,Two Year,Mailed Check,Fiber Optic,Standard,111.65,4357.53,10,No
+CUST11061,23,Male,60,One Year,Credit Card,No Internet,Standard,70.04,4247.52,1,No
+CUST11062,69,Male,28,Two Year,Credit Card,Fiber Optic,Basic,51.99,1542.28,9,No
+CUST11063,43,Male,54,Month-to-Month,Credit Card,DSL,Basic,95.06,5148.32,8,No
+CUST11064,51,Male,37,Month-to-Month,Credit Card,Fiber Optic,Basic,74.32,2751.13,10,No
+CUST11065,62,Female,9,Two Year,Electronic Check,No Internet,Basic,41.55,384.95,4,Yes
+CUST11066,23,Female,56,Month-to-Month,Electronic Check,Fiber Optic,Basic,40.02,2277.49,5,No
+CUST11067,54,Male,59,Month-to-Month,Credit Card,Fiber Optic,Standard,111.97,6664.25,5,No
+CUST11068,50,Male,2,One Year,Credit Card,Fiber Optic,Basic,146.71,312.72,10,Yes
+CUST11069,70,Male,61,Two Year,Credit Card,DSL,Standard,50.3,3148.5,2,No
+CUST11070,39,Female,58,Two Year,Electronic Check,Fiber Optic,Basic,120.51,7064.91,10,Yes
+CUST11071,38,Male,60,Month-to-Month,Electronic Check,DSL,Basic,31.39,1952.99,10,No
+CUST11072,23,Male,40,Two Year,Electronic Check,No Internet,Basic,69.6,2832.75,9,No
+CUST11073,23,Female,36,Month-to-Month,Mailed Check,Fiber Optic,Basic,85.87,3127.84,6,No
+CUST11074,65,Female,37,Month-to-Month,Credit Card,No Internet,Standard,54.94,2070.34,6,No
+CUST11075,21,Male,18,One Year,Electronic Check,DSL,Basic,88.85,1649.61,7,No
+CUST11076,47,Male,63,Month-to-Month,Electronic Check,Fiber Optic,Premium,134.74,8496.35,4,No
+CUST11077,28,Male,22,Month-to-Month,Mailed Check,DSL,Premium,142.78,3209.39,1,No
+CUST11078,47,Female,11,One Year,Electronic Check,Fiber Optic,Standard,33.07,398.92,2,Yes
+CUST11079,48,Male,58,Month-to-Month,Bank Transfer,Fiber Optic,Standard,55.34,3232.2,8,No
+CUST11080,41,Male,57,Month-to-Month,Electronic Check,Fiber Optic,Basic,147.29,8423.36,5,No
+CUST11081,26,Male,4,Month-to-Month,Mailed Check,Fiber Optic,Standard,55.15,238.63,7,No
+CUST11082,20,Female,7,Month-to-Month,Mailed Check,DSL,Standard,110.05,860.51,7,Yes
+CUST11083,68,Female,61,Month-to-Month,Credit Card,No Internet,Basic,52.95,3246.85,4,No
+CUST11084,48,Male,54,One Year,Electronic Check,Fiber Optic,Basic,66.33,3670.11,0,No
+CUST11085,57,Male,68,One Year,Electronic Check,Fiber Optic,Basic,44.87,3108.38,5,No
+CUST11086,54,Female,1,Month-to-Month,Credit Card,Fiber Optic,Standard,131.32,218.07,6,No
+CUST11087,53,Female,55,Two Year,Credit Card,Fiber Optic,Standard,134.74,7458.11,8,No
+CUST11088,41,Female,3,Month-to-Month,Electronic Check,Fiber Optic,Basic,58.6,268.56,1,No
+CUST11089,48,Female,38,Month-to-Month,Electronic Check,Fiber Optic,Standard,127.07,4849.81,1,Yes
+CUST11090,23,Female,1,Two Year,Credit Card,Fiber Optic,Standard,66.57,122.04,9,Yes
+CUST11091,19,Female,38,Month-to-Month,Credit Card,No Internet,Standard,32.87,1261.64,0,No
+CUST11092,37,Female,29,Two Year,Electronic Check,Fiber Optic,Basic,118.55,3482.67,4,Yes
+CUST11093,45,Female,5,Month-to-Month,Electronic Check,DSL,Standard,97.54,544.69,1,Yes
+CUST11094,28,Female,21,One Year,Mailed Check,Fiber Optic,Standard,55.67,1229.64,2,No
+CUST11095,21,Male,71,Month-to-Month,Credit Card,DSL,Standard,52.89,3791.74,1,Yes
+CUST11096,32,Male,67,Month-to-Month,Bank Transfer,DSL,Standard,146.83,9845.24,10,No
+CUST11097,23,Male,47,Month-to-Month,Credit Card,Fiber Optic,Standard,132.13,6275.64,3,No
+CUST11098,66,Female,35,One Year,Electronic Check,No Internet,Basic,125.27,4433.29,10,No
+CUST11099,47,Male,68,Month-to-Month,Electronic Check,DSL,Standard,36.64,2505.21,2,Yes
+CUST11100,55,Female,69,Two Year,Electronic Check,Fiber Optic,Premium,118.17,8247.32,8,Yes
+CUST11101,68,Female,1,Month-to-Month,Bank Transfer,No Internet,Standard,47.89,143.46,9,No
+CUST11102,19,Male,68,Month-to-Month,Bank Transfer,Fiber Optic,Basic,147.06,10085.74,1,Yes
+CUST11103,32,Female,12,Month-to-Month,Electronic Check,Fiber Optic,Basic,26.77,405.63,6,No
+CUST11104,28,Male,60,One Year,Mailed Check,Fiber Optic,Premium,65.78,3956.67,10,No
+CUST11105,25,Male,27,Two Year,Electronic Check,Fiber Optic,Basic,75.72,2143.78,2,No
+CUST11106,43,Male,56,Month-to-Month,Mailed Check,DSL,Basic,127.15,7160.44,9,No
+CUST11107,68,Female,23,One Year,Mailed Check,DSL,Basic,119.61,2767.34,7,No
+CUST11108,62,Male,25,Month-to-Month,Electronic Check,DSL,Premium,68.75,1799.96,3,Yes
+CUST11109,61,Female,21,One Year,Electronic Check,Fiber Optic,Basic,93.52,1986.49,3,Yes
+CUST11110,22,Male,61,Two Year,Credit Card,No Internet,Standard,128.63,7899.05,8,Yes
+CUST11111,23,Male,63,Month-to-Month,Bank Transfer,Fiber Optic,Standard,22.37,1422.11,10,Yes
+CUST11112,43,Male,52,Month-to-Month,Credit Card,Fiber Optic,Basic,124.28,6510.02,2,No
+CUST11113,21,Female,25,Two Year,Mailed Check,Fiber Optic,Premium,143.1,3633.31,6,Yes
+CUST11114,36,Female,55,Two Year,Bank Transfer,DSL,Standard,24.17,1373.94,0,No
+CUST11115,37,Female,46,One Year,Electronic Check,Fiber Optic,Standard,25.93,1199.73,6,No
+CUST11116,50,Male,32,Month-to-Month,Electronic Check,Fiber Optic,Premium,64.79,2121.77,9,No
+CUST11117,37,Male,55,Month-to-Month,Bank Transfer,DSL,Premium,31.41,1774.44,10,Yes
+CUST11118,66,Female,5,Month-to-Month,Electronic Check,DSL,Standard,82.31,437.71,1,No
+CUST11119,29,Female,36,Two Year,Bank Transfer,Fiber Optic,Basic,114.73,4222.44,5,No
+CUST11120,64,Female,49,One Year,Electronic Check,Fiber Optic,Premium,93.7,4633.08,8,No
+CUST11121,18,Female,58,Month-to-Month,Electronic Check,Fiber Optic,Standard,45.54,2727.73,5,No
+CUST11122,43,Female,39,Month-to-Month,Electronic Check,Fiber Optic,Premium,105.13,4111.04,2,No
+CUST11123,31,Female,61,Month-to-Month,Bank Transfer,Fiber Optic,Premium,109.03,6682.72,0,No
+CUST11124,55,Male,9,Month-to-Month,Electronic Check,DSL,Basic,141.22,1288.61,3,Yes
+CUST11125,54,Female,6,Month-to-Month,Bank Transfer,Fiber Optic,Premium,39.08,275.32,3,No
+CUST11126,28,Male,35,Month-to-Month,Credit Card,Fiber Optic,Basic,110.0,3861.16,7,No
+CUST11127,53,Male,39,Month-to-Month,Bank Transfer,No Internet,Standard,138.49,5445.21,9,Yes
+CUST11128,30,Female,22,Month-to-Month,Credit Card,No Internet,Basic,85.2,1909.79,9,No
+CUST11129,60,Female,41,Month-to-Month,Electronic Check,No Internet,Premium,67.03,2770.56,6,No
+CUST11130,20,Male,5,Month-to-Month,Bank Transfer,Fiber Optic,Standard,42.2,275.22,9,No
+CUST11131,50,Female,42,Month-to-Month,Electronic Check,Fiber Optic,Standard,132.68,5667.65,6,No
+CUST11132,23,Female,67,Month-to-Month,Credit Card,Fiber Optic,Premium,71.25,4794.46,6,No
+CUST11133,67,Male,30,Month-to-Month,Electronic Check,No Internet,Standard,140.23,4278.08,1,No
+CUST11134,27,Male,57,Month-to-Month,Bank Transfer,DSL,Standard,130.21,7496.21,8,Yes
+CUST11135,22,Male,29,Month-to-Month,Mailed Check,Fiber Optic,Premium,68.96,2049.65,5,No
+CUST11136,40,Female,37,One Year,Credit Card,Fiber Optic,Standard,94.61,3590.34,1,No
+CUST11137,27,Male,13,Two Year,Credit Card,Fiber Optic,Premium,23.53,402.53,0,No
+CUST11138,61,Female,32,One Year,Bank Transfer,DSL,Premium,54.22,1771.26,10,No
+CUST11139,19,Male,46,Month-to-Month,Electronic Check,Fiber Optic,Basic,112.34,5232.74,0,No
+CUST11140,30,Male,23,Two Year,Mailed Check,Fiber Optic,Standard,108.13,2553.21,0,No
+CUST11141,57,Male,45,One Year,Electronic Check,Fiber Optic,Basic,65.94,3007.66,3,No
+CUST11142,19,Female,17,Month-to-Month,Mailed Check,Fiber Optic,Standard,125.12,2158.72,3,Yes
+CUST11143,37,Female,66,Month-to-Month,Bank Transfer,Fiber Optic,Basic,50.66,3436.93,8,No
+CUST11144,18,Male,6,Two Year,Bank Transfer,No Internet,Standard,79.97,558.82,0,Yes
+CUST11145,54,Male,18,Month-to-Month,Bank Transfer,Fiber Optic,Basic,81.43,1477.19,2,No
+CUST11146,26,Male,22,Month-to-Month,Credit Card,Fiber Optic,Basic,64.31,1426.81,2,No
+CUST11147,34,Female,33,One Year,Credit Card,DSL,Basic,144.11,4847.88,7,No
+CUST11148,26,Male,30,Two Year,Electronic Check,DSL,Basic,110.57,3325.24,1,No
+CUST11149,28,Female,32,Month-to-Month,Credit Card,Fiber Optic,Standard,90.1,2952.04,5,Yes
+CUST11150,32,Male,42,Month-to-Month,Credit Card,Fiber Optic,Basic,86.37,3650.22,10,No
+CUST11151,41,Male,10,Month-to-Month,Mailed Check,Fiber Optic,Basic,40.71,410.62,3,No
+CUST11152,55,Male,36,One Year,Credit Card,DSL,Basic,68.38,2467.64,9,No
+CUST11153,52,Male,34,Month-to-Month,Electronic Check,Fiber Optic,Standard,107.46,3690.99,5,No
+CUST11154,47,Male,28,Month-to-Month,Electronic Check,Fiber Optic,Premium,140.19,3933.08,4,No
+CUST11155,48,Male,11,Two Year,Bank Transfer,DSL,Basic,126.14,1447.2,8,Yes
+CUST11156,66,Female,39,Month-to-Month,Electronic Check,Fiber Optic,Standard,59.05,2367.68,8,Yes
+CUST11157,22,Male,47,One Year,Electronic Check,Fiber Optic,Standard,76.41,3628.62,0,No
+CUST11158,61,Female,19,Month-to-Month,Bank Transfer,Fiber Optic,Basic,30.78,659.11,2,No
+CUST11159,67,Male,15,Month-to-Month,Credit Card,DSL,Standard,33.28,548.2,0,No
+CUST11160,31,Male,28,One Year,Credit Card,Fiber Optic,Basic,81.13,2314.66,5,No
+CUST11161,70,Female,24,Month-to-Month,Electronic Check,DSL,Standard,88.93,2175.02,2,No
+CUST11162,28,Male,72,Month-to-Month,Bank Transfer,DSL,Basic,54.32,3954.15,0,No
+CUST11163,26,Female,9,Month-to-Month,Electronic Check,DSL,Premium,103.56,1028.83,5,No
+CUST11164,51,Female,47,One Year,Bank Transfer,Fiber Optic,Basic,111.44,5305.82,4,No
+CUST11165,29,Male,33,Two Year,Electronic Check,DSL,Standard,58.89,1974.89,7,No
+CUST11166,52,Female,62,Two Year,Mailed Check,No Internet,Premium,118.6,7426.59,1,No
+CUST11167,52,Female,19,Month-to-Month,Credit Card,DSL,Basic,46.73,920.9,7,Yes
+CUST11168,18,Male,67,Month-to-Month,Credit Card,DSL,Standard,90.75,6092.82,4,No
+CUST11169,57,Female,40,Month-to-Month,Credit Card,Fiber Optic,Basic,124.56,5029.94,7,No
+CUST11170,39,Male,47,Two Year,Credit Card,DSL,Standard,89.81,4296.17,9,No
+CUST11171,46,Male,65,Month-to-Month,Electronic Check,Fiber Optic,Basic,138.04,9010.37,3,No
+CUST11172,25,Male,29,Two Year,Bank Transfer,DSL,Basic,27.61,887.61,3,No
+CUST11173,28,Male,50,Month-to-Month,Electronic Check,DSL,Standard,96.48,4862.7,9,Yes
+CUST11174,58,Female,13,Two Year,Mailed Check,DSL,Standard,93.03,1244.37,3,No
+CUST11175,54,Male,1,Two Year,Bank Transfer,Fiber Optic,Standard,105.85,205.67,10,No
+CUST11176,31,Male,34,Two Year,Electronic Check,DSL,Basic,128.34,4411.81,5,No
+CUST11177,47,Female,48,Month-to-Month,Bank Transfer,Fiber Optic,Basic,114.36,5569.8,3,Yes
+CUST11178,52,Male,48,Month-to-Month,Electronic Check,Fiber Optic,Standard,122.74,5972.02,8,No
+CUST11179,38,Male,49,Month-to-Month,Electronic Check,Fiber Optic,Standard,57.55,2912.59,8,No
+CUST11180,54,Female,64,Month-to-Month,Mailed Check,Fiber Optic,Basic,70.37,4512.17,2,No
+CUST11181,22,Female,61,Month-to-Month,Bank Transfer,Fiber Optic,Basic,101.48,6217.4,6,No
+CUST11182,36,Female,29,Month-to-Month,Credit Card,No Internet,Basic,91.95,2743.32,4,Yes
+CUST11183,31,Female,39,Month-to-Month,Electronic Check,DSL,Basic,144.94,5708.92,8,Yes
+CUST11184,43,Female,26,One Year,Electronic Check,DSL,Basic,44.29,1207.5,1,No
+CUST11185,21,Female,17,One Year,Mailed Check,DSL,Basic,65.67,1133.01,2,No
+CUST11186,42,Female,71,Month-to-Month,Electronic Check,DSL,Standard,94.46,6734.78,9,No
+CUST11187,62,Male,13,Two Year,Electronic Check,DSL,Standard,132.84,1779.05,4,No
+CUST11188,59,Female,69,Month-to-Month,Credit Card,Fiber Optic,Basic,140.82,9744.3,4,Yes
+CUST11189,42,Female,26,Month-to-Month,Credit Card,Fiber Optic,Basic,63.68,1676.71,9,No
+CUST11190,35,Female,49,Month-to-Month,Credit Card,No Internet,Basic,28.72,1416.06,6,Yes
+CUST11191,57,Male,67,Two Year,Electronic Check,DSL,Standard,74.81,5027.84,7,No
+CUST11192,25,Male,7,Month-to-Month,Electronic Check,DSL,Premium,71.26,575.71,7,Yes
+CUST11193,56,Female,58,Month-to-Month,Electronic Check,No Internet,Standard,148.24,8669.8,0,Yes
+CUST11194,57,Female,49,One Year,Mailed Check,Fiber Optic,Standard,76.04,3730.54,0,No
+CUST11195,31,Female,53,Month-to-Month,Electronic Check,Fiber Optic,Premium,59.74,3186.55,2,Yes
+CUST11196,49,Male,65,One Year,Bank Transfer,Fiber Optic,Basic,67.5,4443.55,0,No
+CUST11197,68,Male,62,Two Year,Bank Transfer,Fiber Optic,Basic,71.6,4471.46,0,No
+CUST11198,55,Female,17,Two Year,Bank Transfer,Fiber Optic,Standard,126.8,2237.92,9,No
+CUST11199,50,Male,43,Month-to-Month,Mailed Check,DSL,Basic,30.53,1391.29,7,No
+CUST11200,40,Female,25,Month-to-Month,Electronic Check,Fiber Optic,Standard,61.15,1617.91,0,No
+CUST11201,32,Male,3,Month-to-Month,Electronic Check,Fiber Optic,Standard,145.62,493.15,8,Yes
+CUST11202,50,Male,29,Month-to-Month,Credit Card,DSL,Standard,39.9,1192.31,1,Yes
+CUST11203,42,Female,32,Month-to-Month,Electronic Check,Fiber Optic,Basic,116.54,3789.89,8,Yes
+CUST11204,34,Female,26,Month-to-Month,Bank Transfer,Fiber Optic,Standard,66.33,1733.49,6,No
+CUST11205,50,Female,16,Two Year,Credit Card,No Internet,Standard,95.63,1531.04,8,No
+CUST11206,64,Female,25,Two Year,Mailed Check,DSL,Premium,32.94,825.21,2,Yes
+CUST11207,19,Male,54,Month-to-Month,Electronic Check,No Internet,Standard,59.83,3271.57,0,No
+CUST11208,31,Male,28,Month-to-Month,Mailed Check,Fiber Optic,Premium,85.11,2405.89,0,Yes
+CUST11209,70,Male,56,Month-to-Month,Electronic Check,Fiber Optic,Basic,50.12,2822.45,10,No
+CUST11210,57,Female,65,Month-to-Month,Credit Card,DSL,Standard,90.44,5940.13,9,No
+CUST11211,57,Male,41,One Year,Credit Card,Fiber Optic,Basic,48.57,2090.88,5,No
+CUST11212,68,Female,51,One Year,Bank Transfer,No Internet,Basic,104.51,5347.79,6,No
+CUST11213,56,Male,71,Two Year,Credit Card,Fiber Optic,Premium,137.57,9822.11,8,No
+CUST11214,68,Female,29,One Year,Mailed Check,DSL,Premium,31.11,914.16,5,No
+CUST11215,23,Female,19,Month-to-Month,Mailed Check,Fiber Optic,Basic,48.16,1008.46,4,No
+CUST11216,23,Male,66,One Year,Mailed Check,Fiber Optic,Basic,129.77,8594.0,1,No
+CUST11217,20,Female,41,Month-to-Month,Electronic Check,DSL,Basic,102.1,4273.93,1,Yes
+CUST11218,24,Female,45,One Year,Mailed Check,Fiber Optic,Premium,30.23,1388.66,7,No
+CUST11219,68,Male,15,Month-to-Month,Bank Transfer,Fiber Optic,Basic,83.23,1329.06,0,Yes
+CUST11220,25,Female,3,Month-to-Month,Electronic Check,DSL,Basic,47.27,162.75,7,No
+CUST11221,59,Female,11,Month-to-Month,Electronic Check,Fiber Optic,Basic,45.88,533.96,10,No
+CUST11222,69,Female,53,Month-to-Month,Electronic Check,DSL,Standard,142.28,7560.09,9,Yes
+CUST11223,32,Male,46,Two Year,Electronic Check,Fiber Optic,Premium,119.0,5500.43,10,Yes
+CUST11224,64,Male,30,Month-to-Month,Credit Card,Fiber Optic,Basic,110.51,3398.79,6,Yes
+CUST11225,46,Female,57,Month-to-Month,Mailed Check,Fiber Optic,Standard,51.06,2974.32,6,No
+CUST11226,50,Male,18,Month-to-Month,Credit Card,Fiber Optic,Basic,35.41,677.97,4,No
+CUST11227,69,Female,51,One Year,Credit Card,DSL,Standard,133.21,6890.86,2,No
+CUST11228,47,Female,48,Month-to-Month,Mailed Check,Fiber Optic,Standard,20.76,1042.97,6,Yes
+CUST11229,56,Female,66,Two Year,Electronic Check,Fiber Optic,Basic,70.45,4746.68,6,No
+CUST11230,44,Female,8,Two Year,Mailed Check,Fiber Optic,Basic,56.09,468.38,6,No
+CUST11231,53,Female,22,One Year,Credit Card,Fiber Optic,Premium,94.15,2161.76,10,No
+CUST11232,46,Male,6,One Year,Credit Card,Fiber Optic,Basic,52.57,316.8,1,No
+CUST11233,55,Female,57,Month-to-Month,Electronic Check,DSL,Standard,60.46,3500.75,2,No
+CUST11234,50,Male,36,Month-to-Month,Credit Card,DSL,Basic,130.51,4740.67,2,Yes
+CUST11235,54,Male,57,One Year,Electronic Check,DSL,Basic,98.41,5661.88,3,No
+CUST11236,44,Female,49,Month-to-Month,Bank Transfer,Fiber Optic,Standard,38.94,1963.4,8,Yes
+CUST11237,50,Female,45,Month-to-Month,Electronic Check,DSL,Premium,114.44,5188.7,9,No
+CUST11238,21,Male,66,One Year,Mailed Check,DSL,Standard,46.97,3199.84,0,No
+CUST11239,39,Male,45,Month-to-Month,Electronic Check,Fiber Optic,Basic,76.29,3530.7,6,No
+CUST11240,19,Male,20,Two Year,Electronic Check,DSL,Standard,104.06,2177.37,6,No
+CUST11241,27,Female,64,Month-to-Month,Bank Transfer,Fiber Optic,Standard,55.35,3640.31,10,No
+CUST11242,22,Male,67,One Year,Electronic Check,DSL,Standard,69.93,4764.61,3,No
+CUST11243,27,Female,3,Month-to-Month,Bank Transfer,DSL,Standard,115.44,445.18,10,Yes
+CUST11244,50,Female,54,One Year,Mailed Check,Fiber Optic,Basic,141.93,7753.46,0,No
+CUST11245,55,Female,64,Month-to-Month,Bank Transfer,DSL,Standard,88.8,5724.79,2,No
+CUST11246,30,Male,40,Month-to-Month,Electronic Check,Fiber Optic,Standard,21.3,930.48,4,No
+CUST11247,48,Female,59,Two Year,Credit Card,Fiber Optic,Basic,64.0,3867.21,1,Yes
+CUST11248,64,Female,55,Month-to-Month,Bank Transfer,DSL,Standard,71.82,4021.36,6,No
+CUST11249,53,Female,62,Month-to-Month,Bank Transfer,DSL,Basic,64.09,4015.86,9,No
+CUST11250,62,Female,4,Month-to-Month,Electronic Check,Fiber Optic,Basic,76.71,313.42,9,No
+CUST11251,41,Female,60,One Year,Credit Card,DSL,Premium,102.25,6215.97,6,Yes
+CUST11252,69,Male,30,Month-to-Month,Credit Card,DSL,Basic,35.75,1167.77,9,Yes
+CUST11253,32,Female,2,Two Year,Electronic Check,Fiber Optic,Basic,55.44,147.13,4,Yes
+CUST11254,46,Female,62,Month-to-Month,Electronic Check,Fiber Optic,Standard,85.99,5346.57,9,No
+CUST11255,25,Male,49,Month-to-Month,Credit Card,Fiber Optic,Premium,61.02,3022.63,5,No
+CUST11256,22,Female,9,One Year,Bank Transfer,Fiber Optic,Premium,148.84,1397.82,0,No
+CUST11257,46,Male,31,One Year,Mailed Check,No Internet,Standard,76.09,2390.48,3,Yes
+CUST11258,64,Female,61,Two Year,Credit Card,DSL,Basic,133.07,8178.33,3,No
+CUST11259,21,Male,48,Two Year,Electronic Check,Fiber Optic,Premium,136.55,6651.09,10,Yes
+CUST11260,29,Male,25,Month-to-Month,Electronic Check,Fiber Optic,Standard,128.68,3284.07,7,No
+CUST11261,62,Female,36,Month-to-Month,Mailed Check,Fiber Optic,Basic,26.1,975.87,1,No
+CUST11262,19,Female,8,Month-to-Month,Mailed Check,No Internet,Premium,143.21,1239.26,0,No
+CUST11263,44,Female,58,One Year,Mailed Check,DSL,Basic,36.74,2187.48,6,No
+CUST11264,48,Male,45,Two Year,Bank Transfer,DSL,Basic,24.47,1113.99,5,No
+CUST11265,68,Male,62,Month-to-Month,Electronic Check,Fiber Optic,Premium,73.87,4629.84,4,No
+CUST11266,68,Male,39,Month-to-Month,Bank Transfer,Fiber Optic,Standard,45.3,1832.06,7,No
+CUST11267,53,Female,58,Month-to-Month,Credit Card,DSL,Basic,43.95,2632.93,10,Yes
+CUST11268,53,Male,64,Two Year,Electronic Check,DSL,Basic,57.42,3768.53,1,No
+CUST11269,43,Male,44,Month-to-Month,Bank Transfer,Fiber Optic,Standard,52.29,2332.5,1,Yes
+CUST11270,60,Female,29,Month-to-Month,Electronic Check,Fiber Optic,Basic,109.02,3177.13,8,No
+CUST11271,44,Male,59,Month-to-Month,Electronic Check,Fiber Optic,Basic,44.28,2619.9,0,Yes
+CUST11272,22,Male,71,Two Year,Credit Card,No Internet,Standard,90.61,6507.15,5,Yes
+CUST11273,37,Female,9,One Year,Credit Card,DSL,Premium,148.24,1413.68,2,No
+CUST11274,28,Male,6,One Year,Mailed Check,DSL,Standard,76.21,498.2,4,No
+CUST11275,27,Female,29,Month-to-Month,Electronic Check,Fiber Optic,Standard,103.44,3039.35,7,No
+CUST11276,57,Female,58,Month-to-Month,Electronic Check,Fiber Optic,Standard,146.02,8564.58,6,Yes
+CUST11277,55,Female,17,One Year,Electronic Check,DSL,Standard,37.89,735.8,3,Yes
+CUST11278,23,Female,16,Two Year,Electronic Check,DSL,Basic,74.42,1214.05,7,No
+CUST11279,25,Female,3,Month-to-Month,Electronic Check,Fiber Optic,Premium,130.53,469.67,10,Yes
+CUST11280,40,Male,21,Month-to-Month,Bank Transfer,No Internet,Standard,141.2,3027.47,10,No
+CUST11281,64,Male,64,Month-to-Month,Credit Card,Fiber Optic,Basic,98.16,6297.66,9,No
+CUST11282,43,Female,36,Month-to-Month,Bank Transfer,DSL,Basic,38.64,1426.72,10,No
+CUST11283,63,Female,62,Two Year,Mailed Check,No Internet,Standard,137.19,8523.53,1,No
+CUST11284,60,Male,42,Month-to-Month,Bank Transfer,No Internet,Basic,42.68,1822.08,6,No
+CUST11285,29,Female,42,Month-to-Month,Electronic Check,Fiber Optic,Basic,65.87,2828.07,4,No
+CUST11286,43,Female,61,Month-to-Month,Electronic Check,Fiber Optic,Standard,68.82,4235.55,10,Yes
+CUST11287,30,Female,13,Month-to-Month,Mailed Check,Fiber Optic,Premium,78.15,1055.36,5,Yes
+CUST11288,57,Male,11,Month-to-Month,Credit Card,No Internet,Standard,122.72,1403.88,2,No
+CUST11289,35,Male,54,Month-to-Month,Bank Transfer,Fiber Optic,Basic,124.28,6719.84,10,Yes
+CUST11290,42,Female,16,Month-to-Month,Mailed Check,Fiber Optic,Basic,113.56,1890.84,9,Yes
+CUST11291,50,Female,8,One Year,Mailed Check,Fiber Optic,Standard,22.88,223.21,6,No
+CUST11292,64,Male,59,Month-to-Month,Mailed Check,Fiber Optic,Basic,93.43,5560.41,6,No
+CUST11293,57,Male,57,Month-to-Month,Credit Card,Fiber Optic,Standard,117.17,6776.12,1,No
+CUST11294,60,Female,40,Two Year,Electronic Check,Fiber Optic,Basic,77.8,3146.44,0,No
+CUST11295,29,Female,59,One Year,Mailed Check,No Internet,Premium,142.84,8492.38,9,No
+CUST11296,61,Male,2,One Year,Credit Card,Fiber Optic,Standard,127.1,293.45,1,No
+CUST11297,53,Male,10,Month-to-Month,Electronic Check,Fiber Optic,Basic,102.96,1119.03,7,Yes
+CUST11298,65,Male,44,Month-to-Month,Credit Card,Fiber Optic,Premium,28.12,1321.96,10,No
+CUST11299,21,Female,11,Month-to-Month,Credit Card,Fiber Optic,Basic,104.81,1177.07,9,No
+CUST11300,22,Male,2,Month-to-Month,Mailed Check,Fiber Optic,Basic,138.51,346.19,2,Yes
+CUST11301,54,Female,50,Month-to-Month,Bank Transfer,DSL,Premium,69.33,3473.02,10,No
+CUST11302,25,Male,12,Two Year,Electronic Check,Fiber Optic,Basic,128.96,1643.84,3,No
+CUST11303,59,Male,23,Month-to-Month,Mailed Check,DSL,Standard,60.71,1431.23,7,No
+CUST11304,66,Male,18,Month-to-Month,Bank Transfer,DSL,Basic,94.11,1777.16,2,No
+CUST11305,45,Male,62,One Year,Credit Card,Fiber Optic,Basic,104.3,6498.44,5,No
+CUST11306,48,Female,62,Month-to-Month,Electronic Check,DSL,Basic,108.14,6767.96,1,No
+CUST11307,26,Female,38,One Year,Electronic Check,DSL,Standard,134.73,5218.1,2,No
+CUST11308,68,Male,67,One Year,Bank Transfer,DSL,Standard,50.5,3471.17,0,No
+CUST11309,46,Female,38,One Year,Electronic Check,DSL,Basic,54.11,2072.22,8,No
+CUST11310,31,Male,67,Two Year,Electronic Check,Fiber Optic,Basic,111.53,7527.26,3,Yes
+CUST11311,57,Male,61,Month-to-Month,Bank Transfer,Fiber Optic,Premium,43.04,2660.29,5,Yes
+CUST11312,58,Male,1,Month-to-Month,Credit Card,No Internet,Premium,80.36,123.79,6,No
+CUST11313,39,Male,45,Two Year,Credit Card,Fiber Optic,Standard,22.6,1050.52,1,No
+CUST11314,28,Female,28,One Year,Electronic Check,DSL,Premium,38.33,1106.84,7,Yes
+CUST11315,40,Male,21,Month-to-Month,Credit Card,DSL,Standard,108.25,2327.51,8,No
+CUST11316,18,Male,13,Two Year,Bank Transfer,Fiber Optic,Basic,117.17,1542.41,9,No
+CUST11317,63,Female,27,Month-to-Month,Electronic Check,Fiber Optic,Basic,34.99,998.47,10,No
+CUST11318,54,Male,7,Two Year,Electronic Check,No Internet,Basic,49.6,375.1,1,Yes
+CUST11319,38,Male,22,Month-to-Month,Bank Transfer,Fiber Optic,Premium,32.86,751.82,4,No
+CUST11320,43,Male,53,Month-to-Month,Mailed Check,Fiber Optic,Standard,76.34,4119.89,1,No
+CUST11321,63,Female,4,Two Year,Credit Card,Fiber Optic,Standard,36.4,148.56,10,No
+CUST11322,53,Male,23,Month-to-Month,Electronic Check,No Internet,Basic,76.85,1805.64,4,Yes
+CUST11323,40,Female,70,Month-to-Month,Electronic Check,Fiber Optic,Standard,115.17,8102.65,6,Yes
+CUST11324,18,Male,33,Month-to-Month,Mailed Check,DSL,Standard,108.84,3640.23,5,Yes
+CUST11325,68,Male,28,Two Year,Electronic Check,Fiber Optic,Premium,56.46,1647.78,3,No
+CUST11326,57,Female,8,Two Year,Credit Card,Fiber Optic,Basic,107.59,897.69,1,Yes
+CUST11327,32,Male,1,One Year,Credit Card,No Internet,Standard,140.6,161.91,6,No
+CUST11328,38,Male,37,One Year,Electronic Check,Fiber Optic,Basic,65.18,2500.15,9,Yes
+CUST11329,64,Female,63,Two Year,Bank Transfer,DSL,Standard,62.79,4053.87,8,No
+CUST11330,26,Female,22,Month-to-Month,Bank Transfer,No Internet,Standard,94.29,2076.38,0,No
+CUST11331,70,Female,70,Month-to-Month,Bank Transfer,Fiber Optic,Basic,51.92,3689.05,2,No
+CUST11332,26,Female,21,One Year,Electronic Check,DSL,Standard,104.71,2233.08,6,No
+CUST11333,27,Female,35,Month-to-Month,Electronic Check,No Internet,Basic,128.19,4514.35,8,No
+CUST11334,69,Male,5,Month-to-Month,Credit Card,DSL,Premium,79.71,432.12,4,No
+CUST11335,70,Female,60,Month-to-Month,Credit Card,Fiber Optic,Basic,108.34,6564.29,6,Yes
+CUST11336,43,Male,46,Month-to-Month,Electronic Check,No Internet,Standard,104.75,4837.57,9,No
+CUST11337,58,Male,50,Two Year,Electronic Check,Fiber Optic,Premium,25.03,1342.79,6,No
+CUST11338,52,Male,48,Month-to-Month,Electronic Check,DSL,Basic,43.84,2150.93,3,No
+CUST11339,69,Female,6,One Year,Mailed Check,Fiber Optic,Standard,136.16,849.52,4,Yes
+CUST11340,42,Female,56,Month-to-Month,Bank Transfer,Fiber Optic,Standard,142.06,8031.91,1,No
+CUST11341,43,Male,59,Month-to-Month,Mailed Check,DSL,Basic,121.46,7167.77,7,Yes
+CUST11342,28,Female,29,Month-to-Month,Electronic Check,Fiber Optic,Standard,139.76,4096.23,0,Yes
+CUST11343,55,Female,71,One Year,Mailed Check,Fiber Optic,Standard,59.8,4281.33,1,Yes
+CUST11344,19,Female,18,One Year,Electronic Check,DSL,Premium,52.2,973.42,2,Yes
+CUST11345,24,Female,2,Two Year,Credit Card,Fiber Optic,Premium,69.96,173.63,6,No
+CUST11346,35,Male,8,One Year,Bank Transfer,No Internet,Standard,27.19,220.65,5,No
+CUST11347,44,Male,54,One Year,Electronic Check,Fiber Optic,Standard,125.28,6780.33,6,No
+CUST11348,51,Female,38,One Year,Credit Card,Fiber Optic,Premium,147.94,5635.91,10,Yes
+CUST11349,44,Male,48,Two Year,Electronic Check,DSL,Standard,127.12,6200.62,4,Yes
+CUST11350,34,Female,27,One Year,Electronic Check,Fiber Optic,Basic,92.15,2490.27,3,No
+CUST11351,60,Female,20,Month-to-Month,Credit Card,No Internet,Standard,58.39,1184.51,6,No
+CUST11352,61,Male,12,Month-to-Month,Bank Transfer,DSL,Premium,45.7,645.82,2,Yes
+CUST11353,68,Male,43,One Year,Bank Transfer,Fiber Optic,Standard,67.33,2958.02,9,No
+CUST11354,41,Male,61,One Year,Credit Card,Fiber Optic,Standard,106.71,6554.38,6,Yes
+CUST11355,42,Female,31,Month-to-Month,Credit Card,Fiber Optic,Basic,78.12,2429.6,1,No
+CUST11356,24,Male,61,Two Year,Electronic Check,DSL,Premium,141.43,8694.2,7,Yes
+CUST11357,69,Female,67,Two Year,Electronic Check,Fiber Optic,Standard,131.05,8794.13,5,Yes
+CUST11358,23,Male,35,Month-to-Month,Mailed Check,DSL,Standard,33.31,1232.97,2,Yes
+CUST11359,70,Male,15,Two Year,Electronic Check,Fiber Optic,Basic,37.1,654.42,2,No
+CUST11360,41,Female,16,Month-to-Month,Bank Transfer,Fiber Optic,Basic,107.91,1779.76,4,Yes
+CUST11361,50,Female,13,Month-to-Month,Electronic Check,Fiber Optic,Standard,50.0,671.41,2,No
+CUST11362,66,Female,35,Month-to-Month,Bank Transfer,DSL,Premium,122.83,4361.58,5,Yes
+CUST11363,46,Female,59,Month-to-Month,Bank Transfer,Fiber Optic,Basic,96.88,5767.21,1,Yes
+CUST11364,60,Female,21,Two Year,Electronic Check,DSL,Basic,49.88,1100.79,7,Yes
+CUST11365,39,Female,54,Month-to-Month,Electronic Check,DSL,Basic,82.23,4488.23,10,No
+CUST11366,43,Female,30,Month-to-Month,Bank Transfer,Fiber Optic,Basic,72.79,2251.07,10,No
+CUST11367,45,Female,48,Month-to-Month,Electronic Check,Fiber Optic,Basic,133.51,6465.67,8,No
+CUST11368,67,Male,35,Month-to-Month,Electronic Check,DSL,Standard,24.18,945.0,6,No
+CUST11369,38,Female,38,Month-to-Month,Bank Transfer,DSL,Premium,136.46,5268.07,2,Yes
+CUST11370,66,Female,31,One Year,Electronic Check,Fiber Optic,Basic,104.77,3274.34,10,Yes
+CUST11371,24,Male,24,Month-to-Month,Mailed Check,Fiber Optic,Standard,115.88,2853.7,9,No
+CUST11372,34,Female,49,Two Year,Credit Card,DSL,Basic,20.34,1018.09,3,No
+CUST11373,37,Male,32,Two Year,Electronic Check,Fiber Optic,Basic,101.67,3331.67,9,No
+CUST11374,58,Male,55,Month-to-Month,Bank Transfer,Fiber Optic,Basic,96.5,5322.26,1,No
+CUST11375,66,Female,58,Two Year,Credit Card,Fiber Optic,Standard,89.84,5258.08,8,No
+CUST11376,37,Male,3,Month-to-Month,Electronic Check,No Internet,Basic,122.16,445.54,4,Yes
+CUST11377,39,Female,69,Month-to-Month,Credit Card,DSL,Standard,92.26,6393.95,1,Yes
+CUST11378,45,Male,10,Month-to-Month,Electronic Check,Fiber Optic,Basic,131.42,1397.91,9,Yes
+CUST11379,57,Male,25,Month-to-Month,Electronic Check,Fiber Optic,Basic,50.24,1320.42,5,No
+CUST11380,66,Male,68,Month-to-Month,Electronic Check,Fiber Optic,Basic,124.78,8524.79,6,Yes
+CUST11381,24,Female,61,One Year,Electronic Check,Fiber Optic,Premium,43.31,2684.25,1,No
+CUST11382,18,Female,29,Month-to-Month,Electronic Check,No Internet,Standard,125.71,3738.19,0,No
+CUST11383,49,Male,19,One Year,Bank Transfer,DSL,Premium,142.26,2724.72,6,No
+CUST11384,30,Male,43,Month-to-Month,Bank Transfer,DSL,Basic,63.64,2805.86,0,Yes
+CUST11385,47,Female,66,One Year,Credit Card,DSL,Basic,88.89,5937.47,2,No
+CUST11386,40,Female,61,Month-to-Month,Bank Transfer,No Internet,Basic,105.58,6532.62,3,No
+CUST11387,68,Male,43,Month-to-Month,Bank Transfer,Fiber Optic,Basic,30.33,1375.51,1,No
+CUST11388,36,Male,25,Month-to-Month,Credit Card,Fiber Optic,Standard,84.23,2164.2,6,No
+CUST11389,49,Female,20,Month-to-Month,Credit Card,DSL,Basic,66.88,1427.85,4,Yes
+CUST11390,47,Female,48,Month-to-Month,Electronic Check,No Internet,Basic,133.42,6487.07,0,No
+CUST11391,46,Female,24,Two Year,Mailed Check,Fiber Optic,Standard,133.97,3286.96,7,No
+CUST11392,66,Female,11,Month-to-Month,Electronic Check,Fiber Optic,Standard,111.1,1225.36,9,No
+CUST11393,62,Female,55,One Year,Electronic Check,DSL,Premium,105.24,5825.55,6,No
+CUST11394,46,Male,28,One Year,Bank Transfer,DSL,Basic,115.38,3293.83,3,No
+CUST11395,47,Female,69,Two Year,Electronic Check,Fiber Optic,Standard,67.58,4715.25,1,No
+CUST11396,33,Male,63,Month-to-Month,Electronic Check,Fiber Optic,Basic,72.59,4605.1,6,Yes
+CUST11397,57,Female,59,Month-to-Month,Credit Card,DSL,Premium,91.98,5441.26,10,No
+CUST11398,36,Male,5,Two Year,Credit Card,Fiber Optic,Standard,141.94,765.0,1,Yes
+CUST11399,35,Female,51,One Year,Bank Transfer,DSL,Standard,114.12,5848.71,5,Yes
+CUST11400,18,Female,21,Month-to-Month,Bank Transfer,Fiber Optic,Basic,91.63,1947.53,0,Yes
+CUST11401,31,Male,12,Month-to-Month,Electronic Check,Fiber Optic,Standard,120.15,1481.7,6,No
+CUST11402,68,Male,50,Month-to-Month,Electronic Check,DSL,Basic,68.22,3489.55,6,Yes
+CUST11403,64,Female,4,One Year,Bank Transfer,Fiber Optic,Standard,114.96,508.63,3,Yes
+CUST11404,67,Female,42,One Year,Electronic Check,Fiber Optic,Premium,73.39,3104.03,3,No
+CUST11405,19,Female,38,Month-to-Month,Credit Card,DSL,Premium,56.36,2153.37,9,Yes
+CUST11406,45,Female,25,One Year,Electronic Check,Fiber Optic,Standard,99.26,2531.4,4,No
+CUST11407,66,Female,14,One Year,Credit Card,DSL,Premium,109.29,1609.5,1,No
+CUST11408,67,Male,32,Month-to-Month,Credit Card,DSL,Basic,79.71,2616.0,8,No
+CUST11409,47,Male,11,One Year,Credit Card,DSL,Premium,93.52,1051.93,9,Yes
+CUST11410,55,Female,61,Two Year,Credit Card,DSL,Standard,110.23,6767.7,3,No
+CUST11411,68,Male,18,Month-to-Month,Credit Card,DSL,Standard,119.8,2241.92,10,No
+CUST11412,21,Male,27,Two Year,Electronic Check,DSL,Premium,136.42,3701.11,8,No
+CUST11413,18,Male,55,Month-to-Month,Electronic Check,Fiber Optic,Premium,66.09,3688.16,2,Yes
+CUST11414,25,Female,54,Month-to-Month,Electronic Check,DSL,Basic,143.69,7794.88,8,No
+CUST11415,46,Male,21,Month-to-Month,Credit Card,Fiber Optic,Standard,102.85,2172.27,0,No
+CUST11416,56,Female,44,Month-to-Month,Electronic Check,DSL,Basic,122.4,5390.59,6,Yes
+CUST11417,20,Male,5,Month-to-Month,Credit Card,DSL,Premium,110.97,610.44,3,No
+CUST11418,49,Female,41,Month-to-Month,Electronic Check,DSL,Standard,46.72,1917.59,6,Yes
+CUST11419,27,Male,59,Two Year,Bank Transfer,No Internet,Basic,29.29,1738.45,9,No
+CUST11420,27,Female,54,Month-to-Month,Mailed Check,Fiber Optic,Standard,114.42,6213.44,5,No
+CUST11421,36,Female,22,One Year,Electronic Check,Fiber Optic,Standard,86.44,1906.03,3,Yes
+CUST11422,63,Male,65,Month-to-Month,Electronic Check,DSL,Standard,111.29,7273.89,3,Yes
+CUST11423,51,Female,64,Two Year,Electronic Check,Fiber Optic,Basic,81.99,5260.4,7,No
+CUST11424,50,Female,71,One Year,Credit Card,DSL,Basic,60.59,4336.88,6,No
+CUST11425,40,Female,4,Month-to-Month,Credit Card,DSL,Standard,57.05,307.32,3,Yes
+CUST11426,45,Female,65,One Year,Electronic Check,Fiber Optic,Basic,114.97,7535.69,10,No
+CUST11427,49,Female,15,Month-to-Month,Bank Transfer,Fiber Optic,Standard,55.98,884.24,5,No
+CUST11428,67,Female,22,One Year,Electronic Check,No Internet,Standard,112.91,2493.2,5,Yes
+CUST11429,24,Female,47,Month-to-Month,Credit Card,DSL,Basic,69.91,3347.68,0,Yes
+CUST11430,46,Female,46,One Year,Credit Card,No Internet,Standard,120.22,5546.49,1,No
+CUST11431,25,Male,14,One Year,Bank Transfer,Fiber Optic,Standard,38.57,547.64,3,No
+CUST11432,18,Male,50,Month-to-Month,Electronic Check,Fiber Optic,Standard,46.65,2398.9,5,Yes
+CUST11433,20,Female,20,Month-to-Month,Mailed Check,DSL,Basic,109.17,2274.61,5,No
+CUST11434,41,Female,50,Two Year,Bank Transfer,DSL,Standard,92.83,4687.56,0,No
+CUST11435,40,Male,33,Month-to-Month,Electronic Check,No Internet,Basic,46.5,1538.6,7,Yes
+CUST11436,25,Male,59,Month-to-Month,Electronic Check,Fiber Optic,Premium,137.37,8192.86,1,Yes
+CUST11437,64,Male,43,Month-to-Month,Credit Card,Fiber Optic,Basic,55.87,2409.11,4,No
+CUST11438,54,Female,12,Month-to-Month,Bank Transfer,No Internet,Premium,74.74,983.63,3,No
+CUST11439,20,Male,40,Two Year,Bank Transfer,DSL,Standard,46.3,1891.18,4,No
+CUST11440,68,Female,20,Month-to-Month,Credit Card,Fiber Optic,Premium,70.44,1445.34,4,Yes
+CUST11441,50,Female,38,Month-to-Month,Mailed Check,Fiber Optic,Standard,83.91,3242.86,9,No
+CUST11442,45,Male,3,One Year,Electronic Check,DSL,Basic,58.38,270.85,7,No
+CUST11443,64,Female,28,Two Year,Electronic Check,DSL,Premium,119.98,3449.31,9,Yes
+CUST11444,25,Female,56,Month-to-Month,Mailed Check,Fiber Optic,Basic,71.21,4034.79,6,Yes
+CUST11445,51,Female,13,Month-to-Month,Bank Transfer,Fiber Optic,Basic,114.84,1562.5,8,No
+CUST11446,52,Female,66,Two Year,Credit Card,Fiber Optic,Basic,46.92,3154.76,10,Yes
+CUST11447,49,Male,37,One Year,Bank Transfer,DSL,Premium,69.01,2622.72,0,No
+CUST11448,41,Male,49,Month-to-Month,Mailed Check,No Internet,Standard,21.05,1114.38,5,Yes
+CUST11449,31,Female,66,Month-to-Month,Bank Transfer,DSL,Standard,118.62,7832.37,5,Yes
+CUST11450,49,Female,36,Month-to-Month,Bank Transfer,Fiber Optic,Standard,101.37,3681.9,1,No
+CUST11451,63,Male,54,Month-to-Month,Bank Transfer,Fiber Optic,Standard,126.32,6917.21,10,Yes
+CUST11452,60,Female,26,Month-to-Month,Electronic Check,DSL,Standard,79.23,2154.91,7,No
+CUST11453,33,Male,72,Two Year,Bank Transfer,DSL,Basic,123.97,8926.96,5,No
+CUST11454,21,Female,40,Month-to-Month,Electronic Check,Fiber Optic,Premium,104.19,4187.74,10,No
+CUST11455,69,Female,43,One Year,Mailed Check,No Internet,Basic,20.47,979.59,9,No
+CUST11456,54,Male,22,Month-to-Month,Credit Card,DSL,Basic,52.98,1214.84,8,No
+CUST11457,38,Male,20,One Year,Bank Transfer,Fiber Optic,Standard,84.21,1741.49,9,No
+CUST11458,31,Male,8,One Year,Credit Card,Fiber Optic,Standard,100.43,820.08,4,No
+CUST11459,48,Male,29,Month-to-Month,Electronic Check,DSL,Standard,28.53,916.8,6,No
+CUST11460,65,Female,40,Month-to-Month,Electronic Check,Fiber Optic,Basic,111.66,4489.53,5,No
+CUST11461,35,Male,30,Month-to-Month,Mailed Check,Fiber Optic,Basic,90.66,2738.76,10,No
+CUST11462,24,Female,55,Two Year,Mailed Check,DSL,Standard,88.35,4882.06,4,No
+CUST11463,27,Male,16,Two Year,Electronic Check,No Internet,Standard,57.97,1019.48,5,No
+CUST11464,24,Male,46,Month-to-Month,Mailed Check,DSL,Basic,97.33,4547.46,3,Yes
+CUST11465,50,Female,62,Month-to-Month,Bank Transfer,Fiber Optic,Standard,23.57,1538.2,2,Yes
+CUST11466,40,Male,7,Month-to-Month,Credit Card,Fiber Optic,Basic,28.41,236.57,0,No
+CUST11467,38,Male,45,One Year,Electronic Check,Fiber Optic,Basic,115.4,5283.92,0,Yes
+CUST11468,36,Male,59,Month-to-Month,Mailed Check,Fiber Optic,Basic,61.85,3728.09,5,No
+CUST11469,65,Male,56,Month-to-Month,Credit Card,DSL,Premium,65.11,3721.22,8,Yes
+CUST11470,36,Female,48,Month-to-Month,Mailed Check,Fiber Optic,Standard,47.09,2357.41,7,No
+CUST11471,53,Female,27,Month-to-Month,Bank Transfer,Fiber Optic,Basic,77.93,2140.73,1,No
+CUST11472,46,Male,53,One Year,Bank Transfer,DSL,Standard,26.76,1479.38,8,Yes
+CUST11473,35,Male,35,Month-to-Month,Bank Transfer,Fiber Optic,Premium,59.05,2157.74,7,No
+CUST11474,19,Male,51,One Year,Electronic Check,DSL,Standard,88.53,4594.12,8,No
+CUST11475,18,Female,37,Month-to-Month,Electronic Check,Fiber Optic,Premium,80.53,3035.95,3,No
+CUST11476,64,Female,57,Month-to-Month,Electronic Check,DSL,Basic,149.96,8555.34,8,No
+CUST11477,22,Female,8,One Year,Electronic Check,DSL,Premium,70.54,629.59,1,Yes
+CUST11478,37,Female,20,Two Year,Credit Card,DSL,Standard,70.31,1458.86,0,No
+CUST11479,28,Male,53,One Year,Bank Transfer,Fiber Optic,Basic,85.47,4548.33,8,Yes
+CUST11480,59,Male,12,Month-to-Month,Mailed Check,Fiber Optic,Standard,44.74,625.11,9,Yes
+CUST11481,19,Male,49,Month-to-Month,Electronic Check,Fiber Optic,Premium,133.92,6596.4,7,No
+CUST11482,20,Female,17,Two Year,Credit Card,DSL,Standard,94.39,1643.38,6,No
+CUST11483,40,Male,64,Month-to-Month,Electronic Check,Fiber Optic,Standard,44.97,2945.32,7,No
+CUST11484,29,Female,42,Month-to-Month,Electronic Check,Fiber Optic,Basic,123.15,5221.18,0,No
+CUST11485,37,Female,29,Two Year,Electronic Check,Fiber Optic,Standard,24.46,718.27,8,Yes
+CUST11486,22,Male,19,Two Year,Bank Transfer,DSL,Basic,147.73,2845.61,9,No
+CUST11487,54,Male,11,Two Year,Electronic Check,DSL,Basic,132.47,1466.62,10,No
+CUST11488,55,Male,50,Two Year,Bank Transfer,Fiber Optic,Standard,95.35,4786.58,8,Yes
+CUST11489,47,Female,71,Two Year,Electronic Check,DSL,Premium,34.47,2448.09,10,No
+CUST11490,26,Female,58,Month-to-Month,Mailed Check,DSL,Standard,47.99,2801.55,8,No
+CUST11491,51,Male,34,Month-to-Month,Bank Transfer,DSL,Basic,56.33,1948.26,5,Yes
+CUST11492,70,Male,20,One Year,Mailed Check,Fiber Optic,Standard,51.33,1080.42,3,No
+CUST11493,61,Female,50,Month-to-Month,Mailed Check,Fiber Optic,Premium,84.68,4325.93,1,No
+CUST11494,52,Male,10,Month-to-Month,Mailed Check,Fiber Optic,Standard,142.79,1481.93,10,Yes
+CUST11495,69,Female,32,Month-to-Month,Mailed Check,DSL,Standard,77.74,2558.24,3,No
+CUST11496,39,Female,52,Month-to-Month,Bank Transfer,Fiber Optic,Premium,106.0,5547.77,6,No
+CUST11497,61,Male,15,One Year,Electronic Check,DSL,Standard,109.52,1717.96,0,No
+CUST11498,41,Male,3,Month-to-Month,Electronic Check,Fiber Optic,Basic,133.31,461.98,8,No
+CUST11499,34,Male,37,Month-to-Month,Electronic Check,Fiber Optic,Basic,24.4,948.78,2,No
+CUST11500,27,Male,40,Month-to-Month,Credit Card,Fiber Optic,Premium,72.56,2921.78,3,No
+CUST11501,47,Female,72,One Year,Credit Card,DSL,Standard,122.02,8815.79,4,Yes
+CUST11502,63,Female,40,Month-to-Month,Mailed Check,DSL,Basic,125.93,5099.29,2,No
+CUST11503,40,Female,56,Month-to-Month,Mailed Check,Fiber Optic,Standard,140.55,7913.41,3,Yes
+CUST11504,49,Male,23,One Year,Credit Card,Fiber Optic,Standard,111.36,2650.22,4,No
+CUST11505,34,Female,11,Month-to-Month,Credit Card,DSL,Premium,51.87,594.05,0,No
+CUST11506,67,Male,64,Month-to-Month,Mailed Check,No Internet,Basic,85.74,5494.67,8,Yes
+CUST11507,68,Male,8,Month-to-Month,Electronic Check,No Internet,Standard,24.2,252.53,9,No
+CUST11508,34,Male,56,Month-to-Month,Bank Transfer,Fiber Optic,Premium,104.1,5918.21,9,No
+CUST11509,31,Male,60,Two Year,Electronic Check,No Internet,Basic,92.06,5560.07,3,Yes
+CUST11510,26,Male,10,Month-to-Month,Bank Transfer,DSL,Basic,106.69,1131.67,8,Yes
+CUST11511,57,Male,39,One Year,Electronic Check,DSL,Premium,140.92,5519.02,3,No
+CUST11512,19,Female,28,Month-to-Month,Mailed Check,DSL,Standard,109.35,3117.65,0,Yes
+CUST11513,62,Male,49,Month-to-Month,Credit Card,Fiber Optic,Standard,61.66,3100.02,4,No
+CUST11514,42,Female,36,One Year,Electronic Check,DSL,Standard,45.84,1736.94,8,No
+CUST11515,56,Female,13,Month-to-Month,Electronic Check,No Internet,Basic,131.1,1714.81,2,No
+CUST11516,26,Male,36,Month-to-Month,Credit Card,DSL,Premium,45.26,1665.0,4,Yes
+CUST11517,39,Male,26,Month-to-Month,Mailed Check,DSL,Basic,41.01,1130.22,2,No
+CUST11518,60,Male,4,Month-to-Month,Bank Transfer,Fiber Optic,Basic,46.86,190.91,2,Yes
+CUST11519,63,Female,64,One Year,Credit Card,DSL,Basic,86.15,5582.66,0,No
+CUST11520,21,Male,38,Month-to-Month,Electronic Check,DSL,Basic,36.14,1426.12,1,No
+CUST11521,43,Female,22,Two Year,Credit Card,Fiber Optic,Premium,141.96,3151.98,1,No
+CUST11522,46,Male,2,One Year,Bank Transfer,DSL,Standard,145.61,372.69,8,No
+CUST11523,62,Male,31,Month-to-Month,Bank Transfer,DSL,Premium,146.59,4573.3,6,No
+CUST11524,51,Female,11,Month-to-Month,Electronic Check,DSL,Standard,25.09,375.13,7,Yes
+CUST11525,40,Female,46,Month-to-Month,Bank Transfer,Fiber Optic,Standard,143.01,6660.1,1,Yes
+CUST11526,54,Male,62,One Year,Bank Transfer,No Internet,Standard,149.66,9349.72,8,No
+CUST11527,28,Female,69,Month-to-Month,Mailed Check,Fiber Optic,Premium,142.52,9840.01,2,Yes
+CUST11528,23,Female,64,Two Year,Mailed Check,DSL,Standard,107.22,6952.51,9,No
+CUST11529,35,Female,10,Month-to-Month,Bank Transfer,Fiber Optic,Basic,111.16,1190.61,1,Yes
+CUST11530,38,Female,40,Two Year,Bank Transfer,Fiber Optic,Basic,35.89,1458.5,0,No
+CUST11531,59,Female,24,Month-to-Month,Electronic Check,No Internet,Basic,133.66,3247.06,8,No
+CUST11532,53,Male,44,Two Year,Bank Transfer,DSL,Standard,27.75,1247.86,7,Yes
+CUST11533,58,Male,60,Month-to-Month,Credit Card,Fiber Optic,Premium,61.3,3776.44,10,No
+CUST11534,55,Female,62,Month-to-Month,Electronic Check,Fiber Optic,Basic,148.85,9314.12,3,Yes
+CUST11535,51,Male,17,Month-to-Month,Electronic Check,No Internet,Basic,74.9,1366.32,6,Yes
+CUST11536,34,Male,65,Month-to-Month,Bank Transfer,DSL,Basic,37.05,2487.13,2,No
+CUST11537,54,Female,57,Two Year,Electronic Check,DSL,Standard,146.01,8368.2,2,No
+CUST11538,42,Male,55,Month-to-Month,Credit Card,DSL,Basic,147.94,8157.24,3,No
+CUST11539,55,Female,53,Month-to-Month,Credit Card,DSL,Basic,44.32,2369.77,1,No
+CUST11540,29,Female,56,One Year,Electronic Check,Fiber Optic,Basic,132.42,7430.69,9,Yes
+CUST11541,40,Male,9,Month-to-Month,Electronic Check,Fiber Optic,Standard,70.76,691.5,3,No
+CUST11542,70,Female,22,Month-to-Month,Bank Transfer,Fiber Optic,Standard,69.58,1622.76,9,No
+CUST11543,59,Female,13,One Year,Bank Transfer,DSL,Standard,54.15,803.13,2,No
+CUST11544,39,Female,48,Month-to-Month,Electronic Check,DSL,Basic,25.81,1267.61,7,Yes
+CUST11545,38,Female,18,Two Year,Mailed Check,DSL,Standard,54.84,1056.85,10,No
+CUST11546,44,Female,40,Month-to-Month,Bank Transfer,DSL,Basic,26.99,1139.31,1,No
+CUST11547,48,Male,17,Month-to-Month,Credit Card,Fiber Optic,Basic,140.17,2431.78,10,Yes
+CUST11548,23,Male,15,One Year,Bank Transfer,DSL,Standard,106.02,1656.88,8,No
+CUST11549,44,Female,15,One Year,Mailed Check,DSL,Basic,135.26,2066.04,2,Yes
+CUST11550,57,Female,63,Month-to-Month,Credit Card,Fiber Optic,Standard,113.25,7229.2,3,No
+CUST11551,51,Male,39,One Year,Electronic Check,Fiber Optic,Basic,37.07,1516.27,9,Yes
+CUST11552,29,Female,13,Month-to-Month,Mailed Check,Fiber Optic,Basic,142.28,1925.06,9,Yes
+CUST11553,62,Male,32,Month-to-Month,Credit Card,Fiber Optic,Premium,136.99,4407.92,2,No
+CUST11554,70,Female,9,Two Year,Electronic Check,DSL,Standard,65.25,604.11,2,No
+CUST11555,24,Female,40,Month-to-Month,Credit Card,Fiber Optic,Standard,34.5,1419.43,7,No
+CUST11556,27,Female,20,Month-to-Month,Credit Card,DSL,Premium,111.54,2307.47,7,No
+CUST11557,62,Female,63,Two Year,Mailed Check,DSL,Standard,114.69,7319.35,5,No
+CUST11558,34,Female,44,Two Year,Credit Card,No Internet,Standard,136.59,6052.69,3,No
+CUST11559,43,Female,38,Month-to-Month,Electronic Check,DSL,Standard,26.85,1097.72,0,No
+CUST11560,38,Female,60,Month-to-Month,Bank Transfer,Fiber Optic,Basic,38.42,2352.24,3,No
+CUST11561,45,Male,71,One Year,Credit Card,DSL,Basic,97.77,6971.19,7,No
+CUST11562,63,Male,48,Two Year,Electronic Check,Fiber Optic,Standard,100.49,4897.45,5,No
+CUST11563,19,Male,18,Two Year,Credit Card,Fiber Optic,Basic,24.37,518.48,1,Yes
+CUST11564,60,Female,16,Month-to-Month,Bank Transfer,No Internet,Basic,71.6,1165.88,2,No
+CUST11565,18,Female,55,Month-to-Month,Electronic Check,Fiber Optic,Basic,95.94,5307.22,6,Yes
+CUST11566,68,Female,39,Month-to-Month,Credit Card,Fiber Optic,Basic,115.93,4570.75,10,No
+CUST11567,70,Female,68,One Year,Electronic Check,DSL,Basic,61.1,4173.45,10,No
+CUST11568,53,Female,59,One Year,Electronic Check,Fiber Optic,Basic,82.91,4984.57,3,No
+CUST11569,68,Female,62,One Year,Electronic Check,Fiber Optic,Basic,125.83,7860.59,3,Yes
+CUST11570,43,Female,13,Two Year,Electronic Check,DSL,Basic,144.01,1884.25,4,No
+CUST11571,46,Male,6,Month-to-Month,Bank Transfer,Fiber Optic,Standard,49.94,318.04,7,Yes
+CUST11572,38,Female,60,Month-to-Month,Electronic Check,Fiber Optic,Basic,52.9,3269.44,6,No
+CUST11573,28,Male,14,Month-to-Month,Bank Transfer,Fiber Optic,Premium,142.18,2064.34,8,No
+CUST11574,57,Male,54,Month-to-Month,Electronic Check,DSL,Premium,71.47,3932.82,4,Yes
+CUST11575,28,Female,4,Month-to-Month,Mailed Check,No Internet,Standard,113.39,460.81,0,No
+CUST11576,53,Female,39,Month-to-Month,Credit Card,DSL,Standard,99.59,3973.54,3,Yes
+CUST11577,66,Male,72,One Year,Bank Transfer,DSL,Basic,57.13,4157.73,5,No
+CUST11578,56,Male,25,Two Year,Electronic Check,Fiber Optic,Basic,104.96,2689.97,5,No
+CUST11579,57,Female,32,Month-to-Month,Credit Card,Fiber Optic,Premium,105.22,3463.01,8,Yes
+CUST11580,52,Female,59,Month-to-Month,Electronic Check,Fiber Optic,Basic,97.02,5734.18,9,Yes
+CUST11581,51,Male,63,Month-to-Month,Mailed Check,DSL,Premium,32.96,2124.71,4,No
+CUST11582,64,Female,38,One Year,Credit Card,DSL,Standard,149.37,5681.02,4,No
+CUST11583,41,Female,53,One Year,Credit Card,DSL,Basic,72.05,3868.6,5,No
+CUST11584,39,Female,67,One Year,Bank Transfer,No Internet,Standard,102.97,6924.22,10,Yes
+CUST11585,22,Male,28,Month-to-Month,Electronic Check,Fiber Optic,Standard,135.15,3875.31,5,No
+CUST11586,50,Male,3,Month-to-Month,Bank Transfer,DSL,Basic,75.03,264.94,2,Yes
+CUST11587,53,Male,22,Month-to-Month,Bank Transfer,DSL,Basic,120.61,2716.81,5,No
+CUST11588,64,Female,38,One Year,Bank Transfer,DSL,Standard,146.34,5646.95,7,No
+CUST11589,37,Female,72,Two Year,Credit Card,Fiber Optic,Standard,66.66,4897.89,5,No
+CUST11590,36,Male,72,Two Year,Electronic Check,DSL,Basic,72.69,5284.06,10,No
+CUST11591,52,Male,62,Month-to-Month,Electronic Check,Fiber Optic,Basic,137.72,8584.22,4,No
+CUST11592,69,Male,57,One Year,Bank Transfer,Fiber Optic,Premium,40.75,2330.32,2,No
+CUST11593,60,Female,6,Two Year,Credit Card,Fiber Optic,Standard,23.72,143.59,0,No
+CUST11594,34,Male,32,Month-to-Month,Credit Card,Fiber Optic,Standard,138.16,4482.0,4,No
+CUST11595,62,Male,10,Month-to-Month,Mailed Check,Fiber Optic,Premium,126.81,1274.65,5,Yes
+CUST11596,60,Female,3,Two Year,Electronic Check,DSL,Basic,146.44,477.36,5,Yes
+CUST11597,51,Female,59,Month-to-Month,Mailed Check,Fiber Optic,Standard,27.57,1626.99,5,No
+CUST11598,26,Female,49,Two Year,Mailed Check,Fiber Optic,Premium,40.3,2036.22,2,No
+CUST11599,43,Male,59,Two Year,Mailed Check,DSL,Standard,33.69,2030.25,3,No
+CUST11600,19,Female,31,One Year,Bank Transfer,No Internet,Basic,108.84,3386.74,2,No
+CUST11601,70,Female,69,Two Year,Electronic Check,DSL,Basic,98.78,6845.46,1,No
+CUST11602,26,Male,62,One Year,Electronic Check,DSL,Standard,66.71,4192.99,7,No
+CUST11603,26,Female,52,One Year,Bank Transfer,DSL,Basic,27.47,1494.11,6,No
+CUST11604,57,Male,41,Month-to-Month,Electronic Check,No Internet,Premium,103.16,4275.79,10,No
+CUST11605,34,Male,31,Month-to-Month,Electronic Check,Fiber Optic,Basic,94.12,2998.12,7,No
+CUST11606,18,Female,22,Month-to-Month,Bank Transfer,Fiber Optic,Basic,34.68,774.2,5,No
+CUST11607,42,Female,4,One Year,Electronic Check,DSL,Basic,138.16,561.09,10,No
+CUST11608,60,Female,13,Month-to-Month,Mailed Check,Fiber Optic,Standard,45.86,600.6,6,No
+CUST11609,57,Female,45,Month-to-Month,Bank Transfer,Fiber Optic,Premium,116.66,5303.28,0,No
+CUST11610,59,Female,42,Month-to-Month,Bank Transfer,Fiber Optic,Standard,135.06,5743.14,9,Yes
+CUST11611,42,Female,49,One Year,Bank Transfer,DSL,Premium,95.33,4684.22,4,No
+CUST11612,56,Male,20,Two Year,Mailed Check,DSL,Basic,52.09,1105.69,3,No
+CUST11613,52,Male,54,Two Year,Bank Transfer,DSL,Basic,60.2,3298.49,9,No
+CUST11614,20,Female,36,Month-to-Month,Credit Card,No Internet,Premium,135.15,4964.13,2,No
+CUST11615,67,Male,1,Two Year,Electronic Check,Fiber Optic,Premium,58.77,130.52,1,Yes
+CUST11616,54,Female,15,One Year,Mailed Check,Fiber Optic,Premium,117.0,1820.75,8,No
+CUST11617,61,Male,17,Month-to-Month,Bank Transfer,Fiber Optic,Standard,148.72,2585.28,7,No
+CUST11618,61,Male,24,One Year,Credit Card,No Internet,Basic,149.98,3699.26,9,Yes
+CUST11619,68,Male,58,Month-to-Month,Electronic Check,No Internet,Basic,89.35,5280.35,1,Yes
+CUST11620,47,Female,72,Two Year,Credit Card,Fiber Optic,Premium,127.45,9230.21,5,Yes
+CUST11621,55,Male,23,Month-to-Month,Electronic Check,DSL,Basic,148.73,3466.31,2,Yes
+CUST11622,51,Female,46,Month-to-Month,Mailed Check,DSL,Basic,68.71,3206.87,2,No
+CUST11623,29,Male,72,One Year,Mailed Check,No Internet,Standard,52.81,3845.15,4,No
+CUST11624,36,Male,8,Month-to-Month,Electronic Check,Fiber Optic,Basic,34.85,331.94,6,Yes
+CUST11625,54,Male,59,Month-to-Month,Bank Transfer,DSL,Premium,38.32,2288.24,6,No
+CUST11626,61,Male,59,One Year,Electronic Check,Fiber Optic,Basic,130.96,7819.32,10,No
+CUST11627,66,Male,13,Month-to-Month,Bank Transfer,No Internet,Standard,96.53,1303.91,9,No
+CUST11628,34,Female,39,One Year,Electronic Check,Fiber Optic,Standard,133.58,5293.82,0,Yes
+CUST11629,27,Female,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,122.63,3481.17,10,No
+CUST11630,66,Male,61,One Year,Electronic Check,Fiber Optic,Standard,107.59,6634.82,6,No
+CUST11631,64,Male,16,One Year,Electronic Check,Fiber Optic,Basic,99.21,1621.05,6,No
+CUST11632,29,Male,2,Month-to-Month,Credit Card,DSL,Standard,26.28,115.04,5,No
+CUST11633,33,Male,17,One Year,Electronic Check,No Internet,Standard,133.4,2317.64,5,Yes
+CUST11634,41,Female,30,One Year,Credit Card,No Internet,Standard,74.32,2266.31,1,No
+CUST11635,36,Male,13,One Year,Electronic Check,Fiber Optic,Basic,92.77,1294.17,2,No
+CUST11636,25,Female,13,One Year,Credit Card,Fiber Optic,Basic,22.85,308.32,2,No
+CUST11637,48,Male,43,Two Year,Mailed Check,DSL,Basic,141.69,6141.36,2,No
+CUST11638,38,Female,21,Month-to-Month,Bank Transfer,No Internet,Standard,137.36,2904.0,1,No
+CUST11639,34,Male,55,Month-to-Month,Mailed Check,DSL,Basic,90.63,5070.76,8,No
+CUST11640,40,Male,40,Two Year,Mailed Check,Fiber Optic,Premium,95.05,3827.35,5,No
+CUST11641,54,Female,15,Month-to-Month,Electronic Check,No Internet,Standard,111.65,1738.09,1,Yes
+CUST11642,33,Male,52,Month-to-Month,Electronic Check,Fiber Optic,Standard,54.41,2845.88,2,No
+CUST11643,23,Male,53,Month-to-Month,Credit Card,Fiber Optic,Premium,48.85,2629.54,9,No
+CUST11644,25,Male,52,Month-to-Month,Mailed Check,Fiber Optic,Basic,107.62,5686.18,5,No
+CUST11645,42,Female,30,Month-to-Month,Mailed Check,DSL,Premium,33.57,1023.71,3,No
+CUST11646,35,Male,33,Two Year,Electronic Check,Fiber Optic,Standard,79.03,2674.31,6,No
+CUST11647,42,Male,57,Month-to-Month,Electronic Check,DSL,Premium,84.06,4811.87,5,No
+CUST11648,29,Female,52,Month-to-Month,Electronic Check,Fiber Optic,Premium,69.57,3659.21,5,No
+CUST11649,32,Female,9,Two Year,Bank Transfer,DSL,Basic,44.08,450.78,2,No
+CUST11650,43,Female,54,Two Year,Credit Card,Fiber Optic,Basic,66.19,3631.99,10,Yes
+CUST11651,58,Male,1,Month-to-Month,Electronic Check,Fiber Optic,Standard,63.88,124.13,7,Yes
+CUST11652,62,Male,44,Month-to-Month,Credit Card,No Internet,Standard,84.9,3799.61,8,No
+CUST11653,43,Male,9,Two Year,Bank Transfer,DSL,Basic,107.71,996.57,5,Yes
+CUST11654,64,Female,32,One Year,Bank Transfer,Fiber Optic,Basic,145.87,4707.98,1,No
+CUST11655,49,Male,15,One Year,Electronic Check,Fiber Optic,Basic,38.74,584.83,0,No
+CUST11656,27,Male,12,Two Year,Mailed Check,No Internet,Standard,133.49,1678.76,2,No
+CUST11657,33,Female,57,One Year,Credit Card,Fiber Optic,Premium,56.94,3329.29,2,No
+CUST11658,24,Female,8,Month-to-Month,Bank Transfer,Fiber Optic,Standard,96.88,794.96,7,No
+CUST11659,34,Female,72,One Year,Bank Transfer,No Internet,Standard,91.08,6577.9,4,No
+CUST11660,40,Female,27,Month-to-Month,Electronic Check,Fiber Optic,Basic,92.4,2499.0,0,No
+CUST11661,43,Female,62,One Year,Electronic Check,No Internet,Basic,114.04,7167.52,10,No
+CUST11662,38,Male,12,One Year,Bank Transfer,No Internet,Standard,69.62,916.16,3,No
+CUST11663,39,Female,65,Month-to-Month,Electronic Check,No Internet,Premium,61.48,4032.27,6,No
+CUST11664,24,Male,42,Month-to-Month,Bank Transfer,DSL,Basic,130.87,5544.73,4,No
+CUST11665,31,Male,62,Month-to-Month,Bank Transfer,Fiber Optic,Standard,48.61,3043.02,9,No
+CUST11666,32,Female,11,Month-to-Month,Bank Transfer,No Internet,Premium,43.43,537.45,5,No
+CUST11667,70,Female,43,One Year,Electronic Check,Fiber Optic,Premium,22.03,1019.02,9,No
+CUST11668,24,Female,17,Month-to-Month,Electronic Check,Fiber Optic,Basic,47.38,850.2,3,Yes
+CUST11669,26,Male,32,One Year,Bank Transfer,DSL,Basic,87.41,2884.48,1,No
+CUST11670,68,Female,40,Month-to-Month,Electronic Check,DSL,Basic,90.01,3652.1,8,No
+CUST11671,65,Female,23,One Year,Bank Transfer,Fiber Optic,Standard,53.07,1235.04,1,No
+CUST11672,25,Female,56,Two Year,Bank Transfer,Fiber Optic,Premium,29.4,1708.63,1,No
+CUST11673,67,Female,6,One Year,Credit Card,Fiber Optic,Basic,116.8,747.02,1,No
+CUST11674,40,Female,50,Month-to-Month,Bank Transfer,Fiber Optic,Basic,118.54,6020.57,0,No
+CUST11675,46,Male,37,Two Year,Electronic Check,Fiber Optic,Premium,149.72,5578.83,2,No
+CUST11676,35,Male,64,Month-to-Month,Electronic Check,Fiber Optic,Standard,137.0,8808.29,5,No
+CUST11677,48,Male,54,Month-to-Month,Mailed Check,Fiber Optic,Premium,140.39,7646.14,6,No
+CUST11678,47,Female,72,Month-to-Month,Mailed Check,Fiber Optic,Basic,123.77,8964.14,0,No
+CUST11679,69,Female,49,Month-to-Month,Credit Card,Fiber Optic,Standard,100.02,4938.42,4,Yes
+CUST11680,56,Female,11,Two Year,Mailed Check,DSL,Basic,36.71,502.79,4,Yes
+CUST11681,52,Male,49,Month-to-Month,Credit Card,Fiber Optic,Basic,100.9,4974.32,0,No
+CUST11682,35,Female,21,One Year,Electronic Check,Fiber Optic,Standard,27.27,600.42,3,No
+CUST11683,59,Female,66,One Year,Electronic Check,Fiber Optic,Basic,135.09,9002.38,9,No
+CUST11684,56,Female,63,Month-to-Month,Mailed Check,DSL,Basic,82.64,5206.66,0,No
+CUST11685,34,Male,28,One Year,Electronic Check,Fiber Optic,Premium,110.67,3118.89,0,No
+CUST11686,31,Female,17,Month-to-Month,Credit Card,DSL,Basic,26.79,514.47,6,No
+CUST11687,48,Male,6,Month-to-Month,Credit Card,No Internet,Standard,89.45,552.95,6,Yes
+CUST11688,41,Female,19,Month-to-Month,Bank Transfer,DSL,Basic,59.16,1222.62,2,No
+CUST11689,52,Male,56,Two Year,Credit Card,No Internet,Premium,57.05,3241.22,6,No
+CUST11690,61,Male,28,Two Year,Electronic Check,Fiber Optic,Basic,70.66,2038.22,2,No
+CUST11691,62,Male,66,Month-to-Month,Electronic Check,Fiber Optic,Standard,20.08,1341.32,1,No
+CUST11692,51,Female,38,Month-to-Month,Credit Card,DSL,Basic,80.67,3094.4,9,No
+CUST11693,20,Female,37,One Year,Bank Transfer,DSL,Standard,83.25,3141.71,3,No
+CUST11694,54,Male,68,Month-to-Month,Credit Card,DSL,Standard,132.21,9045.24,9,No
+CUST11695,60,Male,49,Two Year,Bank Transfer,DSL,Basic,78.31,3915.63,2,No
+CUST11696,57,Female,43,One Year,Electronic Check,Fiber Optic,Basic,67.26,2919.1,6,No
+CUST11697,43,Female,36,Month-to-Month,Mailed Check,DSL,Premium,149.32,5440.87,0,No
+CUST11698,40,Male,58,Two Year,Credit Card,Fiber Optic,Premium,94.26,5496.18,5,No
+CUST11699,61,Female,13,Month-to-Month,Electronic Check,DSL,Basic,81.44,1117.4,1,No
+CUST11700,56,Female,52,Two Year,Credit Card,No Internet,Basic,84.47,4452.94,7,No
+CUST11701,32,Female,58,Two Year,Bank Transfer,Fiber Optic,Basic,125.19,7273.2,4,No
+CUST11702,66,Female,32,Month-to-Month,Mailed Check,DSL,Basic,64.29,2112.14,2,No
+CUST11703,21,Male,60,Month-to-Month,Electronic Check,Fiber Optic,Premium,70.59,4236.59,9,Yes
+CUST11704,46,Female,58,Two Year,Bank Transfer,DSL,Standard,118.26,6909.2,6,Yes
+CUST11705,39,Female,56,Two Year,Electronic Check,DSL,Standard,29.49,1721.19,10,No
+CUST11706,42,Male,28,Month-to-Month,Electronic Check,Fiber Optic,Premium,132.47,3716.44,1,No
+CUST11707,30,Male,1,Two Year,Credit Card,Fiber Optic,Standard,75.93,169.8,4,No
+CUST11708,35,Female,42,Month-to-Month,Bank Transfer,No Internet,Standard,95.57,4059.82,10,No
+CUST11709,50,Female,48,Month-to-Month,Bank Transfer,Fiber Optic,Basic,118.47,5780.4,7,No
+CUST11710,33,Female,40,Two Year,Electronic Check,No Internet,Basic,54.59,2194.34,10,No
+CUST11711,62,Female,63,Month-to-Month,Electronic Check,No Internet,Standard,135.74,8646.61,0,Yes
+CUST11712,59,Male,72,Two Year,Credit Card,No Internet,Basic,147.3,10616.52,0,No
+CUST11713,61,Male,4,Month-to-Month,Electronic Check,Fiber Optic,Basic,84.26,383.19,2,No
+CUST11714,19,Male,38,One Year,Electronic Check,DSL,Basic,141.8,5482.2,2,No
+CUST11715,52,Female,27,Month-to-Month,Electronic Check,DSL,Basic,20.15,567.32,6,No
+CUST11716,59,Female,9,Month-to-Month,Credit Card,Fiber Optic,Standard,136.25,1229.73,5,Yes
+CUST11717,51,Female,16,One Year,Electronic Check,Fiber Optic,Standard,60.44,1046.35,6,No
+CUST11718,47,Female,56,Month-to-Month,Credit Card,DSL,Basic,60.49,3447.03,3,Yes
+CUST11719,30,Male,31,Month-to-Month,Electronic Check,Fiber Optic,Basic,49.65,1590.54,10,Yes
+CUST11720,30,Male,14,Month-to-Month,Electronic Check,DSL,Standard,61.21,860.37,1,No
+CUST11721,35,Female,25,Month-to-Month,Bank Transfer,Fiber Optic,Basic,47.75,1259.07,1,Yes
+CUST11722,49,Male,34,Two Year,Electronic Check,DSL,Standard,137.76,4701.0,9,No
+CUST11723,49,Female,67,Month-to-Month,Credit Card,Fiber Optic,Standard,136.87,9263.41,0,Yes
+CUST11724,52,Female,24,One Year,Electronic Check,Fiber Optic,Basic,33.29,867.53,8,No
+CUST11725,56,Male,26,Month-to-Month,Credit Card,DSL,Standard,38.57,1073.52,6,Yes
+CUST11726,63,Female,20,Month-to-Month,Electronic Check,Fiber Optic,Standard,132.06,2664.46,9,Yes
+CUST11727,69,Female,64,Month-to-Month,Electronic Check,Fiber Optic,Basic,71.86,4687.12,2,No
+CUST11728,46,Male,10,Month-to-Month,Credit Card,DSL,Basic,42.01,473.87,1,No
+CUST11729,66,Female,67,Month-to-Month,Mailed Check,DSL,Premium,86.39,5873.84,2,No
+CUST11730,46,Female,24,One Year,Electronic Check,DSL,Basic,74.17,1807.17,6,Yes
+CUST11731,70,Male,5,Two Year,Credit Card,Fiber Optic,Premium,48.49,318.0,4,No
+CUST11732,61,Female,67,Month-to-Month,Bank Transfer,Fiber Optic,Standard,113.7,7675.36,2,No
+CUST11733,33,Male,58,Month-to-Month,Credit Card,DSL,Basic,102.07,5924.9,8,Yes
+CUST11734,61,Female,27,Month-to-Month,Bank Transfer,Fiber Optic,Basic,32.96,930.45,1,No
+CUST11735,64,Male,15,Month-to-Month,Electronic Check,DSL,Standard,140.3,2122.89,6,No
+CUST11736,27,Male,35,Month-to-Month,Mailed Check,Fiber Optic,Standard,92.6,3276.92,9,No
+CUST11737,47,Male,53,Month-to-Month,Electronic Check,DSL,Standard,52.53,2822.43,5,No
+CUST11738,42,Female,44,Month-to-Month,Electronic Check,Fiber Optic,Premium,46.82,2107.57,5,No
+CUST11739,56,Male,26,Month-to-Month,Mailed Check,Fiber Optic,Premium,37.67,1039.45,6,No
+CUST11740,37,Male,47,Month-to-Month,Credit Card,Fiber Optic,Basic,75.2,3591.5,5,No
+CUST11741,22,Male,34,Month-to-Month,Credit Card,Fiber Optic,Premium,37.62,1282.98,1,No
+CUST11742,18,Male,50,Month-to-Month,Bank Transfer,Fiber Optic,Premium,74.06,3778.07,10,No
+CUST11743,47,Male,12,Month-to-Month,Credit Card,Fiber Optic,Premium,39.34,567.0,4,No
+CUST11744,66,Female,4,Month-to-Month,Electronic Check,Fiber Optic,Standard,105.38,456.39,2,No
+CUST11745,20,Female,48,Month-to-Month,Bank Transfer,Fiber Optic,Standard,122.08,5877.81,8,No
+CUST11746,62,Female,55,Month-to-Month,Electronic Check,Fiber Optic,Standard,91.44,5083.2,7,No
+CUST11747,31,Female,1,Month-to-Month,Bank Transfer,Fiber Optic,Basic,108.41,178.9,9,Yes
+CUST11748,47,Female,66,Month-to-Month,Mailed Check,Fiber Optic,Premium,141.99,9439.23,10,No
+CUST11749,67,Female,30,Month-to-Month,Electronic Check,Fiber Optic,Basic,102.99,3150.91,1,No
+CUST11750,21,Female,3,Month-to-Month,Credit Card,DSL,Basic,67.34,216.64,0,No
+CUST11751,35,Male,21,Month-to-Month,Electronic Check,Fiber Optic,Premium,78.43,1730.71,3,No
+CUST11752,54,Female,49,One Year,Electronic Check,Fiber Optic,Basic,131.87,6504.19,3,No
+CUST11753,42,Male,62,Month-to-Month,Mailed Check,No Internet,Premium,36.99,2315.53,9,No
+CUST11754,65,Male,38,Month-to-Month,Electronic Check,Fiber Optic,Standard,62.35,2377.93,10,No
+CUST11755,18,Female,15,Two Year,Credit Card,Fiber Optic,Basic,95.05,1467.42,1,No
+CUST11756,70,Male,52,Month-to-Month,Bank Transfer,DSL,Standard,107.93,5674.16,6,No
+CUST11757,63,Male,46,Month-to-Month,Mailed Check,Fiber Optic,Standard,119.25,5552.04,2,Yes
+CUST11758,32,Male,25,Two Year,Credit Card,Fiber Optic,Standard,61.37,1630.52,6,No
+CUST11759,26,Male,21,Two Year,Credit Card,No Internet,Premium,38.96,833.47,6,No
+CUST11760,32,Female,5,Month-to-Month,Bank Transfer,DSL,Premium,144.13,819.23,0,No
+CUST11761,66,Female,70,Month-to-Month,Mailed Check,DSL,Basic,29.93,2160.57,5,No
+CUST11762,41,Female,47,Month-to-Month,Credit Card,DSL,Basic,32.45,1570.57,3,Yes
+CUST11763,21,Female,68,Month-to-Month,Credit Card,Fiber Optic,Premium,84.34,5823.94,10,No
+CUST11764,29,Female,18,One Year,Electronic Check,No Internet,Standard,126.51,2346.63,7,No
+CUST11765,54,Female,21,Month-to-Month,Electronic Check,DSL,Basic,120.69,2569.36,7,No
+CUST11766,54,Female,23,Month-to-Month,Credit Card,Fiber Optic,Premium,141.9,3352.11,2,Yes
+CUST11767,60,Female,64,Two Year,Mailed Check,Fiber Optic,Premium,38.41,2524.9,3,No
+CUST11768,23,Female,67,Two Year,Mailed Check,Fiber Optic,Standard,68.84,4682.16,0,Yes
+CUST11769,56,Female,40,Month-to-Month,Mailed Check,Fiber Optic,Standard,56.68,2356.84,9,No
+CUST11770,63,Male,10,One Year,Credit Card,Fiber Optic,Standard,131.91,1363.94,1,No
+CUST11771,41,Female,52,Month-to-Month,Bank Transfer,DSL,Standard,83.49,4407.17,6,Yes
+CUST11772,28,Male,72,Two Year,Bank Transfer,Fiber Optic,Premium,23.49,1765.75,10,No
+CUST11773,30,Male,61,Month-to-Month,Credit Card,DSL,Premium,112.04,6879.83,6,No
+CUST11774,51,Male,64,Month-to-Month,Electronic Check,Fiber Optic,Standard,70.53,4522.27,8,No
+CUST11775,42,Male,5,Month-to-Month,Credit Card,Fiber Optic,Standard,89.05,522.39,9,No
+CUST11776,24,Female,53,Month-to-Month,Mailed Check,DSL,Premium,136.19,7222.85,8,Yes
+CUST11777,69,Male,55,Month-to-Month,Electronic Check,DSL,Basic,53.38,3007.69,8,Yes
+CUST11778,21,Female,37,One Year,Mailed Check,Fiber Optic,Basic,51.23,1986.6,5,No
+CUST11779,25,Female,56,One Year,Electronic Check,Fiber Optic,Premium,54.22,3071.02,7,No
+CUST11780,37,Male,59,Month-to-Month,Bank Transfer,Fiber Optic,Basic,63.95,3783.26,8,No
+CUST11781,46,Female,69,Month-to-Month,Credit Card,DSL,Basic,33.96,2366.53,6,Yes
+CUST11782,70,Male,59,Month-to-Month,Bank Transfer,DSL,Basic,110.64,6583.99,3,Yes
+CUST11783,68,Male,2,Two Year,Credit Card,Fiber Optic,Basic,46.96,188.19,3,No
+CUST11784,62,Female,65,Two Year,Mailed Check,DSL,Basic,140.4,9177.23,5,No
+CUST11785,63,Female,60,Two Year,Credit Card,No Internet,Basic,48.04,2893.67,10,No
+CUST11786,27,Male,51,Two Year,Electronic Check,DSL,Premium,53.23,2777.51,3,No
+CUST11787,60,Female,30,Month-to-Month,Credit Card,Fiber Optic,Standard,58.61,1831.58,10,Yes
+CUST11788,51,Female,11,Month-to-Month,Electronic Check,DSL,Standard,119.91,1358.34,6,No
+CUST11789,43,Female,39,One Year,Electronic Check,DSL,Basic,75.59,3020.16,7,No
+CUST11790,58,Male,72,Two Year,Electronic Check,Fiber Optic,Standard,126.51,9141.2,7,No
+CUST11791,66,Male,63,Month-to-Month,Mailed Check,Fiber Optic,Standard,122.03,7766.8,7,No
+CUST11792,20,Female,64,Month-to-Month,Credit Card,DSL,Standard,140.83,9047.23,1,No
+CUST11793,23,Female,61,Two Year,Bank Transfer,DSL,Basic,118.36,7245.57,9,No
+CUST11794,22,Female,54,Month-to-Month,Electronic Check,DSL,Standard,26.75,1532.42,1,Yes
+CUST11795,22,Female,58,Month-to-Month,Electronic Check,Fiber Optic,Premium,128.85,7528.15,1,No
+CUST11796,64,Female,56,One Year,Mailed Check,Fiber Optic,Standard,141.95,7977.72,1,No
+CUST11797,40,Male,34,Month-to-Month,Credit Card,DSL,Standard,149.18,5165.63,3,No
+CUST11798,66,Female,31,Month-to-Month,Mailed Check,Fiber Optic,Standard,36.28,1193.77,4,No
+CUST11799,26,Male,52,One Year,Electronic Check,Fiber Optic,Standard,99.73,5208.03,3,No
+CUST11800,52,Female,1,One Year,Electronic Check,No Internet,Standard,45.93,107.39,4,No
+CUST11801,37,Male,55,Two Year,Mailed Check,No Internet,Basic,54.13,3064.19,3,No
+CUST11802,66,Female,22,Month-to-Month,Bank Transfer,DSL,Standard,116.93,2642.08,6,No
+CUST11803,59,Male,40,Month-to-Month,Electronic Check,DSL,Premium,147.1,5908.48,9,Yes
+CUST11804,52,Female,1,One Year,Electronic Check,DSL,Standard,97.33,162.21,0,No
+CUST11805,67,Male,65,Month-to-Month,Bank Transfer,Fiber Optic,Basic,130.58,8549.62,0,No
+CUST11806,35,Male,63,Month-to-Month,Credit Card,No Internet,Basic,21.15,1414.53,1,No
+CUST11807,34,Male,54,One Year,Bank Transfer,Fiber Optic,Standard,24.76,1354.85,0,No
+CUST11808,41,Male,42,Month-to-Month,Electronic Check,DSL,Premium,97.57,4167.9,9,No
+CUST11809,20,Male,21,Month-to-Month,Electronic Check,Fiber Optic,Standard,70.57,1484.71,9,Yes
+CUST11810,49,Male,22,Month-to-Month,Mailed Check,DSL,Standard,135.67,3054.36,10,No
+CUST11811,52,Female,38,Month-to-Month,Electronic Check,DSL,Basic,59.26,2347.92,2,No
+CUST11812,55,Male,8,Month-to-Month,Credit Card,Fiber Optic,Standard,76.17,626.8,5,Yes
+CUST11813,30,Female,62,Month-to-Month,Bank Transfer,DSL,Standard,88.63,5526.19,9,Yes
+CUST11814,64,Female,47,One Year,Electronic Check,DSL,Premium,55.5,2666.79,10,No
+CUST11815,42,Female,17,Two Year,Credit Card,Fiber Optic,Basic,138.1,2420.94,5,No
+CUST11816,26,Female,17,Month-to-Month,Credit Card,DSL,Standard,80.39,1401.07,0,No
+CUST11817,21,Female,13,Month-to-Month,Credit Card,DSL,Standard,75.14,1043.25,5,No
+CUST11818,31,Male,17,Month-to-Month,Credit Card,DSL,Standard,130.47,2307.92,4,Yes
+CUST11819,54,Male,38,Month-to-Month,Electronic Check,No Internet,Premium,60.56,2373.94,6,No
+CUST11820,51,Male,45,One Year,Credit Card,Fiber Optic,Basic,126.27,5753.25,5,No
+CUST11821,28,Female,6,One Year,Credit Card,DSL,Basic,35.9,253.6,6,No
+CUST11822,58,Male,35,One Year,Bank Transfer,Fiber Optic,Standard,43.76,1622.74,1,No
+CUST11823,20,Male,14,Month-to-Month,Electronic Check,DSL,Standard,143.61,2038.27,0,No
+CUST11824,45,Male,72,Month-to-Month,Credit Card,Fiber Optic,Basic,129.52,9345.97,6,No
+CUST11825,46,Male,61,Month-to-Month,Mailed Check,Fiber Optic,Standard,70.43,4332.65,8,Yes
+CUST11826,26,Male,15,Month-to-Month,Credit Card,No Internet,Standard,103.0,1610.02,1,Yes
+CUST11827,20,Female,54,One Year,Bank Transfer,Fiber Optic,Premium,142.59,7786.03,6,Yes
+CUST11828,42,Male,27,Two Year,Credit Card,No Internet,Basic,47.54,1296.79,2,Yes
+CUST11829,51,Female,13,Month-to-Month,Mailed Check,No Internet,Premium,27.67,441.09,5,Yes
+CUST11830,29,Female,31,One Year,Mailed Check,No Internet,Basic,89.87,2867.25,2,No
+CUST11831,59,Female,35,Month-to-Month,Electronic Check,Fiber Optic,Basic,38.54,1407.59,9,No
+CUST11832,26,Female,60,Month-to-Month,Credit Card,Fiber Optic,Basic,44.35,2737.06,10,Yes
+CUST11833,32,Female,6,One Year,Electronic Check,Fiber Optic,Premium,135.9,833.59,10,Yes
+CUST11834,57,Male,69,Month-to-Month,Credit Card,DSL,Basic,20.96,1463.2,10,No
+CUST11835,42,Male,58,Month-to-Month,Electronic Check,DSL,Standard,126.19,7405.3,4,Yes
+CUST11836,22,Male,49,One Year,Bank Transfer,Fiber Optic,Standard,87.2,4322.61,1,No
+CUST11837,28,Female,23,Two Year,Electronic Check,Fiber Optic,Premium,92.71,2156.92,7,No
+CUST11838,51,Male,34,Month-to-Month,Credit Card,No Internet,Premium,107.33,3718.09,7,Yes
+CUST11839,41,Male,26,Month-to-Month,Bank Transfer,DSL,Standard,76.09,2067.53,6,No
+CUST11840,32,Female,47,Two Year,Electronic Check,DSL,Premium,35.03,1709.64,5,No
+CUST11841,55,Female,5,Two Year,Mailed Check,Fiber Optic,Standard,33.37,201.58,0,No
+CUST11842,25,Female,20,One Year,Bank Transfer,Fiber Optic,Premium,118.07,2409.72,7,Yes
+CUST11843,22,Female,6,Month-to-Month,Credit Card,DSL,Basic,48.73,367.61,0,Yes
+CUST11844,65,Male,70,Two Year,Credit Card,No Internet,Basic,23.65,1662.25,7,No
+CUST11845,43,Female,59,Month-to-Month,Electronic Check,Fiber Optic,Standard,147.35,8715.37,10,Yes
+CUST11846,35,Female,64,One Year,Bank Transfer,Fiber Optic,Standard,147.45,9483.06,1,No
+CUST11847,23,Male,18,Month-to-Month,Electronic Check,Fiber Optic,Standard,69.16,1305.3,7,No
+CUST11848,54,Male,4,One Year,Bank Transfer,Fiber Optic,Standard,23.32,127.2,9,No
+CUST11849,65,Female,17,Month-to-Month,Bank Transfer,Fiber Optic,Basic,114.54,1977.02,3,No
+CUST11850,30,Male,14,Month-to-Month,Electronic Check,Fiber Optic,Standard,128.03,1796.56,6,Yes
+CUST11851,45,Female,13,Month-to-Month,Mailed Check,DSL,Basic,36.25,474.51,4,No
+CUST11852,22,Female,7,Month-to-Month,Electronic Check,Fiber Optic,Premium,37.61,291.14,7,Yes
+CUST11853,30,Male,44,One Year,Mailed Check,DSL,Premium,126.89,5636.21,5,Yes
+CUST11854,34,Male,15,Two Year,Electronic Check,DSL,Premium,139.85,2153.39,4,No
+CUST11855,67,Female,19,Two Year,Credit Card,No Internet,Basic,122.8,2382.6,0,No
+CUST11856,57,Female,63,Month-to-Month,Electronic Check,Fiber Optic,Standard,46.1,2945.29,2,Yes
+CUST11857,62,Female,35,One Year,Bank Transfer,Fiber Optic,Premium,73.5,2597.73,9,No
+CUST11858,49,Male,35,One Year,Credit Card,Fiber Optic,Premium,98.11,3473.92,8,No
+CUST11859,46,Female,19,Month-to-Month,Electronic Check,No Internet,Standard,40.84,789.84,8,Yes
+CUST11860,68,Female,20,Month-to-Month,Credit Card,No Internet,Standard,47.38,959.13,4,No
+CUST11861,20,Female,35,One Year,Credit Card,Fiber Optic,Standard,56.78,2017.29,2,No
+CUST11862,57,Female,32,Two Year,Bank Transfer,DSL,Standard,86.24,2859.21,5,No
+CUST11863,51,Female,48,One Year,Mailed Check,DSL,Basic,86.4,4179.85,4,No
+CUST11864,57,Male,44,Month-to-Month,Credit Card,Fiber Optic,Standard,125.86,5631.49,0,No
+CUST11865,44,Female,24,Month-to-Month,Electronic Check,Fiber Optic,Premium,117.89,2868.59,1,Yes
+CUST11866,30,Female,61,Month-to-Month,Electronic Check,Fiber Optic,Standard,138.79,8510.09,4,No
+CUST11867,62,Female,17,One Year,Credit Card,Fiber Optic,Standard,128.28,2260.47,8,No
+CUST11868,50,Female,71,One Year,Credit Card,No Internet,Standard,53.0,3772.36,3,No
+CUST11869,23,Male,50,Month-to-Month,Electronic Check,Fiber Optic,Premium,63.07,3171.73,8,Yes
+CUST11870,41,Male,65,Two Year,Electronic Check,Fiber Optic,Standard,85.06,5626.28,2,Yes
+CUST11871,36,Male,32,Month-to-Month,Credit Card,DSL,Standard,21.86,750.11,0,No
+CUST11872,33,Female,36,Two Year,Mailed Check,DSL,Standard,137.51,4954.79,5,No
+CUST11873,57,Female,13,Month-to-Month,Electronic Check,DSL,Standard,25.76,339.62,9,No
+CUST11874,45,Male,70,Month-to-Month,Credit Card,Fiber Optic,Standard,61.92,4425.12,6,No
+CUST11875,50,Male,58,Month-to-Month,Bank Transfer,DSL,Standard,93.99,5538.76,3,No
+CUST11876,65,Male,14,Month-to-Month,Bank Transfer,Fiber Optic,Standard,87.32,1268.32,9,Yes
+CUST11877,58,Female,37,Month-to-Month,Electronic Check,Fiber Optic,Standard,105.08,3904.28,4,No
+CUST11878,30,Female,68,One Year,Credit Card,DSL,Basic,88.58,6106.47,3,No
+CUST11879,60,Male,40,One Year,Mailed Check,DSL,Basic,49.77,2023.26,2,Yes
+CUST11880,62,Male,59,One Year,Electronic Check,Fiber Optic,Basic,46.14,2764.17,0,No
+CUST11881,42,Male,16,Month-to-Month,Credit Card,Fiber Optic,Premium,137.94,2275.29,5,No
+CUST11882,70,Female,62,Month-to-Month,Electronic Check,Fiber Optic,Basic,54.32,3403.18,9,Yes
+CUST11883,59,Female,4,Month-to-Month,Electronic Check,Fiber Optic,Basic,56.53,288.99,4,Yes
+CUST11884,53,Female,45,One Year,Credit Card,Fiber Optic,Basic,73.68,3404.13,10,Yes
+CUST11885,44,Male,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,38.13,1147.38,0,No
+CUST11886,55,Male,66,Two Year,Electronic Check,Fiber Optic,Basic,85.95,5710.86,4,No
+CUST11887,24,Female,31,One Year,Credit Card,No Internet,Standard,106.45,3328.74,5,No
+CUST11888,22,Male,3,Month-to-Month,Credit Card,DSL,Basic,122.18,395.09,9,Yes
+CUST11889,60,Female,8,Month-to-Month,Credit Card,Fiber Optic,Premium,112.49,934.78,4,No
+CUST11890,62,Male,24,Month-to-Month,Bank Transfer,Fiber Optic,Premium,39.19,989.91,0,Yes
+CUST11891,68,Male,15,Month-to-Month,Electronic Check,DSL,Premium,79.29,1231.01,4,Yes
+CUST11892,48,Male,43,Two Year,Mailed Check,DSL,Standard,25.02,1089.16,9,No
+CUST11893,40,Male,31,Two Year,Credit Card,Fiber Optic,Standard,22.31,707.96,0,No
+CUST11894,59,Female,45,Month-to-Month,Credit Card,DSL,Standard,77.22,3509.19,10,Yes
+CUST11895,27,Male,66,One Year,Bank Transfer,DSL,Basic,52.88,3546.29,2,No
+CUST11896,49,Female,8,One Year,Electronic Check,No Internet,Standard,108.84,929.99,1,No
+CUST11897,60,Female,71,One Year,Electronic Check,Fiber Optic,Basic,114.15,8153.27,0,No
+CUST11898,70,Female,57,Month-to-Month,Bank Transfer,Fiber Optic,Standard,136.4,7848.68,3,Yes
+CUST11899,47,Male,30,Month-to-Month,Credit Card,Fiber Optic,Basic,118.89,3640.42,1,No
+CUST11900,56,Female,18,Month-to-Month,Mailed Check,No Internet,Standard,26.27,515.62,4,No
+CUST11901,48,Female,69,Two Year,Mailed Check,Fiber Optic,Standard,68.31,4725.83,9,Yes
+CUST11902,35,Female,39,Month-to-Month,Electronic Check,DSL,Standard,55.49,2217.13,0,No
+CUST11903,53,Male,60,Month-to-Month,Credit Card,No Internet,Premium,70.2,4250.15,9,No
+CUST11904,19,Male,43,Two Year,Credit Card,Fiber Optic,Standard,40.81,1768.62,0,No
+CUST11905,31,Female,45,One Year,Electronic Check,Fiber Optic,Standard,32.7,1569.68,10,No
+CUST11906,30,Male,23,Two Year,Bank Transfer,Fiber Optic,Standard,87.73,2054.77,9,Yes
+CUST11907,46,Female,69,Month-to-Month,Bank Transfer,Fiber Optic,Basic,113.65,7904.43,3,No
+CUST11908,29,Female,6,Month-to-Month,Credit Card,No Internet,Standard,111.25,716.51,6,Yes
+CUST11909,56,Male,56,Two Year,Electronic Check,DSL,Premium,78.62,4417.0,1,No
+CUST11910,19,Female,4,Month-to-Month,Electronic Check,No Internet,Premium,87.9,357.15,1,No
+CUST11911,49,Male,23,Month-to-Month,Electronic Check,No Internet,Standard,87.12,2066.34,0,No
+CUST11912,30,Male,6,Month-to-Month,Bank Transfer,Fiber Optic,Basic,109.9,684.1,4,No
+CUST11913,63,Female,32,Month-to-Month,Electronic Check,Fiber Optic,Basic,26.23,863.73,5,Yes
+CUST11914,44,Male,18,Month-to-Month,Bank Transfer,Fiber Optic,Standard,112.29,2116.92,5,No
+CUST11915,66,Male,15,Two Year,Bank Transfer,DSL,Premium,95.69,1481.53,1,No
+CUST11916,58,Female,40,Two Year,Bank Transfer,DSL,Standard,45.75,1832.94,6,No
+CUST11917,34,Female,6,Two Year,Credit Card,Fiber Optic,Premium,26.38,192.26,5,No
+CUST11918,57,Male,63,Month-to-Month,Bank Transfer,Fiber Optic,Standard,34.11,2207.38,7,No
+CUST11919,48,Male,67,Month-to-Month,Credit Card,DSL,Basic,88.21,5942.93,5,Yes
+CUST11920,51,Female,11,Month-to-Month,Bank Transfer,DSL,Basic,118.59,1307.18,8,Yes
+CUST11921,41,Male,43,Two Year,Credit Card,No Internet,Basic,63.51,2775.36,9,No
+CUST11922,62,Male,17,Month-to-Month,Credit Card,Fiber Optic,Standard,69.29,1188.52,1,No
+CUST11923,52,Male,4,One Year,Credit Card,No Internet,Basic,141.44,627.68,6,No
+CUST11924,65,Male,63,One Year,Electronic Check,DSL,Standard,47.69,3066.43,4,Yes
+CUST11925,23,Male,68,Month-to-Month,Credit Card,Fiber Optic,Standard,33.49,2281.1,0,No
+CUST11926,36,Male,41,Month-to-Month,Mailed Check,DSL,Basic,64.64,2679.31,2,No
+CUST11927,47,Male,5,Two Year,Electronic Check,Fiber Optic,Basic,116.97,626.22,3,Yes
+CUST11928,24,Female,32,Two Year,Electronic Check,Fiber Optic,Basic,101.39,3299.51,1,No
+CUST11929,27,Female,70,Month-to-Month,Electronic Check,DSL,Standard,74.05,5213.11,6,No
+CUST11930,58,Female,35,Month-to-Month,Credit Card,Fiber Optic,Standard,145.42,5118.47,0,Yes
+CUST11931,49,Female,22,Two Year,Electronic Check,Fiber Optic,Basic,115.55,2640.4,2,Yes
+CUST11932,51,Female,65,Month-to-Month,Credit Card,Fiber Optic,Premium,28.04,1826.79,8,Yes
+CUST11933,45,Male,22,Month-to-Month,Electronic Check,Fiber Optic,Standard,116.8,2668.5,10,Yes
+CUST11934,32,Male,11,Month-to-Month,Electronic Check,DSL,Standard,23.13,259.21,1,Yes
+CUST11935,47,Male,3,Month-to-Month,Bank Transfer,Fiber Optic,Standard,104.54,342.45,4,No
+CUST11936,54,Male,9,Month-to-Month,Electronic Check,No Internet,Premium,47.36,475.61,3,Yes
+CUST11937,46,Female,60,Month-to-Month,Mailed Check,No Internet,Standard,110.54,6646.73,2,Yes
+CUST11938,39,Male,14,Month-to-Month,Electronic Check,No Internet,Standard,60.27,857.26,4,No
+CUST11939,21,Male,18,Month-to-Month,Credit Card,Fiber Optic,Basic,133.49,2428.45,5,Yes
+CUST11940,37,Female,23,Two Year,Electronic Check,Fiber Optic,Standard,63.8,1564.75,0,No
+CUST11941,49,Male,47,Two Year,Electronic Check,Fiber Optic,Standard,100.56,4764.33,1,No
+CUST11942,53,Male,69,Two Year,Mailed Check,DSL,Standard,57.17,4001.33,0,No
+CUST11943,67,Female,47,One Year,Mailed Check,Fiber Optic,Premium,139.24,6614.71,2,Yes
+CUST11944,21,Male,30,Month-to-Month,Electronic Check,Fiber Optic,Premium,121.53,3720.12,7,No
+CUST11945,44,Male,25,Month-to-Month,Credit Card,DSL,Basic,51.63,1359.55,7,Yes
+CUST11946,34,Male,28,Two Year,Credit Card,DSL,Basic,143.34,4047.21,3,No
+CUST11947,29,Male,25,Month-to-Month,Electronic Check,Fiber Optic,Basic,66.43,1671.92,5,No
+CUST11948,39,Male,58,Month-to-Month,Electronic Check,DSL,Standard,104.74,6103.09,8,Yes
+CUST11949,34,Female,41,One Year,Mailed Check,DSL,Basic,116.57,4800.4,6,No
+CUST11950,27,Female,25,Month-to-Month,Mailed Check,Fiber Optic,Basic,22.98,588.13,1,No
+CUST11951,18,Female,48,Month-to-Month,Mailed Check,DSL,Basic,144.67,6946.61,10,No
+CUST11952,39,Female,10,Two Year,Bank Transfer,No Internet,Basic,64.78,741.37,1,No
+CUST11953,43,Female,11,Two Year,Bank Transfer,Fiber Optic,Basic,44.67,583.47,2,No
+CUST11954,35,Female,21,Month-to-Month,Electronic Check,Fiber Optic,Basic,130.59,2747.43,7,No
+CUST11955,67,Male,45,Two Year,Electronic Check,No Internet,Standard,111.38,5029.41,9,No
+CUST11956,31,Female,7,One Year,Electronic Check,Fiber Optic,Basic,31.28,232.91,8,Yes
+CUST11957,64,Female,64,One Year,Bank Transfer,Fiber Optic,Basic,35.22,2282.2,2,Yes
+CUST11958,46,Male,64,Month-to-Month,Bank Transfer,Fiber Optic,Premium,112.97,7250.49,8,No
+CUST11959,29,Male,2,Month-to-Month,Bank Transfer,Fiber Optic,Premium,29.72,154.03,9,Yes
+CUST11960,53,Female,42,One Year,Mailed Check,DSL,Basic,139.23,5856.08,7,No
+CUST11961,52,Male,54,Two Year,Mailed Check,Fiber Optic,Basic,116.4,6306.77,4,No
+CUST11962,69,Female,16,One Year,Mailed Check,Fiber Optic,Standard,63.61,1025.83,10,No
+CUST11963,29,Male,18,Month-to-Month,Electronic Check,Fiber Optic,Basic,67.18,1307.28,9,Yes
+CUST11964,24,Female,59,Month-to-Month,Bank Transfer,No Internet,Basic,85.84,5156.4,2,No
+CUST11965,46,Male,16,Two Year,Credit Card,Fiber Optic,Basic,66.93,1142.54,10,No
+CUST11966,28,Male,6,Month-to-Month,Electronic Check,Fiber Optic,Basic,121.85,773.7,6,Yes
+CUST11967,50,Female,57,Month-to-Month,Mailed Check,No Internet,Standard,146.72,8382.06,8,No
+CUST11968,23,Female,47,Month-to-Month,Mailed Check,DSL,Premium,95.99,4533.68,5,No
+CUST11969,64,Female,48,Month-to-Month,Electronic Check,Fiber Optic,Standard,77.98,3787.34,2,No
+CUST11970,32,Female,42,One Year,Electronic Check,Fiber Optic,Standard,48.96,2133.14,4,No
+CUST11971,49,Female,60,One Year,Bank Transfer,Fiber Optic,Standard,104.95,6323.47,6,Yes
+CUST11972,68,Male,4,Month-to-Month,Credit Card,DSL,Standard,109.12,467.56,7,Yes
+CUST11973,28,Female,2,Month-to-Month,Mailed Check,DSL,Standard,109.07,278.13,3,Yes
+CUST11974,40,Female,59,Two Year,Electronic Check,DSL,Basic,23.51,1410.86,1,Yes
+CUST11975,43,Male,27,Month-to-Month,Electronic Check,Fiber Optic,Standard,136.89,3754.45,9,Yes
+CUST11976,51,Male,27,Month-to-Month,Electronic Check,Fiber Optic,Premium,63.95,1765.36,1,No
+CUST11977,63,Female,72,Two Year,Electronic Check,No Internet,Basic,116.74,8408.72,2,No
+CUST11978,51,Male,7,Month-to-Month,Electronic Check,Fiber Optic,Premium,118.77,871.66,7,No
+CUST11979,46,Male,63,Two Year,Mailed Check,Fiber Optic,Standard,104.57,6679.86,0,No
+CUST11980,21,Female,46,Month-to-Month,Electronic Check,Fiber Optic,Standard,71.33,3310.49,6,No
+CUST11981,34,Male,63,One Year,Credit Card,Fiber Optic,Basic,99.09,6274.95,5,No
+CUST11982,52,Male,12,Month-to-Month,Electronic Check,Fiber Optic,Standard,25.23,309.35,1,Yes
+CUST11983,30,Female,13,Two Year,Electronic Check,Fiber Optic,Premium,119.05,1609.15,8,Yes
+CUST11984,58,Female,43,Month-to-Month,Bank Transfer,DSL,Standard,32.95,1501.77,4,No
+CUST11985,56,Male,17,Month-to-Month,Credit Card,Fiber Optic,Basic,71.58,1252.15,1,No
+CUST11986,32,Male,63,Two Year,Bank Transfer,Fiber Optic,Basic,33.47,2132.63,2,No
+CUST11987,46,Female,36,Month-to-Month,Credit Card,Fiber Optic,Standard,128.82,4733.18,6,No
+CUST11988,46,Male,8,Month-to-Month,Electronic Check,No Internet,Standard,91.54,806.83,6,Yes
+CUST11989,28,Male,69,Month-to-Month,Credit Card,Fiber Optic,Standard,109.82,7634.3,9,No
+CUST11990,69,Male,36,One Year,Electronic Check,DSL,Premium,108.74,3945.19,0,No
+CUST11991,49,Female,28,Month-to-Month,Bank Transfer,Fiber Optic,Standard,129.41,3645.56,9,No
+CUST11992,19,Male,47,Month-to-Month,Electronic Check,Fiber Optic,Standard,37.23,1821.38,10,No
+CUST11993,64,Male,30,One Year,Bank Transfer,DSL,Basic,105.76,3224.98,10,No
+CUST11994,31,Female,23,Month-to-Month,Electronic Check,DSL,Basic,94.77,2231.77,3,Yes
+CUST11995,37,Male,16,Two Year,Bank Transfer,Fiber Optic,Standard,24.02,391.69,5,No
+CUST11996,39,Male,14,Two Year,Mailed Check,No Internet,Premium,46.18,697.74,7,No
+CUST11997,28,Female,71,One Year,Credit Card,Fiber Optic,Standard,54.78,3971.65,2,No
+CUST11998,44,Female,52,Two Year,Credit Card,No Internet,Standard,29.43,1625.04,2,No
+CUST11999,20,Female,37,One Year,Mailed Check,Fiber Optic,Basic,66.11,2456.74,7,No
