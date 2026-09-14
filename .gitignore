@@ -1,2 +1,6 @@
-.ipynb_checkpoints/ 
-.virtual_documents/ 
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.pyc
+.env
+.DS_Store
