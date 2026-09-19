@@ -172,3 +172,11 @@ The analysis identifies customer segments with higher churn rates and highlights
 
 GitHub: https://github.com/osk25-xc
 
+
+
+\### Project Update
+
+Updated customer churn analysis documentation and insights.
+
+
+
