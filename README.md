@@ -1,45 +1,44 @@
-# Customer Churn Analysis | Python & Data Visualization
+# Customer Churn Analysis | Python
 
-A customer analytics project exploring churn patterns and the customer characteristics associated with leaving a service.
+A customer analytics project exploring churn patterns and customer characteristics that may be useful for retention analysis.
 
-## Business Objective
-Understand where churn is concentrated and identify customer groups that may deserve further investigation by a retention team.
+## Business objective
 
-## Questions Explored
-- What is the overall churn rate?
+Measure churn in the available customer dataset and compare churn rates across customer groups. The analysis is descriptive: associations do not prove that a feature causes churn.
+
+## Questions to investigate
+
+- What proportion of eligible customers churned?
 - How does churn vary by contract and payment method?
-- Is churn associated with tenure, monthly charges, or support calls?
-- Which customer segments appear to have elevated churn?
-- What retention questions should the business investigate next?
-
-## Tools
-Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
-## Analysis Workflow
-1. Inspect columns, data types, missing values, and duplicates.
-2. Review churn distribution and segment-level churn rates.
-3. Compare churn across contract, payment, tenure, service, and charge groups.
-4. Visualize patterns and translate them into follow-up business questions.
+- How is churn associated with tenure, monthly charges, or support calls?
+- Which segments may warrant further investigation?
 
 ## Dataset
-The repository describes a synthetic customer dataset created for learning and portfolio use. It should not be interpreted as real customer or company data.
 
-## Key Deliverables
-- Exploratory data analysis
-- Churn-rate comparisons
-- Segment-level visualizations
-- Business observations and potential retention recommendations
+The project includes a practice dataset workflow. The accompanying `DATA_DICTIONARY.md` describes the fields used by the generated dataset. Treat synthetic records as educational data, not real customer information.
 
-## Business Value
-The analysis illustrates how customer-level data can help teams prioritize questions for retention planning. Associations in the data do not by themselves establish causation, and recommendations should be validated before implementation.
+## Tools
 
-## Skills Demonstrated
-Data cleaning · Exploratory data analysis · Segmentation · Rate calculations · Visualization · Insight communication
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
-## How to Run
-1. Clone or download the repository.
-2. Install dependencies listed in `requirements.txt`, if available.
-3. Open the analysis notebook in Jupyter and update any dataset paths if needed.
+## Workflow
 
----
-Created by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
+1. Inspect schema, types, missing values, and duplicate customer IDs.
+2. Validate numeric ranges and category labels.
+3. Calculate overall and segment-level churn rates.
+4. Visualize comparisons and check group sizes.
+5. Summarize observations, caveats, and possible retention experiments.
+
+## Run
+
+Open the notebook in Jupyter and execute cells in order. Install the dependencies listed in `requirements.txt`, if present, and confirm dataset paths before running.
+
+## Outputs
+
+The notebook is the source of analysis outputs. Add screenshots and numeric conclusions only after reproducing them from the current dataset.
+
+## Skills demonstrated
+
+Data cleaning · Exploratory analysis · Segmentation · KPI calculations · Visualization · Business interpretation
+
+Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
